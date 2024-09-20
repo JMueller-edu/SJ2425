@@ -94,7 +94,7 @@ timeline
           Kompetenz <br> Optimieren von Computer
           : Die Lernenden können Computer optimieren, einschließlich der sicheren Entsorgung von elektronischem Abfall.
 ```
-#### Booten des Computers
+#### 3.1 Booten des Computers 20.09.24
 
 **Arbeitsauftrag:**
 
@@ -112,7 +112,7 @@ timeline
 
 6. Füge dem [Kahoot-Template](https://bsomichelstadtde-my.sharepoint.com/:x:/g/personal/jan_mueller_bso-michelstadt_de/ERRn9ekKVJtIl1kgHX1rb0wB2H1EFlfyvEqMYn9HBmosEA?e=B4VbaB) eine Quizzfrage pro Unterkapitel hinzu!
 
-#### Elektrische Leistung
+#### 3.2 Elektrische Leistung 20.09.24
 
 **Arbeitsauftrag:**
 
