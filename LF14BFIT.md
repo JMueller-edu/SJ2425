@@ -33,6 +33,9 @@ Sie wählen Hard- und Softwarekomponenten auftragsbezogen aus. Sie installieren 
 
 Die Schülerinnen und Schüler übergeben das System dem Kunden und präsentieren die Realisierung seiner Anforderungen.
 
+[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/JMueller-edu/SJ2425/refs/heads/main/LF14BFIT.md#1)
+
+https://tinyurl.com/25wtgg99
 
 ## 1. Halbjahr 24/25
 
