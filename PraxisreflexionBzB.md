@@ -13,7 +13,7 @@ language: Deutsch
 
 narrator: Deutsch Female
 
-comment:
+comment: https://liascript.github.io/course/?https://raw.githubusercontent.com/JMueller-edu/SJ2425/main/PraxisreflexionBzB.md#1
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
