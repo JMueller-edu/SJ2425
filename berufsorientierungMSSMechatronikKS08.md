@@ -47,7 +47,7 @@ timeline
           : Die Lernenden können Getrieben für mechatronische Systeme auswählen.
 
           Teilkompetenz Fahrzeugantriebe und Lenkungen
-          : S3 Fahrzeugantriebe (Fahrzeug 1 -4)
+          : S3 Fahrzeugantriebe (Fahrzeug 1 - 4)
           : S4 Bollerwagen
           : Die Lernenden können Antrieben und Lenkungen für mechatronische Systeme auswählen.
 
@@ -81,10 +81,51 @@ Schranken und Kräne verwenden dieses Getriebe, weil hier die sichere Sperrwirku
 
 #### Arbeitsauftrag
  
-1. Baue das Schrankenmodell nach !
+1. Baue das Schrankenmodell nach!
 2. Drehe die Schranke mit der Kurbel nach oben!
+3. Wie oft musst du die Kurbel drehen, um die Schranke in die Senkrechte zu bekommen?
+4. Versuche, die Schranke mit den Fingern nach unten zu zeihen. Was fällt dir auf?
+
+### S3 Fahrzeugantriebe
+
+**Rückblick Zahnradgetriebe**
+
+![Bild: Zahnradgetriebe](assets/zahnradgetriebe.png)
+
+Zahnräder gehören zu den ältesten und robustesten Maschinenelementen. Es gibt sie in verschiedenen Arten und Größen.
+
+Mit Zahnradgetrieben kann man Drehbewegungen übertragen und verändern.
+
+Ein Zahnradgetriebe kann:
+
+- eine Drehbewegung weiterleiten
+- eine Drehzahl ändern
+- eine Drehkraft erhöhen oder verringern
+- oder eine Drehrichtung ändern
+
+Eine ähnliche Funktion wie bei einem Zahnradgetriebe kennst du von deinem Fahrrad. Allerdings sind hier die
+Zahnräder durch Kettenräder und eine Kette ersetzt.
+
+**[Ausblick Schaltung am Fahrrad](https://www.leifiphysik.de/mechanik/einfache-maschinen/ausblick/schaltung-beim-fahrrad)**
+
+#### Arbeitsauftrag
+
+1. **Bereite die Kabel und Stecker wie folgt (Bauanleitung Seite 6) vor!**
+
+![Bild: Vorbereitung Kabel und Stecker](assets/vorbereitungKabelStecker.png)
+
+2. **Bereite das Akkupack wie folgt vor (Bauanleitung Seite 7) vor!**
+
+![Bild: Vorbereitung Akku](assets/vorbereitungAkku.png)
+
+3. **Bearbeite Seite 7 und 8 im Begleitheft!**
+
+![Bild: Begleitheft Seite 7](assets/begleitheftS7.png)
 
 
+![Bild: Begleitheft Seite 8](assets/begleitheftS8.png)
+
+***Beantworte die darin befindlichen Fragen schriftlich!***
 
 ## Statik
 
