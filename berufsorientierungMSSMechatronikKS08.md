@@ -29,7 +29,7 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 Die Lernenden **informieren** sich mittels Unterlagen und Dokumenten über den Ablauf und die Funktionsweise einfacher mechatronischer Systeme.
 
-Die Lernenden **planen** den Aufbau des einfachen mechat-ronischen Systems. Sie erarbeiten verschiedene einfache Arbeitsschritte zur Umsetzung des Aufbaus.
+Die Lernenden **planen** den Aufbau des einfachen mechatronischen Systems. Sie erarbeiten verschiedene einfache Arbeitsschritte zur Umsetzung des Aufbaus.
 
 Die Lernenden **entscheiden** anhand ihrer Planungen, die Auswahl verschiedener mechatronischer Komponenten und wählen die passenden Hilfsmittel zur Umsetzung aus.
 
@@ -126,6 +126,53 @@ Zahnräder durch Kettenräder und eine Kette ersetzt.
 ![Bild: Begleitheft Seite 8](assets/begleitheftS8.png)
 
 ***Beantworte die darin befindlichen Fragen schriftlich!***
+
+### S5 Balkenwage
+
+Um den Preis einer Ware zu bestimmen, hat man schon vor 4000 Jahren die Menge der Ware mit Gewichten
+verglichen. Das machte man mit Hilfe einer Balkenwaage, mit der die Balance von zwei Gewichtskräften gemessen
+wurde. Bei deinem Modell ist es ein im mittleren Drehpunkt gelagerter Balken, der an den Enden zwei
+Schalen trägt. Die beiden Zeiger in der Mitte des Waagbalkens müssen beim Gleichgewicht der Kräfte in einer
+Linie sein.
+
+![Bild Balkenwage](assets/Balkenwagen.png "Bild: Balkenwage")
+
+#### Arbeitsauftrag
+
+1. Baue die Balkenwaage nach.
+2. Lege auf beide Waagschalen je einen fischertechnik-Baustein. Stimmt deine Waage?
+3. Suche nun zwei Gegenstände, die deiner Meinung nach das gleiche Gewicht haben. Lege sie auf die Waagschalen. Stimmt deine Vermutung?
+
+Diese Waage funktioniert nach dem Prinzip der gleichlangen Hebel. Ein Hebel ist ein
+gerader, drehbar gelagerter Balken, auf den zwei Kräfte wirken. Die Abstände zwischen
+den Ansatzpunkten der Kräfte und dem Drehpunkt heißen Hebelarme. Beide Seiten
+neben dem Drehpunkt sind gleich lang und gleich schwer. Das Prinzip dieser Waage
+kennst du von einer Wippe. Damit die Hebel im Gleichgewicht sind, muss das Gewicht,
+das auf den Hebeln ruht, und ihr Abstand zum Drehpunkt der Waage gleich sein.
+
+### S6 Waage mit Laufgewicht
+
+Es braucht schon etwas Geduld, um zwei Gewichte zu finden, die genau gleich schwer sind. Eine Weiterentwicklung der Balkenwaage ist daher die Waage mit einem Laufgewicht. Auch diese Waage arbeitet nach dem Prinzip der gleich langen Hebel, nur wird hier mit den Drehmomenten getrickst. Die beiden Seiten neben dem Drehpunkt sind
+die Kraftarme. Je weiter außen ein Gewicht an einem Kraftarm hängt, desto höher ist seine Kraft. Mit Hilfe des Schiebers
+kann also das Drehmoment in einem Kraftarm geändert werden. Den Arm mit der Waagschale nennt man Lastarm.
+
+![Bild Waage mit Laufgewicht](assets/waage_mit_laufgewicht.png "Bild: Waage mit Laufgewicht")
+
+#### Arbeitsauftrag
+
+1. Baue die Waage mit Last- und Kraftarm und Laufgewicht nach.
+2. Reguliere das Laufgewicht so, dass die Waage unbelastet im Gleichgewicht ist. Der Zeiger in der Mitte der Waage hilft dir dabei.
+3. Belaste die Waagschale mit einem Gewicht. Gleiche mit dem Laufgewicht aus.
+
+Damit ein Hebel im Gleichgewicht ist, muss die Summe der linksdrehenden Drehmomente mit der Summe der rechtsdrehenden Drehmomente übereinstimmen. Das hört sich kompliziert an, doch so schwierig ist es gar nicht. Das Gesetz sagt aus, dass beide Arme, links und rechts des Drehpunkts, gleich schwer, aber nicht gleich lang sein müssen. Je weiter ein Gewicht vom Drehpunkt entfernt ist, desto größer ist die Kraft des Hebels und somit auch sein Gewicht.
+
+### S7 Seilrollen-Flaschenzug
+
+Stell dir vor, du möchtest deinen Freund an einem Seil nach oben ziehen. Obwohl er genauso schwer ist wie du, schaffst du es nur mit enormem Kraftaufwand. Die Seilrolle an der Decke hilft dir nur beim Halten, nicht beim Heben. Das Flaschenzugmodell stellt dir aber einige Möglichkeiten vor, wie du es ganz leicht schaffst, auch schwere Lasten zu heben.
+
+![Bild Seilrollen-Flaschenzug](assets/seilrollen-flaschenzug.png "Bild: Seilrollen-Flaschenzug")
+
+#### Arbeitsauftrag
 
 ## Statik
 
