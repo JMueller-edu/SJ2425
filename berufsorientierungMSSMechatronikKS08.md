@@ -13,7 +13,7 @@ language: Deutsch
 
 narrator: Deutsch Female
 
-comment: 
+comment: https://liascript.github.io/course/?https://raw.githubusercontent.com/JMueller-edu/SJ2425/refs/heads/main/berufsorientierungMSSMechatronikKS08.md#1
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -472,6 +472,51 @@ Stell dir vor, du möchtest deinen Freund an einem Seil nach oben ziehen. Obwohl
 
 **Arbeitsauftrag**
 
-
 ## Programmierung
 
+```@mermaid
+timeline
+          Teilkompetenz
+          : S1 
+          : S2 
+          : Die Lernenden 
+
+          Teilkompetenz 
+          : S3 
+          : S4 
+          : Die Lernenden 
+
+          Kompetenz <br> Programmierung
+          : Die Lernenden 
+```
+
+### S1 Station 1
+
+**Vorbereitung**
+
+1. Schaue dir das Erklärvideo zu den ersten Schritten in der Roboterumgebung an.
+        
+        !?[Erklärvideo Erste Schritte in der Roboterumgebung von Fischertechnik](https://youtu.be/Bwz9sDOE8J8?feature=shared "Erklärvideo Erste Schritte in der Roboterumgebung von Fischertechnik")
+
+
+2. Schließe nun, wie im Film gezeigt, den Motor am Interface an den Interfaceausgang M1 an und den Taster an I1 an.
+   Die Bedienungsanleitung zum TXT-Controller findest du [hier](https://www.bing.com/ck/a?!&&p=108604b1067f7e4a87d390b0b7a7d9ddf43bad93c16475c391c8f0528679759cJmltdHM9MTcyOTgxNDQwMA&ptn=3&ver=2&hsh=4&fclid=2bed1191-aa52-6af2-1d74-025cabf86b9f&psq=fischertechnik+robotics+txt+bedienungsanleitung&u=a1aHR0cHM6Ly93d3cuZmlzY2hlcnRlY2huaWsuZGUvLS9tZWRpYS9maXNjaGVydGVjaG5pay9maXRlL3NlcnZpY2UvZWxlYXJuaW5nL3NwaWVsZW4vc21hcnR0ZWNoL3R4dC1jb250cm9sbGVyX2RlLnBkZg&ntb=1).
+
+   ![Abbildung Aufbau Station 1](assets/aufbauStation2.png "Abbildung Aufbau Station 1")
+
+3. Öffne die Programmiersoftware RoboPro und teste ob du den Motor und den Taster richtig angeschlossen hast. Hilfe erhältst du in der Programmhilfe.
+
+#### Aufgaben
+
+1. Programmiere den Motor M1 so, dass er sich zunächst nach Betätigen des Taster an I1 5 Sekunden nach links dreht.
+2. Nun soll sich der Motor 5 Sekunden nach rechts drehen.
+3. Schließe einen weiteren Taster 2 an I2 an. Jetzt soll der Motor M1 nach Betätigung von Taster 1 starten und durch die Betätigung von T2 stoppen.
+4. Tausche den Motor M1 mir einer Lampe aus und verändere das Programmicon so, dass du über den Taster 1 das Licht anschaltest und über den Taster 2 ausschaltest.
+5. Baue nun eine Endlosschleife ein, indem du das Programmicon Ende auf der Programmierung entfernst
+
+
+### S2 Station 2
+
+### S3 Station 3
+
+### S4 Station 4

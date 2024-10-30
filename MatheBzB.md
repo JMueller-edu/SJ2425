@@ -19,6 +19,8 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
+script:   https://cdnjs.cloudflare.com/ajax/libs/mathjs/13.2.0/math.min.js
+
 import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
 
 -->
@@ -546,6 +548,70 @@ timeline
    - Verwende pro Ziffer jeweils ein Karokästchen.
 
     - !?[Beispielvideo von MathemaTrick zu Textaufgaben Bruchrechnen](https://youtu.be/a3t9xi8_hCA?feature=shared "[Beispielvideo von MathemaTrick zu Textaufgaben Bruchrechnen](https://youtu.be/a3t9xi8_hCA?feature=shared)")
+
+### Übungsklausur
+
+``` ascii
+1. Bringe die Brüche auf einen gemeinsamen Nenner, 
+indem du den zweiten Bruch passend erweiterst. 
+Subtrahiere anschließend die Brüche und kürze soweit wie möglich.
+
+55    5     55  " [[ 35 ]] "" [[ 20 ]] "" [[ 20 ]] "
+-- - --  =  -- - -----   =   -----   =   -----
+77   11     77  " [[ 77 ]] "" [[ 77 ]] "" [[ 77 ]] "
+
+
+34   2      34  " [[  4 ]] "" [[ 30 ]] "" [[ 15 ]] "
+-- - -   =  -- - -----   =   -----   =   -----
+ 8   4       8  " [[  8 ]] "" [[  8 ]] "" [[  4 ]] "
+
+
+27   4      27  " [[ 12 ]] "" [[ 15 ]] "" [[  5 ]] "
+-- - -   =  -- - -----   =   -----   =   -----
+21   7      21  " [[ 21 ]] "" [[ 21 ]] "" [[  7 ]] "
+
+
+2. Bringe die Brüche auf einen gemeinsamen Nenner, 
+addiere die Brüche und kürze soweit wie möglich.
+
+5   2     " [[ 40 ]] "" [[ 14 ]] "" [[ 54 ]] "" [[ 27 ]] "
+- + -  =   -----   +   -----   =   -----   =   -----
+7   8     " [[ 56 ]] "" [[ 56 ]] "" [[ 56 ]] "" [[ 28 ]] "
+
+
+8   2     " [[ 32 ]] "" [[  6 ]] "" [[ 38 ]] "" [[ 19 ]] "
+- + -  =   -----   +   -----   =   -----   =   -----
+6   8     " [[ 24 ]] "" [[ 24 ]] "" [[ 24 ]] "" [[ 12 ]] "
+
+
+6   3     " [[  6 ]] "" [[  3 ]] "" [[  9 ]] "" [[  9 ]] "
+- + -  =   -----   +   -----   =   -----   =   -----
+5   5     " [[  5 ]] "" [[  5 ]] "" [[  5 ]] "" [[  5 ]] "
+```
+
+<script style="display: block" modify="false">
+// Generate two random numbers between 1 and 10
+var z1 = Math.floor(Math.random() * (10 - 1) + 1);
+var n1 = Math.floor(Math.random() * (10 - 2) + 2);
+var z2 = Math.floor(Math.random() * (10 - 1) + 1);
+var n2 = Math.floor(Math.random() * (10 - 2) + 2);
+var nNeu = math.lcm(n1, n2);
+var z11 = z1 * nNeu / n1;
+var z12 = z2 * nNeu / n2;
+var zSumme = z11 + z12;
+var zKurz = zSumme / math.gcd(zSumme, nNeu);
+var nKurz = nNeu / math.gcd(zSumme, nNeu);
+
+`LIASCRIPT: 
+__ $\\frac{${z1}}{${n1}}+\\frac{${z2}}{${n2}} =$ __
+__ $\\frac{ "[[ ${zKurz} ]]" }{ "[[ ${nKurz} ]]" }$ __
+ `
+</script>
+
+<script style="display: block" modify="false">
+
+math.add(math.fraction('2/5'), math.fraction('1/10'));
+</script>
 
 
 ## Größen
