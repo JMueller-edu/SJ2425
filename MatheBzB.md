@@ -551,7 +551,15 @@ timeline
 
 ### Übungsklausur
 
-??[Übungsklausur Brüche BzB](https://acrobat.adobe.com/id/urn:aaid:sc:EU:15cbe9ab-c3c4-46c2-a1cc-bf92d5047ce3 "Übungsklausur Brüche BzB")
+**Arbeitsauftrag**
+
+1. Bearbeite die folgende Klausur:
+
+    ***Nimm dir dafür maximal 45 Minuten Zeit und verwende keine Hilfsmittel***
+
+    ??[Übungsklausur Brüche BzB](https://acrobat.adobe.com/id/urn:aaid:sc:EU:15cbe9ab-c3c4-46c2-a1cc-bf92d5047ce3 "Übungsklausur Brüche BzB")
+
+2. Kontrolliere deine Klausur mit Hilfe dieses [Lösers](https://acrobat.adobe.com/id/urn:aaid:sc:EU:ef080e46-661b-4dba-8b23-28efa08865ef).
 
 ## Größen
 
