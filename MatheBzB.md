@@ -551,7 +551,7 @@ timeline
 
 ### Übungsklausur
 
-??[Übungsklausur](assets/uebungsklausurBruecheBzB.pdf)
+??[Übungsklausur Brüche BzB](https://acrobat.adobe.com/id/urn:aaid:sc:EU:15cbe9ab-c3c4-46c2-a1cc-bf92d5047ce3 "Übungsklausur Brüche BzB")
 
 ## Größen
 
