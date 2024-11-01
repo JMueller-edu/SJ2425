@@ -36,8 +36,6 @@ Die Schülerinnen und Schüler übergeben das System dem Kunden und präsentiere
 
 [qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/JMueller-edu/SJ2425/refs/heads/main/LF14BFIT.md#1)
 
-https://raw.githubusercontent.com/JMueller-edu/SJ2425/refs/heads/main/LF14BFIT.md
-
 https://tinyurl.com/25wtgg99
 
 ## 1. Halbjahr 24/25
