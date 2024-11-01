@@ -84,7 +84,7 @@ timeline
           : S3 Erweiterte Computerfunktionalität kennen lernen
           : Die Lernenden können die CPU-Architektur erläutern, kennen verschiedene RAID Systeme und können verschiedene Anschlüsse benennen. Darüber hinaus kennen Sie unterschiedliche Monitoreigenschaften.
               
-          Teilkompetenz Computer Upgrade
+          Teilkompetenz Computer Konfigurieren
           : W4 Komponenten zum Aufrüsten eines Computers
           : S4 Auswahl von Komponenten, um einen Computer nach Anforderung zu aktualisieren.
           : Die Lernenden können Komponenten hinsichtlich unterschiedlicher Anforderung zur Aktualisierung eines Computers auswählen.
@@ -97,7 +97,7 @@ timeline
           Kompetenz <br> Optimieren von Computer
           : Die Lernenden können Computer optimieren, einschließlich der sicheren Entsorgung von elektronischem Abfall.
 ```
-#### 3.1 Booten des Computers 20.09.24
+#### S1 3.1 Booten des Computers
 
 **Arbeitsauftrag:**
 
@@ -115,7 +115,7 @@ timeline
 
 6. Füge dem [Kahoot-Template](https://bsomichelstadtde-my.sharepoint.com/:x:/g/personal/jan_mueller_bso-michelstadt_de/ERRn9ekKVJtIl1kgHX1rb0wB2H1EFlfyvEqMYn9HBmosEA?e=B4VbaB) eine Quizzfrage pro Unterkapitel hinzu!
 
-#### 3.2 Elektrische Leistung 20.09.24
+#### S2 3.2 Elektrische Leistung
 
 **Arbeitsauftrag:**
 
@@ -133,8 +133,106 @@ timeline
 
 6. Füge dem [Kahoot-Template](https://bsomichelstadtde-my.sharepoint.com/:x:/g/personal/jan_mueller_bso-michelstadt_de/ERRn9ekKVJtIl1kgHX1rb0wB2H1EFlfyvEqMYn9HBmosEA?e=B4VbaB) eine Quizzfrage pro Unterkapitel hinzu!
 
-### 4.0 Introduction - Preventive Maintenance and Troubleshooting
+#### S3 3.3 Erweiterte Computerfunktionalität
 
+**Arbeitsauftrag:**
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 3: Advanced Computer Hardware` aus.
+   
+5. Bearbeite das Unterkapitel `3.3`!
+
+     - *Die Laborübungen brauchst du nicht zu absolvieren.*
+
+#### S4 3.4 Computer Konfigurieren
+
+**Arbeitsauftrag:**
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 3: Advanced Computer Hardware` aus.
+   
+5. Bearbeite das Unterkapitel `3.4`!
+
+     - *Die Laborübungen brauchst du nicht zu absolvieren.*
+
+#### S5 3.5 Umweltschutz in der IT
+
+**Arbeitsauftrag:**
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 3: Advanced Computer Hardware` aus.
+   
+5. Bearbeite das Unterkapitel `3.5`!
+
+     - *Die Laborübungen brauchst du nicht zu absolvieren.*
+
+#### Zusammenfassung und Test
+
+**Arbeitsauftrag:**
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 3: Advanced Computer Hardware` aus.
+   
+5. Bearbeite das Unterkapitel `3.6` und `3.7`
+     *Notiere dir dabei für dich noch offene Fragen* 
+
+6. Stelle hier eine deiner Fragen!
+
+     [[___]]
+
+
+### Präventive Maßnahmen und Fehlerbehebung
+
+```@mermaid
+timeline
+          Teilkompetenz Booten eines Computers
+          : W1 BIOS and UEFI Settings
+          : S1 Konfigurieren von BIOS and UEFI Settings
+          : Die Lernenden können die Begriffe POST, BIOS, CMOS and UEFI beschreiben und die Firmenware eines Computers konfigurieren.
+          
+          Teilkompetenz Elektrische Leistung
+          : W2 Elektrische Leistung
+          : S2 Elektrischen Leistung verstehen
+          : Die Lernenden können die Begriffe Leistung und Spannung erläutern. Sie kennen Stromschwankungen und Geräte, die vor Schäden durch diese schützen.
+
+          Teilkompetenz Erweiterte Computerfunktionalität
+          : W3 Erweiterte Computerfunktionalität
+          : S3 Erweiterte Computerfunktionalität kennen lernen
+          : Die Lernenden können die CPU-Architektur erläutern, kennen verschiedene RAID Systeme und können verschiedene Anschlüsse benennen. Darüber hinaus kennen Sie unterschiedliche Monitoreigenschaften.
+              
+          Teilkompetenz Computer Konfigurieren
+          : W4 Komponenten zum Aufrüsten eines Computers
+          : S4 Auswahl von Komponenten, um einen Computer nach Anforderung zu aktualisieren.
+          : Die Lernenden können Komponenten hinsichtlich unterschiedlicher Anforderung zur Aktualisierung eines Computers auswählen.
+
+          Teilkompetenz Umweltschutz
+          : W5 Umweltschutz in der IT
+          : S5 Sichere Entsorgungsmethoden zum Schutz der Umwelt
+          : Die Lernenden kennen sichere Entsorgungsmethoden.
+
+          Kompetenz <br> Optimieren von Computer
+          : Die Lernenden können Computer optimieren, einschließlich der sicheren Entsorgung von elektronischem Abfall.
+```
 
 ### 7.0 Introduction - Characteristics of Laptops and Other Mobile Devices 
 
