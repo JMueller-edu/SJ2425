@@ -182,7 +182,11 @@ timeline
 
      - *Die Laborübungen brauchst du nicht zu absolvieren.*
 
-#### Zusammenfassung und Test
+6. Stelle in der [FAQ](#faq) mindestens einer deiner Fragen!
+
+7. Versuche eine Frage in den [FAQ](#faq) zu beantworten. 
+
+#### S6 3.6 + 3.7 Zusammenfassung und Test
 
 **Arbeitsauftrag:**
 
@@ -195,13 +199,14 @@ timeline
 4. Wähle in der Kapitelübersicht das `Modul 3: Advanced Computer Hardware` aus.
    
 5. Bearbeite das Unterkapitel `3.6` und `3.7`
+
      *Notiere dir dabei für dich noch offene Fragen* 
 
-6. Stelle in der [FAQs](https://liascript.github.io/LiveEditor/?/edit/WWGAhndbz79Xsj5J6vFmSCEq/webrtc) mindestens einer deiner Fragen!
+6. Stelle in der [FAQ](#faq) mindestens einer deiner Fragen!
 
-7. Versuche eine Frage in den [FAQs](https://liascript.github.io/LiveEditor/?/edit/WWGAhndbz79Xsj5J6vFmSCEq/webrtc) zu beantworten. 
+7. Versuche eine Frage in den [FAQ](#faq) zu beantworten. 
 
-??[FAQs](https://liascript.github.io/LiveEditor/?/edit/WWGAhndbz79Xsj5J6vFmSCEq/webrtc)
+
 
 ### Präventive Maßnahmen und Fehlerbehebung
 
@@ -239,3 +244,7 @@ timeline
 ### 7.0 Introduction - Characteristics of Laptops and Other Mobile Devices 
 
 ## 2. Halbjahr Rasberry-Pi 400
+
+## FAQ
+
+??[FAQs](https://liascript.github.io/LiveEditor/?/edit/WWGAhndbz79Xsj5J6vFmSCEq/webrtc)
