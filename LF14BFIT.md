@@ -197,10 +197,11 @@ timeline
 5. Bearbeite das Unterkapitel `3.6` und `3.7`
      *Notiere dir dabei für dich noch offene Fragen* 
 
-6. Stelle hier eine deiner Fragen!
+6. Stelle in der [FAQs](https://liascript.github.io/LiveEditor/?/edit/WWGAhndbz79Xsj5J6vFmSCEq/webrtc) mindestens einer deiner Fragen!
 
-     [[___]]
+7. Versuche eine Frage in den [FAQs](https://liascript.github.io/LiveEditor/?/edit/WWGAhndbz79Xsj5J6vFmSCEq/webrtc) zu beantworten. 
 
+??[FAQs](https://liascript.github.io/LiveEditor/?/edit/WWGAhndbz79Xsj5J6vFmSCEq/webrtc)
 
 ### Präventive Maßnahmen und Fehlerbehebung
 
