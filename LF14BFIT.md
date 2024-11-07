@@ -182,10 +182,6 @@ timeline
 
      - *Die Laborübungen brauchst du nicht zu absolvieren.*
 
-6. Stelle in der [FAQ](#faq) mindestens einer deiner Fragen!
-
-7. Versuche eine Frage in den [FAQ](#faq) zu beantworten. 
-
 #### S6 3.6 + 3.7 Zusammenfassung und Test
 
 **Arbeitsauftrag:**
@@ -198,53 +194,90 @@ timeline
    
 4. Wähle in der Kapitelübersicht das `Modul 3: Advanced Computer Hardware` aus.
    
-5. Bearbeite das Unterkapitel `3.6` und `3.7`
+5. Bearbeite das Unterkapitel `3.6`
+   
+6. Öffne das Modul Examen `3.7` und führe es durch!
 
-     *Notiere dir dabei für dich noch offene Fragen* 
-
-6. Stelle in der [FAQ](#faq) mindestens einer deiner Fragen!
-
-7. Versuche eine Frage in den [FAQ](#faq) zu beantworten. 
-
+- ***dein erster Versuch wird bewertet.***
+- *Zum Anschließenden Üben kannst du beliebig viele weiteren Versuche durchführen.*
 
 
 ### Präventive Maßnahmen und Fehlerbehebung
 
 ```@mermaid
 timeline
-          Teilkompetenz Booten eines Computers
-          : W1 BIOS and UEFI Settings
-          : S1 Konfigurieren von BIOS and UEFI Settings
-          : Die Lernenden können die Begriffe POST, BIOS, CMOS and UEFI beschreiben und die Firmenware eines Computers konfigurieren.
+          Teilkompetenz Präventive Maßnahmen
+          : W1 Warum sind präventive Maßnahmen notwendig
+          : S1 präventive Maßnahmen kennenlernen
+          : Die Lernenden wissen warum präventive Maßnahmen notwendig sind und  kennen diese.
           
-          Teilkompetenz Elektrische Leistung
-          : W2 Elektrische Leistung
-          : S2 Elektrischen Leistung verstehen
-          : Die Lernenden können die Begriffe Leistung und Spannung erläutern. Sie kennen Stromschwankungen und Geräte, die vor Schäden durch diese schützen.
+          Teilkompetenz Prozess der Fehlerbehebung
+          : W2 Fehlerbehebungsmaßnahmen kennenlernen
+          : S2 Fehlerbehebungsmaßnahmen kennen
+          : Die Lernenden kennen Fehlerbehebungsmaßnahmen für PCs und deren Perepherie.
 
-          Teilkompetenz Erweiterte Computerfunktionalität
-          : W3 Erweiterte Computerfunktionalität
-          : S3 Erweiterte Computerfunktionalität kennen lernen
-          : Die Lernenden können die CPU-Architektur erläutern, kennen verschiedene RAID Systeme und können verschiedene Anschlüsse benennen. Darüber hinaus kennen Sie unterschiedliche Monitoreigenschaften.
-              
-          Teilkompetenz Computer Konfigurieren
-          : W4 Komponenten zum Aufrüsten eines Computers
-          : S4 Auswahl von Komponenten, um einen Computer nach Anforderung zu aktualisieren.
-          : Die Lernenden können Komponenten hinsichtlich unterschiedlicher Anforderung zur Aktualisierung eines Computers auswählen.
-
-          Teilkompetenz Umweltschutz
-          : W5 Umweltschutz in der IT
-          : S5 Sichere Entsorgungsmethoden zum Schutz der Umwelt
-          : Die Lernenden kennen sichere Entsorgungsmethoden.
-
-          Kompetenz <br> Optimieren von Computer
-          : Die Lernenden können Computer optimieren, einschließlich der sicheren Entsorgung von elektronischem Abfall.
+          Kompetenz <br> Fehlerbehebung an Personalcomputern durchführen.
+          : Die Lernenden können Fehler in Computersysteme beheben und verhindern.
 ```
+
+#### S1 4.0 + 4.1 Präventive Maßnahmen
+
+**Arbeitsauftrag:**
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 4: Preventive Maintenance and Troubleshooting` aus.
+   
+5. Bearbeite das Unterkapitel `4.0` und `4.1`
+
+     ***Notiere dir dabei Wichtiges und halte für dich noch offene Fragen fest.*** 
+
+6. Beantworte dir deine noch offenen Fragen mit Hilfe von Recherchen schriftlich.
+
+7. Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `08.11.2024` ein.
+
+
+#### S2 4.2 + 4.3 Prozess der Fehlerbehebung
+
+**Arbeitsauftrag:**
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 4: Preventive Maintenance and Troubleshooting` aus.
+   
+5. Bearbeite das Unterkapitel `4.2` und `4.3`
+
+     ***Notiere dir dabei Wichtiges und halte für dich noch offene Fragen fest.*** 
+
+6. Beantworte dir deine noch offenen Fragen mit Hilfe von Recherchen schriftlich.
+
+7. Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `15.11.2024` ein.
+
+#### Kompetenztest
+
+**Arbeitsauftrag:**
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 4: Preventive Maintenance and Troubleshooting` aus.
+   
+5. Öffne das Module Examen `4.4` und führe es durch!
+
+- ***dein erster Versuch wird bewertet.***
+- *Zum Anschließenden Üben kannst du beliebig viele weiteren Versuche durchführen.*
 
 ### 7.0 Introduction - Characteristics of Laptops and Other Mobile Devices 
 
 ## 2. Halbjahr Rasberry-Pi 400
-
-## FAQ
-
-??[FAQs](https://liascript.github.io/LiveEditor/?/edit/WWGAhndbz79Xsj5J6vFmSCEq/webrtc)
