@@ -14,7 +14,7 @@ language: Deutsch
 narrator: Deutsch Female
 
 
-comment: https://liascript.github.io/course/?https://raw.githubusercontent.com/JMueller-edu/SJ2425/refs/heads/main/LF14BFIT.md#9
+comment: https://liascript.github.io/course/?https://raw.githubusercontent.com/JMueller-edu/SJ2425/refs/heads/main/LF14BFIT.md#1
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -238,7 +238,19 @@ timeline
 
 6. Beantworte dir deine noch offenen Fragen mit Hilfe von Recherchen schriftlich.
 
-7. Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `15.11.2024` ein.
+7. Teile hier einer deiner Fragen welche du nicht befriedigend beantworten kannst.
+   
+   a) Öffne dazu im Arbeitsauftrag das Menü `Share` und tritt folgendem `Classroom` bei:
+   
+      - Backend = GUN
+   
+      - room = LF1420241115
+
+    b) Schreibe deine Frage in folgendes Textfeld:
+
+        [[___ ___]]
+
+8.  Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `15.11.2024` ein.
 
 
 #### S2 4.2 + 4.3 Prozess der Fehlerbehebung
