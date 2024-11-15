@@ -238,7 +238,9 @@ timeline
 
 6. Beantworte dir deine noch offenen Fragen mit Hilfe von Recherchen schriftlich.
 
-7. Teile hier einer deiner Fragen welche du nicht befriedigend beantworten kannst.
+7.  Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `15.11.2024` ein.
+
+8. Teile hier während der Schulstunde einer deiner Fragen.
    
    a) Öffne dazu im Arbeitsauftrag das Menü `Share` und tritt folgendem `Classroom` bei:
    
@@ -248,10 +250,7 @@ timeline
 
     b) Schreibe deine Frage in folgendes Textfeld:
 
-        [[___ ___]]
-
-8.  Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `15.11.2024` ein.
-
+        [[___ ___]]  
 
 #### S2 4.2 + 4.3 Prozess der Fehlerbehebung
 
