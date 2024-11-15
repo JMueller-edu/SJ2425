@@ -238,7 +238,7 @@ timeline
 
 6. Beantworte dir deine noch offenen Fragen mit Hilfe von Recherchen schriftlich.
 
-7. Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `08.11.2024` ein.
+7. Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `15.11.2024` ein.
 
 
 #### S2 4.2 + 4.3 Prozess der Fehlerbehebung
