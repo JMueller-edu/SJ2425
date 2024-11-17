@@ -252,6 +252,36 @@ timeline
 
         [[___ ___]]  
 
+##### Offene Fragen
+
+**Wie fördert vorbeugende Wartung die Stabilität eines IT-Systems?**
+
+Durch die Wartung wird zum Beispiel eine Ansammlung von Staub, Feuchtigkeit und anderen Fremdkörpern auf der empfindlichen Elektronik vermieden. Durch einen rechtzeitigen Tausch von Komponenten mit bestimmter Lebensdauer kann ein Ausfall verhindert werden.
+
+**Warum sollte Staub im Computerinneren vermieden werden?**
+
+Der Staub kann Lüfter blockieren und Luftzugänge verschließen, was zu einem Wärmestau führen kann.
+Welcher wieder herum den Staub entzünden könnte.
+Kleine Fremdkörper wie Staub können Schnittstellen Kontakte außer Funktion setzten.
+
+**Wie wirkt sich Überhitzung auf die Lebensdauer eines Computers aus?**
+
+Zu hohe Hitze kann die Hardwarestrukturen verändern und damit schädigen.
+
+**Welche Risiken bestehen bei der Verwendung von Druckluft für die Reinigung?**
+
+Der hohe Druck könnte Bauelemente lösen.
+Die Druckluft kann die Lüfterlager durch überhöhte Drehzahl beschädigen. 
+
+**Wie sieht eine Wartung aus?**
+**Was wird da gemacht und wie bezieht sich das auf die Aufmerksamkeit?**
+
+**Welche Vor- und Nachteile hat die kabellose Verbindung gegenüber der kabelgebundenen Verbindung in einem Netzwerk, besonders im Hinblick auf Geschwindigkeit, Sicherheit und Flexibilität?**
+
+**Wieso sollte man seine Lüfter beim (aus)blasen festhalten?**
+
+**In welchen regelmäßigen Abständen sollte ich meinen PC reinigen?**
+
 #### S2 4.2 + 4.3 Prozess der Fehlerbehebung
 
 **Arbeitsauftrag:**

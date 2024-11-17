@@ -13,7 +13,7 @@ language: Deutsch
 
 narrator: Deutsch Female
 
-comment: https://liascript.github.io/course/?https://raw.githubusercontent.com/JMueller-edu/SJ2425/refs/heads/main/berufsorientierungMSSMechatronikKS08.md#1
+comment: https://tinyurl.com/mssmechatronik08
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -25,15 +25,15 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 # Mittelstufenschule Themenfeld zur beruflichen Orientierung im Schwerpunkt Mechatronik.
 
-Die Lernenden **informieren** sich mittels Unterlagen und Dokumenten über den Ablauf und die Funktionsweise einfacher mechatronischer Systeme.
+>Die Lernenden **informieren** sich mittels Unterlagen und Dokumenten über den Ablauf und die Funktionsweise einfacher mechatronischer Systeme.
 
-Die Lernenden **planen** den Aufbau des einfachen mechatronischen Systems. Sie erarbeiten verschiedene einfache Arbeitsschritte zur Umsetzung des Aufbaus.
+>Die Lernenden **planen** den Aufbau des einfachen mechatronischen Systems. Sie erarbeiten verschiedene einfache Arbeitsschritte zur Umsetzung des Aufbaus.
 
-Die Lernenden **entscheiden** anhand ihrer Planungen, die Auswahl verschiedener mechatronischer Komponenten und wählen die passenden Hilfsmittel zur Umsetzung aus.
+>Die Lernenden **entscheiden** anhand ihrer Planungen, die Auswahl verschiedener mechatronischer Komponenten und wählen die passenden Hilfsmittel zur Umsetzung aus.
 
-Die Lernenden **setzen** den geplanten Aufbau mithilfe der gewählten Hilfsmittel um und nutzen eine geeignete einfache Programmierung ein, um das mechatronische System in Betrieb zu nehmen.
+>Die Lernenden **setzen** den geplanten Aufbau mithilfe der gewählten Hilfsmittel um und nutzen eine geeignete einfache Programmierung ein, um das mechatronische System in Betrieb zu nehmen.
 
-Die Lernenden **kontrollieren und bewerten** anhand der Funktionsweise, ob das mechatronische System die zugrundeliegenden Anforderungen erfüllt und korrigieren und optimieren auftretende Fehler und stellen ihre Arbeitsergebnisse vor.
+>Die Lernenden **kontrollieren und bewerten** anhand der Funktionsweise, ob das mechatronische System die zugrundeliegenden Anforderungen erfüllt und korrigieren und optimieren auftretende Fehler und stellen ihre Arbeitsergebnisse vor.
 
 ## Lehrmittel
 
@@ -41,12 +41,18 @@ Die Lernenden **kontrollieren und bewerten** anhand der Funktionsweise, ob das m
 
 ![alt text](image.png)
 
-Dieser Lernbaukasten ist ideal für künftige Maschinenbauer, Techniker oder Ingenieure: Wie funktioniert ein Kardanantrieb oder ein Schaltgetriebe? Was ist ein Planetengetriebe? Wie konstruiert man eine stabile Brücke? Diese und weitere elementare Fragen aus den Themengebieten Mechanik und Statik beantwortet dieser Lernbaukasten anhand von 30 verschiedenen Modellen. Das Set bietet lehrplanrelevante Themen aus den MINT-Bereichen Physik, Technik, Naturwissenschaften und unterstützt Schülerinnen und Schüler beim Erlangen grundlegender Kenntnisse zu mechanischen und technischen Prinzipien. Mechanics 2.0 kann im angeleiteten und freien Unterricht eingesetzt werden und ist schon heute an vielen Schulen im Einsatz.
+Dieser Lernbaukasten ist ideal für angehende Maschinenbauer, Techniker und Ingenieure. 
 
-Das innovative Lehrmaterial fischertechnik unterstützt Sie dabei technisches Verständnis praktisch zu vermitteln und Ihren Schülern, Studierenden oder Auszubildenden näherzubringen.
-Das dazugehörige didaktische Begleitheft mit Lehrer- und Unterrichtsmaterial bietet Anschauungsmodelle und Aufgaben zur schnellen Vorbereitung des Unterrichts und enthält Problemstellungen und deren Lösung, Handreichungen und Kopiervorlagen. Die Unterrichtsmaterialien sind als kostenloser Download im eLearning frei abrufbar.
+- Wie funktioniert ein Kardanantrieb oder ein Schaltgetriebe? 
+- Was ist ein Planetengetriebe? 
+- Wie konstruiert man eine stabile Brücke? 
 
-Die insgesamt 500 fischertechnik Bauteile sind übersichtlich in zwei Sortiereinsätze einsortiert. Zusammen mit der leicht verständlichen Bauanleitung für 30 Modelle unterschiedlicher Schwierigkeitsstufen, wird alles in einer stabilen Aufbewahrungsbox geliefert.
+Diese und weitere elementare Fragen aus den Themengebieten Mechanik und Statik beantwortet dieser Lernbaukasten anhand von 30 verschiedenen Modellen. 
+Das Set bietet lehrplanrelevante Themen aus den MINT-Bereichen Physik, Technik und Naturwissenschaften. Es unterstützt Schülerinnen und Schüler beim Erlangen grundlegender Kenntnisse zu mechanischen und technischen Prinzipien.
+
+Das Lehrmaterial unterstützt dabei, technisches Verständnis praktisch zu erfahren.
+
+Die insgesamt 500 fischertechnik-Bauteile sind übersichtlich in zwei Sortiereinsätzen einsortiert. Zusammen mit der leicht verständlichen Bauanleitung für 30 Modelle unterschiedlicher Schwierigkeitsstufen, wird alles in einer stabilen Aufbewahrungsbox gelagert.
 
 ## Ablauf
 
@@ -114,21 +120,29 @@ Damit ein Tisch alle diese Lasten aufnehmen kann, braucht er eine Menge statisch
 
 2. Achte darauf, dass die Streben richtig verbunden sind.
 
-3. Belaste den Tisch zunächst von oben. Als nächstes drückst du seitlich gegen die Tischplatte, dann gegen eines der Tischbeine. Was passiert jeweils?
+3. Belaste den Tisch zunächst von oben. Als nächstes drückst du seitlich gegen die Tischplatte, dann gegen eines der Tischbeine. 
+
+    **Was passiert jeweils?**
 
        [[___ ___ ___ ___]]
 
 >Die statischen Merkmale deines Modelltisches sind die abgewinkelten Tischbeinen. Sie sind durch den Winkel bereits nach zwei Seiten stabil. Die Rahmenkonstruktion des Tisches ist zusätzlich verstrebt und verspannt. Mit den gelben Streben zwischen den Tischbeinen wird der Rahmen auf Druck und Zug hin stabilisiert. Die Krönung der Statik sind allerdings die Verbindungsstellen, die Dreiecke entstehen lassen. Dreiecke sind auch dann stabil, wenn die Stäbe an den Verbindungsstellen bewegliche Gelenke haben. Solche Dreiecke werden als statische Dreiecke bezeichnet. Dein Modelltisch ist also in dreierlei Hinsicht statisch stabil. Alle Verbindungsstellen nennt man in der Statik Knoten
 
-4. Entferne die Verspannungen und belaste den Tisch. Welche Auswirkung hat das auf die Statik des Tisches?
+4. Entferne die Verspannungen und belaste den Tisch. 
+
+    **Welche Auswirkung hat das auf die Statik des Tisches?**
 
        [[___ ___ ___ ___]]
 
-5. Füge die Verspannungen wieder hinzu. Entferne die Streben. Belaste den Tisch erneut. Wie stabil ist dein Tisch jetzt?
+5. Füge die Verspannungen wieder hinzu. Entferne die Streben. Belaste den Tisch erneut. 
+   
+   **Wie stabil ist dein Tisch jetzt?**
 
        [[___ ___ ___ ___]]
 
-6. Nun baue auch die Verspannungen wieder ab. Belaste den Tisch. Was kannst du beobachten?
+6. Nun baue auch die Verspannungen wieder ab. Belaste den Tisch. 
+
+   **Was kannst du beobachten?**
 
        [[___ ___ ___ ___]]
 
@@ -138,17 +152,21 @@ Einen sehr einfachen statischen Aufbau hat die Bockleiter. Auch sie hat abgewink
 
 ---
 
-**Arbeitsauftrag :-***
+**Arbeitsauftrag**
 
 1. Baue die Bockleiter nach der Bauanleitung ab Seite 90, zunächst ohne die Verspannung, auf.
 
 ![Abbildung Bockleiter mit Verspannung](assets/bockleiterBild.png "*Abbildung Bockleiter mit Verspannung*")
 
-2. Richte die Bockleiter auf und belaste sie durch Druck auf die Sprossen und dem oberen Drehpunkt. Bleibt die Leiter stabil?
+2. Richte die Bockleiter auf und belaste sie durch Druck auf die Sprossen und dem oberen Drehpunkt. 
+
+    **Bleibt die Leiter stabil?**
 
         [[___ ___ ___ ___]]
 
-3. Montiere nun an deiner Leiter die Verspannung. Führe den Versuch noch einmal durch. Bleibt die Leiter jetzt stehen?
+3. Montiere nun an deiner Leiter die Verspannung. Führe den Versuch noch einmal durch. 
+
+     **Bleibt die Leiter jetzt stehen?**
 
         [[___ ___ ___ ___]]
 
@@ -162,14 +180,14 @@ Eine optimale Brücke hat vier Eigenschaften: Sie ist sicher, lang, billig und s
 
 ---
 
-**Arbeitsauftrag :-***
+**Arbeitsauftrag**
 
 1. Baue das Brückenmodell nach der Bauanleitung ab Seite 90 auf.
 
 ![Abbildung Balkenbrücke](assets/balkenbruecke.png "*Abbildung Balkenbrücke*")
 
 2. Belaste die Brücke in der Mitte.
-3. Wo könnte diese Brücke verwendet werden?
+3. **Wo könnte diese Brücke verwendet werden?**
 
        [[___ ___ ___ ___]]
 
@@ -179,7 +197,7 @@ Die Brücke mit Unterzug erinnert an Hängebrücken die über wilde Schluchten g
 
 ---
 
-**Arbeitsauftrag:-***
+**Arbeitsauftrag**
 
 1. Baue die Brücke nach der Bauanleitung ab Seite 95 auf.
 
@@ -187,7 +205,11 @@ Die Brücke mit Unterzug erinnert an Hängebrücken die über wilde Schluchten g
 
 2. Belaste die Brücke in der Mitte. Verwende diesmal ein etwas schwereres Gewicht.
 
-Bei den Belastungsversuchen hast du sicher festgestellt, dass deine Brücke sehr stabil ist und große Druckkräfte aufnehmen kann. Die Brücke mit Unterzug funktioniert mit der Fachwerkbauweise. Diese Bauart ist zwar für große Belastungen, nicht aber für große Spannweiten geeignet. Die größten Spannweiten erreicht man mit Hängebrücken, die aber nicht so große Kräfte aufnehmen können. Die Brücke mit Unterzug und die Hängebrücke sehen also nur ähnlich aus. Statisch unterscheiden sie sich vollkommen.
+3. **Wie hat sich die Stabilität der Brücke verändert?**
+
+    [[___ ___ ___ ___]]
+
+>Bei den Belastungsversuchen hast du sicher festgestellt, dass deine Brücke sehr stabil ist und große Druckkräfte aufnehmen kann. Die Brücke mit Unterzug funktioniert mit der Fachwerkbauweise. Diese Bauart ist zwar für große Belastungen, nicht aber für große Spannweiten geeignet. Die größten Spannweiten erreicht man mit Hängebrücken, die aber nicht so große Kräfte aufnehmen können. Die Brücke mit Unterzug und die Hängebrücke sehen also nur ähnlich aus. Statisch unterscheiden sie sich vollkommen.
 
 ### S5 Brücke mit Oberzug
 
@@ -195,20 +217,24 @@ Wesentlich längere Spannweiten und Belastungen kann die Brücke mit Obergurt (O
 
 ---
 
-**Arbeitsauftrag:-***
+**Arbeitsauftrag:**
 
 1. Erweitere dein erstes Brückenmodell zu der Brücke mit Oberzug (siehe Bauanleitung ab Seite 97)
 
 ![Abbildung: Brücke mit Oberzug](assets/brueckeMitOberzug.png "Abbildung: Brücke mit Oberzug")
 
 2. Belaste die Brücke wieder in der Mitte.
-3. Wie hat sich die Brücke Stabilität der Brücke verändert?
+3. **Wie hat sich die Stabilität der Brücke verändert?**
 
        [[___ ___ ___ ___]]
 
 ### W6 Kräfteparallelogramm
 
-!?[Erklärvideo zum Kräfteparallelogramm von the Simple Club](https://youtu.be/QRtDbqEKdM0?feature=shared "*Erklärvideo zum Kräfteparallelogramm von the Simple Club*")
+
+!?[Erklärvideo zum Kräfteparallelogramm von the Simple Club](https://youtu.be/QRtDbqEKdM0?feature=shared "[Erklärvideo zum Kräfteparallelogramm von the Simple Club](https://youtu.be/QRtDbqEKdM0?feature=shared)")
+
+
+![QR-Code zum Video Kräfteparallelogramm](assets/qrKraefteparallelogram.gif)
 
 ---
 
@@ -248,7 +274,9 @@ Möchtest du noch längere Spannweiten erreichen, als mit den Fachwerkskonstrukt
 
        ![Abbildung Schrägseilbrücke](assets/schraegseilbruecke.png "*Abbildung Schrägseilbrücke*")
 
-2. Belaste die Brücke links und rechts des Mittelpfeilers mit einem Gewicht und vergleiche die Stabilität mit den Fachwerkskonstruktionen. Und, wie hat sich deine Schrägseilbrücke im Vergleich geschlagen?
+2. Belaste die Brücke links und rechts des Mittelpfeilers mit einem Gewicht und vergleiche die Stabilität mit den Fachwerkskonstruktionen. 
+
+    **Und, wie hat sich deine Schrägseilbrücke im Vergleich geschlagen?**
 
 
        [[___ ___ ___ ___]]
