@@ -13,7 +13,6 @@ language: Deutsch
 
 narrator: Deutsch Female
 
-
 comment: https://liascript.github.io/course/?https://raw.githubusercontent.com/JMueller-edu/SJ2425/refs/heads/main/LF14BFIT.md#1
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
@@ -252,35 +251,118 @@ timeline
 
         [[___ ___]]  
 
-##### Offene Fragen
+##### FAQs
 
-**Wie fördert vorbeugende Wartung die Stabilität eines IT-Systems?**
+<details>
 
-Durch die Wartung wird zum Beispiel eine Ansammlung von Staub, Feuchtigkeit und anderen Fremdkörpern auf der empfindlichen Elektronik vermieden. Durch einen rechtzeitigen Tausch von Komponenten mit bestimmter Lebensdauer kann ein Ausfall verhindert werden.
+<summary>**Wie fördert vorbeugende Wartung die Stabilität eines IT-Systems?**</summary>
 
-**Warum sollte Staub im Computerinneren vermieden werden?**
+>Durch die Wartung wird zum Beispiel eine Ansammlung von Staub, Feuchtigkeit und anderen Fremdkörpern auf der empfindlichen Elektronik vermieden. Durch einen rechtzeitigen Tausch von Komponenten mit bestimmter Lebensdauer kann ein Ausfall verhindert werden. Regelmäßige Software-Updates und Sicherheitsüberprüfungen tragen ebenfalls zur Stabilität bei, indem sie Schwachstellen beheben und die Systemleistung optimieren.
 
-Der Staub kann Lüfter blockieren und Luftzugänge verschließen, was zu einem Wärmestau führen kann.
-Welcher wieder herum den Staub entzünden könnte.
-Kleine Fremdkörper wie Staub können Schnittstellen Kontakte außer Funktion setzten.
+</details>
 
-**Wie wirkt sich Überhitzung auf die Lebensdauer eines Computers aus?**
+<details>
 
-Zu hohe Hitze kann die Hardwarestrukturen verändern und damit schädigen.
+<summary>**Warum sollte Staub im Computerinneren vermieden werden?**</summary>
 
-**Welche Risiken bestehen bei der Verwendung von Druckluft für die Reinigung?**
+>Der Staub kann Lüfter blockieren und Luftzugänge verschließen, was zu einem Wärmestau führen kann, der die Hardware beschädigt. Zudem kann Staub elektrische Kontakte beeinträchtigen und Kurzschlüsse verursachen. Regelmäßige Reinigung hilft, die Lebensdauer und Leistung des Computers zu erhalten.
 
-Der hohe Druck könnte Bauelemente lösen.
-Die Druckluft kann die Lüfterlager durch überhöhte Drehzahl beschädigen. 
+</details>
 
-**Wie sieht eine Wartung aus?**
-**Was wird da gemacht und wie bezieht sich das auf die Aufmerksamkeit?**
+<details>
 
-**Welche Vor- und Nachteile hat die kabellose Verbindung gegenüber der kabelgebundenen Verbindung in einem Netzwerk, besonders im Hinblick auf Geschwindigkeit, Sicherheit und Flexibilität?**
+<summary>**Wie wirkt sich Überhitzung auf die Lebensdauer eines Computers aus?**</summary>
 
-**Wieso sollte man seine Lüfter beim (aus)blasen festhalten?**
+>Zu hohe Hitze kann die Hardwarestrukturen verändern und damit schädigen. Dies kann zu einer Verkürzung der Lebensdauer von Komponenten wie der CPU, GPU und Festplatte führen. Überhitzung kann auch zu Systeminstabilität, Datenverlust und unerwarteten Abstürzen führen. Regelmäßige Wartung und ausreichende Kühlung sind daher entscheidend, um die Lebensdauer und Leistung des Computers zu erhalten.
 
-**In welchen regelmäßigen Abständen sollte ich meinen PC reinigen?**
+</details>
+
+<details>
+
+<summary>**Welche Risiken bestehen bei der Verwendung von Druckluft für die Reinigung?**</summary>
+
+>Der hohe Druck könnte Bauelemente lösen. Zudem kann Druckluft Feuchtigkeit enthalten, die empfindliche elektronische Komponenten beschädigen kann. Es besteht auch die Gefahr, dass Staub und Schmutz tiefer in das Gerät gedrückt werden, anstatt entfernt zu werden. Daher sollte Druckluft mit Vorsicht und in kurzen Stößen verwendet werden, und es ist ratsam, spezielle Druckluftdosen für die Elektronikreinigung zu verwenden, die trocken und ölfrei sind.
+
+</details>
+
+<details>
+
+<summary>**Wie sieht eine PC-Wartung aus?** </summary>
+
+>Eine PC-Wartung umfasst mehrere Schritte, um die Lebensdauer und Leistung des Computers zu erhalten:
+> 
+>>1. **Reinigung**: Entfernen von Staub und Schmutz aus dem Gehäuse, den Lüftern und den Kühlkörpern.
+>>2. **Überprüfung der Hardware**: Sicherstellen, dass alle Komponenten ordnungsgemäß funktionieren und keine sichtbaren Schäden aufweisen.
+>>3. **Software-Updates**: Installieren der neuesten Betriebssystem- und Treiber-Updates.
+>>4. **Virenscan**: Durchführen eines vollständigen Scans auf Malware und Viren.
+>>5. **Datensicherung**: Regelmäßiges Sichern wichtiger Daten auf externen Speichermedien.
+>>6. **Überprüfung der Festplatte**: Überprüfen der Festplatte auf Fehler und defragmentieren, falls erforderlich.
+>>7. **Überprüfung der Kühlung**: Sicherstellen, dass die Lüfter und Kühlkörper ordnungsgemäß funktionieren und keine Überhitzung auftritt.
+>>8. **Überprüfung der Kabelverbindungen**: Sicherstellen, dass alle Kabel fest und sicher angeschlossen sind.
+
+</details>
+
+<details>
+
+<summary> **Welche Vor- und Nachteile hat die kabellose Verbindung gegenüber der kabelgebundenen Verbindung in einem Netzwerk, besonders im Hinblick auf Geschwindigkeit, Sicherheit und Flexibilität?** </summary>
+
+>**Vorteile der kabellosen Verbindung:**
+>
+>>- **Flexibilität:** Geräte können sich frei bewegen und bleiben dennoch verbunden.
+>>- **Einfache Installation:** Keine Notwendigkeit, Kabel zu verlegen, was besonders in großen Gebäuden oder historischen Gebäuden vorteilhaft ist.
+>>- **Zugänglichkeit:** Ermöglicht den einfachen Zugang zu Netzwerken in Bereichen, in denen Kabelverbindungen unpraktisch oder unmöglich sind.
+>
+>**Nachteile der kabellosen Verbindung:**
+>
+>>- **Geschwindigkeit:** Kabellose Verbindungen sind in der Regel langsamer als kabelgebundene Verbindungen, insbesondere bei hoher Netzwerkauslastung.
+>>- **Sicherheit:** Kabellose Netzwerke sind anfälliger für Sicherheitsbedrohungen wie Abhören und unbefugten Zugriff.
+>>- **Interferenzen:** Kabellose Signale können durch physische Hindernisse und andere elektronische Geräte gestört werden.
+>
+>**Vorteile der kabelgebundenen Verbindung:**
+>
+>>- **Geschwindigkeit:** Bietet in der Regel höhere und stabilere Geschwindigkeiten im Vergleich zu kabellosen Verbindungen.
+>>- **Sicherheit:** Kabelgebundene Netzwerke sind weniger anfällig für Abhören und bieten eine sicherere Verbindung.
+>>- **Zuverlässigkeit:** Weniger anfällig für Interferenzen und Signalverluste.
+>
+>**Nachteile der kabelgebundenen Verbindung:**
+>
+>>- **Beweglichkeit:** Geräte sind an ihre Kabel gebunden und können sich nicht frei bewegen.
+>>- **Installation:** Das Verlegen von Kabeln kann zeitaufwendig und teuer sein, insbesondere in großen oder komplexen Umgebungen.
+>>- **Ästhetik:** Sichtbare Kabel können unansehnlich sein und die Raumgestaltung beeinträchtigen.
+
+</details>
+
+<details>
+
+<summary> **Wieso sollte man seine Lüfter beim (aus)blasen festhalten?** </summary>
+
+>Beim Ausblasen der Lüfter sollte man diese festhalten, um zu verhindern, dass sie sich zu schnell drehen. Eine übermäßige Drehgeschwindigkeit kann die Lager beschädigen und die Lebensdauer des Lüfters verkürzen.
+
+</details>
+
+<details>
+
+<summary> **In welchen regelmäßigen Abständen sollte ich meinen PC reinigen?** </summary>
+
+>Es wird empfohlen, den PC alle 3 bis 6 Monate zu reinigen, abhängig von der Umgebung und der Staubbelastung. In staubigen Umgebungen oder bei intensiver Nutzung kann eine häufigere Reinigung notwendig sein.
+
+</details>
+
+<details>
+
+<summary> **Weitere Informationsquellen:** </summary>
+
+- [PC-Wartung und Pflege - Tipps und Tricks](https://www.pcwelt.de/ratgeber/PC-Wartung-und-Pflege-Tipps-und-Tricks-10037324.html)
+- [So reinigen Sie Ihren PC richtig](https://www.heise.de/tipps-tricks/So-reinigen-Sie-Ihren-PC-richtig-4861570.html)
+- [PC-Wartung: So bleibt Ihr Computer fit](https://www.chip.de/artikel/PC-Wartung-So-bleibt-Ihr-Computer-fit_18364856.html)
+- [Computerwartung: Tipps für eine längere Lebensdauer](https://www.computerbild.de/artikel/cb-Tipps-Software-Computerwartung-Tipps-fuer-eine-laengere-Lebensdauer-3120849.html)
+- [PC-Wartung: Die besten Tools und Tipps](https://www.netzwelt.de/anleitung/168866-pc-wartung-besten-tools-tipps.html)
+- [Vorteile und Nachteile von WLAN und LAN](https://www.computerwissen.de/netzwerk/internet/vorteile-und-nachteile-von-wlan-und-lan/)
+- [WLAN vs. LAN: Was ist besser?](https://www.chip.de/artikel/WLAN-vs.-LAN-Was-ist-besser_18364856.html)
+- [Kabelgebundenes Netzwerk vs. WLAN](https://www.heise.de/tipps-tricks/Kabelgebundenes-Netzwerk-vs-WLAN-4861570.html)
+- [Vor- und Nachteile von WLAN und LAN](https://www.netzwelt.de/anleitung/168866-pc-wartung-besten-tools-tipps.html)
+
+</details>
 
 #### S2 4.2 + 4.3 Prozess der Fehlerbehebung
 
@@ -299,8 +381,20 @@ Die Druckluft kann die Lüfterlager durch überhöhte Drehzahl beschädigen.
      ***Notiere dir dabei Wichtiges und halte für dich noch offene Fragen fest.*** 
 
 6. Beantworte dir deine noch offenen Fragen mit Hilfe von Recherchen schriftlich.
+   
+7. Teile hier während der Schulstunde einer deiner Fragen.
+   
+   a) Öffne dazu im Arbeitsauftrag das Menü `Share` und tritt folgendem `Classroom` bei:
+   
+      - Backend = GUN
+   
+      - room = LF1420241122
 
-7. Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `15.11.2024` ein.
+    b) Schreibe deine Frage in folgendes Textfeld:
+
+        [[___ ___]]  
+
+8. Reiche deine Notizen im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die Stunde am `22.11.2024` ein.
 
 #### Kompetenztest
 
@@ -314,7 +408,7 @@ Die Druckluft kann die Lüfterlager durch überhöhte Drehzahl beschädigen.
    
 4. Wähle in der Kapitelübersicht das `Modul 4: Preventive Maintenance and Troubleshooting` aus.
    
-5. Öffne das Module Examen `4.4` und führe es durch!
+5. Öffne das Module Examen `4.4` und führe dies durch!
 
 - ***dein erster Versuch wird bewertet.***
 - *Zum Anschließenden Üben kannst du beliebig viele weiteren Versuche durchführen.*

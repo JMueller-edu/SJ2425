@@ -128,6 +128,8 @@ Damit ein Tisch alle diese Lasten aufnehmen kann, braucht er eine Menge statisch
 
 >Die statischen Merkmale deines Modelltisches sind die abgewinkelten Tischbeinen. Sie sind durch den Winkel bereits nach zwei Seiten stabil. Die Rahmenkonstruktion des Tisches ist zusätzlich verstrebt und verspannt. Mit den gelben Streben zwischen den Tischbeinen wird der Rahmen auf Druck und Zug hin stabilisiert. Die Krönung der Statik sind allerdings die Verbindungsstellen, die Dreiecke entstehen lassen. Dreiecke sind auch dann stabil, wenn die Stäbe an den Verbindungsstellen bewegliche Gelenke haben. Solche Dreiecke werden als statische Dreiecke bezeichnet. Dein Modelltisch ist also in dreierlei Hinsicht statisch stabil. Alle Verbindungsstellen nennt man in der Statik Knoten
 
+<!-- TODO: Bild mit Beschriftung Verspannung und Streben einfügen -->
+
 4. Entferne die Verspannungen und belaste den Tisch. 
 
     **Welche Auswirkung hat das auf die Statik des Tisches?**
@@ -154,7 +156,7 @@ Einen sehr einfachen statischen Aufbau hat die Bockleiter. Auch sie hat abgewink
 
 **Arbeitsauftrag**
 
-1. Baue die Bockleiter nach der Bauanleitung ab Seite 90, zunächst ohne die Verspannung, auf.
+1. Baue die Bockleiter nach der Bauanleitung ab Seite 90, zunächst **ohne** die Verspannung, auf.
 
 ![Abbildung Bockleiter mit Verspannung](assets/bockleiterBild.png "*Abbildung Bockleiter mit Verspannung*")
 
