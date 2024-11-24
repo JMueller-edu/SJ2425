@@ -413,6 +413,22 @@ timeline
 - ***dein erster Versuch wird bewertet.***
 - *Zum Anschließenden Üben kannst du beliebig viele weiteren Versuche durchführen.*
 
+6. Notiere dir bei der Auswertung deines Examens die Fragen, bei denen dir die Antwort unverständlich vorkommt.
+
+7. Teile hier während der Schulstunde einer dieser Fragen.
+   
+   a) Öffne dazu im Arbeitsauftrag das Menü `Share` und tritt folgendem `Classroom` bei:
+   
+      - Backend = GUN
+   
+      - room = LF1420241129
+
+    b) Schreibe deine Frage in folgendes Textfeld:
+
+        [[___ ___]]  
+
+
 ### 7.0 Introduction - Characteristics of Laptops and Other Mobile Devices 
 
 ## 2. Halbjahr Rasberry-Pi 400
+

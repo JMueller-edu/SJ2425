@@ -561,7 +561,308 @@ timeline
 
 2. Kontrolliere deine Klausur mit Hilfe dieses [Lösers](https://acrobat.adobe.com/id/urn:aaid:sc:EU:ef080e46-661b-4dba-8b23-28efa08865ef).
 
-## Größen
+##  Maßeinheiten - Die Sprache der Mathematik
+
+In diesem Kapitel lernen wir die Sprache der Mathematik für Messungen kennen: **Maßeinheiten**. Maßeinheiten sind wie Wörter, die uns helfen, die Welt um uns herum zu beschreiben. Sie geben uns eine genaue Vorstellung von Größen wie Länge, Gewicht, Zeit oder Geld. 
+
+### 1. Was sind Maßeinheiten und warum brauchen wir sie?
+
+Stell dir vor, du möchtest einem Freund beschreiben, wie groß dein neues Fahrrad ist. Du könntest sagen: "Es ist ziemlich groß!" Aber was bedeutet "ziemlich groß"?  Dein Freund hat vielleicht eine ganz andere Vorstellung von Größe als du. 
+
+Mit Maßeinheiten können wir Größen **genau** beschreiben. Anstatt "ziemlich groß" zu sagen, könntest du sagen: "Mein Fahrrad ist 1,5 Meter hoch".  **Meter** ist in diesem Fall die Maßeinheit und **1,5** die Maßzahl.
+
+**Beispiele:**
+
+* Die Länge eines Fußballfeldes: 100 **Meter**
+* Das Gewicht eines Elefanten: 5000 **Kilogramm**
+* Die Zeit für einen 100-Meter-Lauf: 10 **Sekunden**
+* Der Preis einer Kugel Eis: 2 **Euro** 
+
+**Übungen:**
+
+1. Nenne drei weitere Beispiele für Messungen im Alltag und gib die entsprechenden Maßeinheiten an.
+2. Erkläre, warum es wichtig ist, Maßeinheiten zu verwenden, wenn man Größen beschreiben möchte.
+
+### 2. Verschiedene Arten von Maßeinheiten
+
+Es gibt viele verschiedene Arten von Maßeinheiten, je nachdem, was wir messen wollen. 
+
+**Einige Beispiele:**
+
+* **Längeneinheiten**: Meter (m), Zentimeter (cm), Kilometer (km)
+* **Masseeinheiten**: Kilogramm (kg), Gramm (g), Tonne (t)
+* **Zeiteinheiten**: Sekunde (s), Minute (min), Stunde (h), Tag (d)
+* **Geldeinheiten**: Euro (€), Cent (ct)
+
+**Übungen:**
+
+1. Ordne die folgenden Messungen den richtigen Kategorien zu: 5 cm, 10 kg, 2 €, 30 min, 100 km, 200 g, 1 h, 50 ct.
+2. Nenne zu jeder Kategorie zwei weitere Maßeinheiten.
+
+### 3. Präfixe: Größere und kleinere Einheiten bilden
+
+Manchmal sind die Basiseinheiten zu groß oder zu klein, um eine Größe sinnvoll zu beschreiben. Zum Beispiel wäre es unpraktisch, die Entfernung zwischen zwei Städten in Millimetern anzugeben. 
+
+Dafür gibt es **Präfixe**. Präfixe sind kleine Wörter, die wir vor die Basiseinheit setzen, um größere oder kleinere Einheiten zu bilden. 
+
+**Beispiele:**
+
+* **Kilo**meter (km): 1 km = 1000 Meter
+* **Zenti**meter (cm): 1 cm = 0,01 Meter
+* **Milli**meter (mm): 1 mm = 0,001 Meter
+
+**Übungen:**
+
+1. Was bedeuten die Präfixe "Dezi", "Hekto" und "Mega"?
+2. Schreibe die folgenden Längen in Metern: 3 km, 50 cm, 200 mm.
+
+
+### 4. Einheiten umrechnen: Von einer Einheit in eine andere wechseln
+
+Um Messungen vergleichen oder mit ihnen rechnen zu können, müssen wir sie manchmal **umrechnen**. Das bedeutet, wir wechseln von einer Einheit in eine andere. 
+
+**Beispiel:** 
+
+Wir wollen 2 Kilometer in Meter umrechnen. Wir wissen, dass 1 Kilometer 1000 Meter entspricht. Also rechnen wir: 2 km * 1000 = 2000 m
+
+#### 4.1 Längeneinheiten umrechnen - Meter für Meter
+
+In diesem Kapitel lernen wir, wie man Längeneinheiten umrechnet. Das ist wichtig, um Messungen zu vergleichen oder mit ihnen zu rechnen.  Stellt euch vor, ihr wollt wissen, ob ein 500 cm langes Seil länger ist als ein 4 m langes Seil. Um das herauszufinden, müssen wir beide Längen in der gleichen Einheit ausdrücken.
+
+##### 4.1.1 Die Basiseinheit: Meter
+
+Die Basiseinheit für die Länge ist der **Meter (m)**.  Alle anderen Längeneinheiten leiten sich vom Meter ab.  Um Längen in verschiedenen Einheiten zu vergleichen oder mit ihnen zu rechnen, ist es oft sinnvoll, sie zuerst in Meter umzurechnen.
+
+##### 4.1.2 Präfixe: Größere und kleinere Einheiten
+
+Wie wir bereits in Kapitel 3 gelernt haben, verwenden wir **Präfixe**, um größere oder kleinere Einheiten zu bilden.  Präfixe sind wie Abkürzungen, die uns sagen, wie viel mal größer oder kleiner die Einheit im Vergleich zum Meter ist. 
+
+Hier sind einige der gebräuchlichsten Präfixe für Längeneinheiten:
+
+| Präfix | Abkürzung | Bedeutung   | Wert in Metern |
+| ------ | --------- | ----------- | -------------- |
+| Kilo   | km        | Tausend     | 1 km = 1000 m  |
+| Dezi   | dm        | Zehntel     | 1 dm = 0,1 m   |
+| Zenti  | cm        | Hundertstel | 1 cm = 0,01 m  |
+| Milli  | mm        | Tausendstel | 1 mm = 0,001 m |
+
+**Beispiele:**
+
+* 1 Kilometer (km) ist 1000 mal größer als 1 Meter.
+* 1 Zentimeter (cm) ist 100 mal kleiner als 1 Meter.
+* 1 Millimeter (mm) ist 1000 mal kleiner als 1 Meter.
+
+##### 4.1.3 Einheiten umrechnen: Schritt für Schritt
+
+**Schritt 1:**  Bestimme das Präfix der Einheit, die du umrechnen möchtest.
+
+**Schritt 2:**  Schau in der Tabelle nach, welcher Wert dem Präfix entspricht.
+
+**Schritt 3:**  Multipliziere oder dividiere die Maßzahl mit dem Wert des Präfixes, um die Länge in Meter umzurechnen.
+
+**Beispiele:**
+
+* **5 km in Meter umrechnen:**
+
+    * Präfix: **Kilo** (k)
+    * Wert: 1 km = **1000** m
+    * Rechnung: 5 km * 1000 m/km = **5000 m** 
+
+* **200 cm in Meter umrechnen:**
+
+    * Präfix: **Zenti** (c)
+    * Wert: 1 cm = **0,01** m
+    * Rechnung: 200 cm * 0,01 m/cm = **2 m**
+
+* **3500 mm in Meter umrechnen:**
+
+    * Präfix: **Milli** (mm)
+    * Wert: 1 mm = **0,001** m
+    * Rechnung: 3500 mm * 0,001 m/mm = **3,5 m**
+
+##### 4.1.4 Übungen:
+
+1. Rechne die folgenden Längen in Meter um:
+    * 8 km
+    * 50 dm
+    * 250 cm
+    * 1200 mm
+2. Ein Schulbus ist 12 m lang. Wie lang ist er in Zentimetern?
+3. Eine Ameise krabbelt 10 cm weit. Wie weit ist das in Millimetern?
+
+##### 4.1.5 Videotutorial: 
+
+[Link zu einem Video über das Umrechnen von Längeneinheiten]
+
+**Zusatzmaterial:**  Interaktive Übungen und Spiele zum Umrechnen von Längeneinheiten können das Lernen noch spannender gestalten.
+
+#### 4.2 Zeitmaße umrechnen - Mit der Zeit jonglieren
+
+In diesem Kapitel beschäftigen wir uns mit dem Umrechnen von Zeiteinheiten. Wie wir bereits gelernt haben, gibt es verschiedene Einheiten für die Zeit, wie Sekunden, Minuten, Stunden und Tage. Um Zeitangaben zu vergleichen oder mit ihnen zu rechnen, müssen wir sie manchmal ineinander umrechnen. Das ist wie ein Puzzle, bei dem wir die Teile der Zeit richtig zusammensetzen müssen.
+
+##### 4.2.1 Die wichtigsten Zeiteinheiten und ihre Abkürzungen:
+
+* Sekunde (s)
+* Minute (min)
+* Stunde (h)
+* Tag (d)
+* Monat (m)
+* Jahr (a)
+
+##### 4.2.2 Umrechnungstabelle:
+
+Hier ist eine Tabelle, die uns hilft, die verschiedenen Zeiteinheiten umzurechnen:
+
+| Zeitmaß   | in Stunden | in Minuten | in Sekunden |
+|------------|------------|------------|-------------|
+| 1 Tag      | 24 Stunden | 1440 Minuten | 86.400 s     |
+| 1 Stunde  | 1 Stunde   | 60 Minuten  | 3.600 s     |
+| 1 Minute  | 1/60 Stunde | 1 Minute   | 60 s        |
+| 1 Sekunde | 1/3600 Stunde | 1/60 Minute | 1 s         |
+
+**Wichtig:**  Bei der Umrechnung von Zeiteinheiten müssen wir beachten, dass wir **nicht** immer mit 10, 100 oder 1000 multiplizieren oder dividieren. Stattdessen verwenden wir oft den Faktor **60** (von Sekunden zu Minuten und von Minuten zu Stunden) und **24** (von Stunden zu Tagen).
+
+##### 4.2.3 Beispiele:
+
+* **Wie viele Sekunden hat eine Stunde?**
+
+Wir wissen, dass eine Stunde 60 Minuten hat und jede Minute 60 Sekunden. Also rechnen wir: 1 h * 60 min/h * 60 s/min = **3600 s**
+
+* **Wie viele Stunden hat ein Tag?**
+
+Ein Tag hat **24 Stunden**.
+
+* **Wie viele Minuten sind 180 Sekunden?**
+
+Wir wissen, dass eine Minute 60 Sekunden hat. Also rechnen wir: 180 s / 60 s/min = **3 min**
+
+##### 4.2.4 Übungen:
+
+1. Rechne die folgenden Zeitangaben in Sekunden um:
+    * 5 min 
+    * 2 h
+    * 0,5 d (Tage)
+2. Rechne die folgenden Zeitangaben in Minuten um:
+    * 7200 s
+    * 3 h
+    * 1 d (Tag)
+3. Rechne die folgenden Zeitangaben in Stunden um:
+    * 1440 min
+    * 2 d (Tage)
+    * 43200 s 
+
+##### 4.2.5 Videotutorial:
+
+[Link zu einem Video über das Umrechnen von Zeiteinheiten] 
+
+**Tipp:** Es kann hilfreich sein, sich die Umrechnungsfaktoren 60 und 24 gut einzuprägen. Mit etwas Übung wird das Umrechnen von Zeiteinheiten dann zum Kinderspiel!
+
+#### 4.3 Umrechnung von Gewichtsmaßen - Mit Gramm und Kilogramm jonglieren
+
+In diesem Kapitel beschäftigen wir uns mit der Umrechnung von Gewichtsmaßen, auch bekannt als Masseneinheiten.  Wie wir bereits wissen, verwenden wir verschiedene Einheiten, um das Gewicht von Gegenständen zu beschreiben, z.B. Gramm, Kilogramm und Tonnen.  Um diese Angaben zu vergleichen oder mit ihnen zu rechnen, müssen wir sie manchmal ineinander umrechnen.
+
+##### 4.3.1  Die Basiseinheit: Gramm
+
+Die Basiseinheit für das Gewicht ist das **Gramm (g)**.  Alle anderen Gewichtseinheiten leiten sich vom Gramm ab. Um Gewichtsangaben in verschiedenen Einheiten zu vergleichen oder zu berechnen, ist es oft sinnvoll, sie zuerst in Gramm umzurechnen.
+
+##### 4.3.2  Präfixe: Größere und kleinere Einheiten
+
+Ähnlich wie bei den Längeneinheiten verwenden wir auch bei den Gewichtseinheiten **Präfixe**, um größere oder kleinere Einheiten zu bilden. Präfixe geben an, wie viel mal größer oder kleiner die Einheit im Vergleich zum Gramm ist.
+
+Hier sind einige der gebräuchlichsten Präfixe für Gewichtseinheiten:
+
+| Präfix  | Abkürzung | Bedeutung    | Wert in Gramm |
+|---|---|---|---|
+| Kilo  | kg | Tausend      | 1 kg = 1000 g |
+| Milli | mg | Tausendstel   | 1 mg = 0,001 g |
+
+Zusätzlich gibt es die **Tonne (t)**, die 1000 kg entspricht.
+
+**Beispiele:**
+
+* 1 Kilogramm (kg) ist 1000 mal größer als 1 Gramm.
+* 1 Milligramm (mg) ist 1000 mal kleiner als 1 Gramm.
+* 1 Tonne (t) ist 1 Million mal größer als 1 Gramm (1000 kg * 1000 g/kg = 1.000.000 g).
+
+##### 4.3.3  Einheiten umrechnen: Schritt für Schritt
+
+**Schritt 1:** Bestimme das Präfix der Einheit, die du umrechnen möchtest.
+
+**Schritt 2:**  Schau in der Tabelle nach, welcher Wert dem Präfix entspricht.
+
+**Schritt 3:**  Multipliziere oder dividiere die Maßzahl mit dem Wert des Präfixes, um das Gewicht in Gramm umzurechnen.
+
+**Beispiele:**
+
+* **3 kg in Gramm umrechnen:**
+    * Präfix: **Kilo** (kg)
+    * Wert: 1 kg = **1000** g
+    * Rechnung: 3 kg * 1000 g/kg = **3000 g**
+
+* **500 mg in Gramm umrechnen:**
+    * Präfix: **Milli** (mg)
+    * Wert: 1 mg = **0,001** g
+    * Rechnung: 500 mg * 0.001 g/mg = **0,5 g**
+
+* **2 t in Gramm umrechnen:**
+    * Einheit: **Tonne** (t)
+    * Wert: 1 t = **1.000.000** g
+    * Rechnung: 2 t * 1.000.000 g/t = **2.000.000 g**
+
+##### 4.3.4 Übungen
+
+1. Rechne die folgenden Gewichte in Gramm um:
+    * 5 kg
+    * 250 mg
+    * 0,5 t
+2. Ein Elefant wiegt 5 t.  Wie viel Kilogramm sind das?
+3. Eine Packung Zucker wiegt 1 kg. Wie viel Gramm sind das?
+
+##### 4.3.4 Videotutorial: 
+
+[Link zu einem Video über die Umrechnung von Gewichtseinheiten]
+
+**Zusatzmaterial:**  Interaktive Übungen und Spiele zum Umrechnen von Gewichtseinheiten können das Lernen noch interessanter gestalten. 
+
+
+### 5. Maßeinheiten im Alltag
+
+Maßeinheiten begegnen uns überall im Alltag. Wir benutzen sie zum Einkaufen, Kochen, Bauen, Sport treiben und vieles mehr.
+
+**Beispiele:**
+
+* Im Supermarkt:  Wir kaufen Lebensmittel nach Gewicht (z.B. 1 kg Äpfel) und bezahlen mit Geld (€ und ct).
+* In der Küche: Wir messen Zutaten für Rezepte (z.B. 200 g Mehl, 100 ml Milch) und stellen den Timer am Backofen auf die richtige Zeit ein.
+* Beim Sport:  Wir messen unsere Laufstrecke in Kilometern und unsere Zeit in Minuten und Sekunden. 
+
+**Übungen:**
+
+1. Beschreibe drei Situationen in deinem Alltag, in denen du Maßeinheiten benutzt.
+2. Schreibe eine kurze Geschichte, in der verschiedene Maßeinheiten eine Rolle spielen.
+
+**Videotutorial:** [Link zu einem Video über Maßeinheiten im Alltag]
+
+### 6.  Skalen und Maßstäbe:  Messungen auf Instrumenten und Karten
+
+**Skalen** finden wir auf Messinstrumenten wie Linealen, Thermometern oder Waagen. Sie helfen uns, den Messwert abzulesen.
+
+**Maßstäbe** werden auf Karten verwendet. Sie geben das Verhältnis zwischen der Entfernung auf der Karte und der tatsächlichen Entfernung in der Realität an.
+
+**Beispiele:**
+
+* Ein Lineal hat eine Skala in Zentimetern und Millimetern. 
+* Eine Landkarte hat einen Maßstab von 1:100.000. Das bedeutet, dass 1 cm auf der Karte 100.000 cm (also 1 km) in der Realität entspricht. 
+
+**Übungen:**
+
+1. Miss die Länge deines Bleistifts mit einem Lineal und lies den Wert auf der Skala ab.
+2. Berechne die Entfernung zwischen zwei Städten auf einer Landkarte mit einem Maßstab von 1:50.000.
+
+**Videotutorial:** [Link zu einem Video über Skalen und Maßstäbe] 
+
+**Zusatzmaterial:** 
+
+Für jedes Unterkapitel können zusätzlich Links zu interaktiven Übungen und Spielen eingefügt werden, um das Lernen abwechslungsreicher und spielerischer zu gestalten. 
 
 ## Zuordnung und Dreisatz
 

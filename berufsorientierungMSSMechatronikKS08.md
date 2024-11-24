@@ -316,9 +316,34 @@ timeline
           : Die Lernenden können die Realisierung einfache mechanische Systeme nachvollziehen
 ```
 
+### Maschinen in unserer Umgebung
+
+Wer schleppt heute noch schwere Lasten durch die Gegend? Wer bohrt ein Loch mit reiner Muskelkraft in eine Wand? Wer wäscht seine Wäsche noch mit einem Waschbrett? Fast niemand. 
+
+Der Mensch hat viele Geräte erfunden, die ihm das Leben und die Arbeit erleichtern. Angefangen beim Mahlwerk einer Mühle über die Düsentriebwerke eines Jumbo-Jets bis hin zum Computer.
+
+Geräte, die dir eine Arbeit erleichtern oder sogar abnehmen können, nennt man in der Fachsprache Maschinen.
+
+### Was ist Mechanik
+
+In der Mechanik geht es um Wirkungen und Kräfte, die starre und sich bewegende Körper beeinflussen. Die Mechanik ist in verschiedene Bereiche wie z. B. Statik, Dynamik, Kinetik oder Thermodynamik gegliedert. Wir begrenzen uns auf zwei Bereiche: die Dynamik und die Statik. 
+
+Schon in der Antike haben Wissenschaftler die Bereiche der Mechanik untersucht. Die alten Dombaumeister haben mit immer höheren Kirchen das Gleichgewicht der Kräfte bis zum Äußersten ausgelotet. Heute übernimmt ein Statiker die Berechnungen für die Stabilität eines Bauwerks. Sein Beruf kommt – wie der Name schon sagt – aus dem mechanischen Teilbereich der Statik. Mehr darüber erfährst du im Thementeil Statik. 
+
+Immer dann, wenn Maschinen oder Getriebe in Bewegung gesetzt werden, sind sie dynamisch. Die Dynamik beschreibt die Änderung der Bewegungsgrößen, beispielsweise beim Drehen einer Welle, bei einer Hin- und Herbewegung oder einer Zahnradübertragung. Die Dynamik ist also die Lehre von den Bewegungsänderungen. Was das genau ist, lernst du in den folgenden Kapiteln kennen.
+
+### Der Elektromotor
+
+Der Motor ist ein möglicher Antrieb für eine Maschine. Man unterscheidet zwei Arten von Motoren: Verbrennungsmotoren und Elektromotoren. Ein Auto z. B. wird von einem Verbrennungsmotor angetrieben. Einen so komplizierten Motor hast du natürlich nicht in deinem Baukasten, dafür aber einen Elektromotor, kurz auch E-Motor genannt. Elektromotoren sind die Antriebe für die meisten Maschinen des Alltags. Sie können überall eingesetzt werden, wo elektrische Energie zur Verfügung steht.
+
+Der Elektromotor in deinem Baukasten hat eine sehr hohe Drehzahl, d. h. er dreht sich so schnell, dass du eine einzelne Umdrehung gar nicht erkennen kannst. Dein Motor ist aber sehr „schwach“, er kann also keine Lasten heben und auch kein Fahrzeug antreiben. Um die schnellen Umdrehungen zu verringern und den Motor „stärker“ zu machen, benötigt man ein Getriebe.
+
 ### W1 Schneckenradgetriebe
 
 Um eine hohe Drehzahl eines Motors zu drosseln, eignet sich am besten ein Schneckenradgetriebe. 
+
+![Animation Schneckenradgetriebe](assets/schneckenradAnimation.gif "Animation Schneckenradgetriebe")
+
 
 Dabei wird auf die Motorwelle, das ist die Stange, die aus dem Motorengehäuse herausragt, eine Schnecke aufgesetzt. Die Schnecke treibt ein Zahnrad an. Man verwendet diese Art von Getriebe dort, wo auf engem Raum hohe Umdrehungszahlen herabgesetzt werden sollen.
 
@@ -326,20 +351,32 @@ Ein Schneckengetriebe arbeitet selbsthemmend, d. h. das Schneckenrad kann durch 
 
 Schranken und Kräne verwenden dieses Getriebe, weil hier die sichere Sperrwirkung der Schnecke verhindert, dass die Schranke oder die anhängende Last den Antrieb „zurückdrehen“.
 
-**Weitere Vorteile des Schenckenradgetriebes:**
-
-- Es ist platzsparend
-- Es reduziert die Umdrehungszahl des Antriebs um ein Vielfaches
-- Es ist selbsthemmend
-- Es steigert die Kraft des Antriebs
-- Aber es ändert auch die Richtung der Drehbewegung um 90°.
+>**Weitere Vorteile des Schenckenradgetriebes:**
+>
+>>- Es ist platzsparend
+>>- Es reduziert die Umdrehungszahl des Antriebs um ein Vielfaches
+>>- Es ist selbsthemmend
+>>- Es steigert die Kraft des Antriebs
+>>- Aber es ändert auch die Richtung der Drehbewegung um 90°.
 
 ### S1 Schneckenradgetriebe
  
-1. Baue das Schrankenmodell nach!
+1. Baue das Schrankenmodell nach der Bauanleitung ab Seite 8 auf!
+
+       ![Abbildung Schrankenmodell](assets/schrankemodel.png "*Abbildung Schrankenmodell*")
+
 2. Drehe die Schranke mit der Kurbel nach oben!
-3. Wie oft musst du die Kurbel drehen, um die Schranke in die Senkrechte zu bekommen?
-4. Versuche, die Schranke mit den Fingern nach unten zu zeihen. Was fällt dir auf?
+   
+   **Wie oft musst du die Kurbel drehen, um die Schranke in die Senkrechte zu bekommen?**
+
+       [[___ ___ ___ ___]]
+
+3. Versuche, die Schranke mit den Fingern nach unten zu zeihen. 
+
+   **Was fällt dir auf?**
+
+       [[___ ___ ___ ___]]
+
 
 ### W3 Fahrzeugantriebe
 
