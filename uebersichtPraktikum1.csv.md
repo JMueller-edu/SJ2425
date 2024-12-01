@@ -1,2 +1,0 @@
-# uebersichtPraktikum1.csv
-

@@ -348,22 +348,6 @@ timeline
 
 </details>
 
-<details>
-
-<summary> **Weitere Informationsquellen:** </summary>
-
-- [PC-Wartung und Pflege - Tipps und Tricks](https://www.pcwelt.de/ratgeber/PC-Wartung-und-Pflege-Tipps-und-Tricks-10037324.html)
-- [So reinigen Sie Ihren PC richtig](https://www.heise.de/tipps-tricks/So-reinigen-Sie-Ihren-PC-richtig-4861570.html)
-- [PC-Wartung: So bleibt Ihr Computer fit](https://www.chip.de/artikel/PC-Wartung-So-bleibt-Ihr-Computer-fit_18364856.html)
-- [Computerwartung: Tipps für eine längere Lebensdauer](https://www.computerbild.de/artikel/cb-Tipps-Software-Computerwartung-Tipps-fuer-eine-laengere-Lebensdauer-3120849.html)
-- [PC-Wartung: Die besten Tools und Tipps](https://www.netzwelt.de/anleitung/168866-pc-wartung-besten-tools-tipps.html)
-- [Vorteile und Nachteile von WLAN und LAN](https://www.computerwissen.de/netzwerk/internet/vorteile-und-nachteile-von-wlan-und-lan/)
-- [WLAN vs. LAN: Was ist besser?](https://www.chip.de/artikel/WLAN-vs.-LAN-Was-ist-besser_18364856.html)
-- [Kabelgebundenes Netzwerk vs. WLAN](https://www.heise.de/tipps-tricks/Kabelgebundenes-Netzwerk-vs-WLAN-4861570.html)
-- [Vor- und Nachteile von WLAN und LAN](https://www.netzwelt.de/anleitung/168866-pc-wartung-besten-tools-tipps.html)
-
-</details>
-
 #### S2 4.2 + 4.3 Prozess der Fehlerbehebung
 
 **Arbeitsauftrag:**
@@ -410,20 +394,20 @@ timeline
    
 5. Öffne das Module Examen `4.4` und führe dies durch!
 
-- ***dein erster Versuch wird bewertet.***
-- *Zum Anschließenden Üben kannst du beliebig viele weiteren Versuche durchführen.*
+   - ***dein erster Versuch wird bewertet.***
+   - *Zum Anschließenden Üben kannst du beliebig viele weiteren Versuche durchführen.*
 
 6. Notiere dir bei der Auswertung deines Examens die Fragen, bei denen dir die Antwort unverständlich vorkommt.
 
 7. Teile hier während der Schulstunde einer dieser Fragen.
    
-   a) Öffne dazu im Arbeitsauftrag das Menü `Share` und tritt folgendem `Classroom` bei:
-   
-      - Backend = GUN
-   
-      - room = LF1420241129
+   - a) Öffne dazu im Arbeitsauftrag das Menü `Share` und tritt folgendem `Classroom` bei:
 
-    b) Schreibe deine Frage in folgendes Textfeld:
+        - Backend = GUN
+
+        - room = LF1420241129
+
+    - b) Schreibe deine Frage in folgendes Textfeld:
 
         [[___ ___]]  
 

@@ -563,13 +563,47 @@ timeline
 
 ##  Maßeinheiten - Die Sprache der Mathematik
 
-In diesem Kapitel lernen wir die Sprache der Mathematik für Messungen kennen: **Maßeinheiten**. Maßeinheiten sind wie Wörter, die uns helfen, die Welt um uns herum zu beschreiben. Sie geben uns eine genaue Vorstellung von Größen wie Länge, Gewicht, Zeit oder Geld. 
+```@mermaid
+timeline
+          Teilkompetenz Bruchteile und Brüche
+          : W1 Bruchteile Berechnen
+          : S1 Bestimmung von Bruchteilen
+          : Die Lernenden können Bruchteile in Brüche umwandeln.
+
+          Teilkompetenz Gemischte Zahlen
+          : W2 Gemischte Zahlen
+          : S2 Umwandeln zwischen Gemischten Zahlen und Brüchen
+          : Die Lernenden können zwischen Gemischten Zahlen und Brüchen umwandeln.
+
+          Teilkompetenz Erweitern und Kürzen von Brüchen
+          : W3 Erweitern und Kürzen von Brüchen
+          : S3 Schriftliches Erweitern und Kürzen von Brüchen
+          : Die Lernenden können Brüche Erweitern und Kürzen.
+              
+          Teilkompetenz Addieren und Subtrahieren von Brüchen
+          : W4 Addieren und Subtrahieren von Brüchen
+          : S4 Schriftliches Addieren und Subtrahieren von Brüchen
+          : Die Lernenden können Brüche schriftliche Addieren und Subtrahieren.
+
+          Teilkompetenz Multiplizieren und Dividieren von Brüchen
+          : W5 Multiplizieren und Dividieren von Brüchen
+          : S5 Schriftliches Multiplizieren und Dividieren von Brüchen
+          : Die Lernenden können Brüche schriftlich Multiplizieren und Dividieren.
+
+          Teilkompetenz Anwenden von Bruchrechnung in Sachaufgaben
+          : W6 Auflösen von Textaufgaben mit Hilfe von Bruchrechnung
+          : S6 Auflösen und Lösen von Textaufgaben mit Hilfe von Bruchrechnung
+          : Die Lernenden können die Bruchrechnung beim Lösen von Textaufgaben nutzen.
+
+          Kompetenz <br> Auflösen und Lösen von einfachen Textaufgaben.
+          : Die Lernenden können Textaufgaben Auflösen und diese anschließend mithilfe der Bruchrechnung lösen.
+```
 
 ### 1. Was sind Maßeinheiten und warum brauchen wir sie?
 
-Stell dir vor, du möchtest einem Freund beschreiben, wie groß dein neues Fahrrad ist. Du könntest sagen: "Es ist ziemlich groß!" Aber was bedeutet "ziemlich groß"?  Dein Freund hat vielleicht eine ganz andere Vorstellung von Größe als du. 
+Stell dir vor, du möchtest einem Freund beschreiben, wie groß dein neues Fahrrad ist. Du könntest sagen: "Es ist ziemlich groß!" Aber was bedeutet "ziemlich groß"? Dein Freund hat vielleicht eine ganz andere Vorstellung von Größe als du. 
 
-Mit Maßeinheiten können wir Größen **genau** beschreiben. Anstatt "ziemlich groß" zu sagen, könntest du sagen: "Mein Fahrrad ist 1,5 Meter hoch".  **Meter** ist in diesem Fall die Maßeinheit und **1,5** die Maßzahl.
+Mit Maßeinheiten können wir Größen **genau** beschreiben. Anstatt "ziemlich groß" zu sagen, könntest du sagen: "Mein Fahrrad ist 1,5 Meter hoch". **Meter** ist in diesem Fall die Maßeinheit und **1,5** die Maßzahl.
 
 **Beispiele:**
 
@@ -581,7 +615,12 @@ Mit Maßeinheiten können wir Größen **genau** beschreiben. Anstatt "ziemlich 
 **Übungen:**
 
 1. Nenne drei weitere Beispiele für Messungen im Alltag und gib die entsprechenden Maßeinheiten an.
+
+    [[___ ___ ___]]
+
 2. Erkläre, warum es wichtig ist, Maßeinheiten zu verwenden, wenn man Größen beschreiben möchte.
+
+    [[___ ___ ___]]
 
 ### 2. Verschiedene Arten von Maßeinheiten
 
@@ -597,7 +636,20 @@ Es gibt viele verschiedene Arten von Maßeinheiten, je nachdem, was wir messen w
 **Übungen:**
 
 1. Ordne die folgenden Messungen den richtigen Kategorien zu: 5 cm, 10 kg, 2 €, 30 min, 100 km, 200 g, 1 h, 50 ct.
+
+    [[Längeneinheit] (Masseeieinheit) (Zeiteinheit) [Geldeinheit]]
+    [    (x)               ( )             ( )          ( )      ] 5cm
+    [    ( )               (x)             ( )          ( )      ] 10kg
+    [    ( )               ( )             ( )          (x)      ] 2€
+    [    ( )               ( )             (x)          ( )      ] 30min
+    [    (x)               ( )             ( )          ( )      ] 100km
+    [    ( )               (x)             ( )          ( )      ] 200g
+    [    ( )               ( )             (x)          ( )      ] 1h
+    [    ( )               ( )             ( )          (x)      ] 50ct
+
 2. Nenne zu jeder Kategorie zwei weitere Maßeinheiten.
+
+    [[___ ___ ___]]
 
 ### 3. Präfixe: Größere und kleinere Einheiten bilden
 
@@ -611,11 +663,19 @@ Dafür gibt es **Präfixe**. Präfixe sind kleine Wörter, die wir vor die Basis
 * **Zenti**meter (cm): 1 cm = 0,01 Meter
 * **Milli**meter (mm): 1 mm = 0,001 Meter
 
+**Videotutorial:**
+
+!?[Videotutorial von Lehrer Schmidt zu Namensvorsätzen von Einheiten](https://youtu.be/77b1Dh_PbVM?feature=shared "[Videotutorial von Lehrer Schmidt zu Namensvorsätzen von Einheiten](https://youtu.be/77b1Dh_PbVM?feature=shared)")
+
 **Übungen:**
 
 1. Was bedeuten die Präfixe "Dezi", "Hekto" und "Mega"?
+
+    [[___ ___ ___]]
+
 2. Schreibe die folgenden Längen in Metern: 3 km, 50 cm, 200 mm.
 
+    [[___ ___ ___]]
 
 ### 4. Einheiten umrechnen: Von einer Einheit in eine andere wechseln
 
@@ -623,19 +683,20 @@ Um Messungen vergleichen oder mit ihnen rechnen zu können, müssen wir sie manc
 
 **Beispiel:** 
 
-Wir wollen 2 Kilometer in Meter umrechnen. Wir wissen, dass 1 Kilometer 1000 Meter entspricht. Also rechnen wir: 2 km * 1000 = 2000 m
+Wir wollen 2 Kilometer in Meter umrechnen. Wir wissen, dass 1 Kilometer 1000 Meter entspricht. Also rechnen wir: 
+$$ 2 km \cdot 1000 = 2000 m$$
 
 #### 4.1 Längeneinheiten umrechnen - Meter für Meter
 
 In diesem Kapitel lernen wir, wie man Längeneinheiten umrechnet. Das ist wichtig, um Messungen zu vergleichen oder mit ihnen zu rechnen.  Stellt euch vor, ihr wollt wissen, ob ein 500 cm langes Seil länger ist als ein 4 m langes Seil. Um das herauszufinden, müssen wir beide Längen in der gleichen Einheit ausdrücken.
 
-##### 4.1.1 Die Basiseinheit: Meter
+**Die Basiseinheit: Meter**
 
 Die Basiseinheit für die Länge ist der **Meter (m)**.  Alle anderen Längeneinheiten leiten sich vom Meter ab.  Um Längen in verschiedenen Einheiten zu vergleichen oder mit ihnen zu rechnen, ist es oft sinnvoll, sie zuerst in Meter umzurechnen.
 
-##### 4.1.2 Präfixe: Größere und kleinere Einheiten
+**Präfixe: Größere und kleinere Einheiten**
 
-Wie wir bereits in Kapitel 3 gelernt haben, verwenden wir **Präfixe**, um größere oder kleinere Einheiten zu bilden.  Präfixe sind wie Abkürzungen, die uns sagen, wie viel mal größer oder kleiner die Einheit im Vergleich zum Meter ist. 
+Wie wir bereits gelernt haben, verwenden wir **Präfixe**, um größere oder kleinere Einheiten zu bilden.  Präfixe sind wie Abkürzungen, die uns sagen, wie viel mal größer oder kleiner die Einheit im Vergleich zum Meter ist. 
 
 Hier sind einige der gebräuchlichsten Präfixe für Längeneinheiten:
 
@@ -652,49 +713,49 @@ Hier sind einige der gebräuchlichsten Präfixe für Längeneinheiten:
 * 1 Zentimeter (cm) ist 100 mal kleiner als 1 Meter.
 * 1 Millimeter (mm) ist 1000 mal kleiner als 1 Meter.
 
-##### 4.1.3 Einheiten umrechnen: Schritt für Schritt
+**Einheiten umrechnen: Schritt für Schritt:**
 
-**Schritt 1:**  Bestimme das Präfix der Einheit, die du umrechnen möchtest.
+1. Bestimme das Präfix der Einheit, die du umrechnen möchtest.
 
-**Schritt 2:**  Schau in der Tabelle nach, welcher Wert dem Präfix entspricht.
+2. Schau in der Tabelle nach, welcher Wert dem Präfix entspricht.
 
-**Schritt 3:**  Multipliziere oder dividiere die Maßzahl mit dem Wert des Präfixes, um die Länge in Meter umzurechnen.
+3. Multipliziere oder dividiere die Maßzahl mit dem Wert des Präfixes, um die Länge in Meter umzurechnen.
 
-**Beispiele:**
+**Beispiel:**
 
-* **5 km in Meter umrechnen:**
+- **5 km in Meter umrechnen:**
+  
+  1. Präfix: **Kilo** (k)
 
-    * Präfix: **Kilo** (k)
-    * Wert: 1 km = **1000** m
-    * Rechnung: 5 km * 1000 m/km = **5000 m** 
+  2. Wert: 1 km = **1000** m
 
-* **200 cm in Meter umrechnen:**
+  3. Rechnung: 5 $\cdot$ 1000 m = ~~5000 m~~
 
-    * Präfix: **Zenti** (c)
-    * Wert: 1 cm = **0,01** m
-    * Rechnung: 200 cm * 0,01 m/cm = **2 m**
+**Videotutorial:**
 
-* **3500 mm in Meter umrechnen:**
-
-    * Präfix: **Milli** (mm)
-    * Wert: 1 mm = **0,001** m
-    * Rechnung: 3500 mm * 0,001 m/mm = **3,5 m**
+!?[Videotutorial zum umwandeln von Maßeinheiten bei Längenmaße von Lehrer Schmidt](https://youtu.be/ootsptIrfSo?feature=shared "[Videotutorial zum umwandeln von Maßeinheiten bei Längenmaße von Lehrer Schmidt](https://youtu.be/ootsptIrfSo?feature=shared)")
 
 ##### 4.1.4 Übungen:
 
-1. Rechne die folgenden Längen in Meter um:
-    * 8 km
-    * 50 dm
-    * 250 cm
-    * 1200 mm
+1. **Rechne die folgenden Längen in Meter um:**
+
+    8 km =  8 [[ ($\cdot$) |  $:$  ]] [[ 1000 ]] m = ~~[[ 8000 ]] m~~
+
+    50 dm = 50 [[ $\cdot$  | ($:$) ]] [[   10 ]] m = ~~[[  5   ]] m~~
+
+    250 cm = 250 [[ $\cdot$  | ($:$) ]] [[  100 ]] m = ~~[[  2,5 ]] m~~
+
+    1200 mm = 1200 [[ $\cdot$  | ($:$) ]] [[ 1000 ]] m = ~~[[  1,2 ]] m~~
+
 2. Ein Schulbus ist 12 m lang. Wie lang ist er in Zentimetern?
+
+    [[___ ___ ___]]
+
 3. Eine Ameise krabbelt 10 cm weit. Wie weit ist das in Millimetern?
 
-##### 4.1.5 Videotutorial: 
+    [[___ ___ ___]]
 
-[Link zu einem Video über das Umrechnen von Längeneinheiten]
-
-**Zusatzmaterial:**  Interaktive Übungen und Spiele zum Umrechnen von Längeneinheiten können das Lernen noch spannender gestalten.
+**Zusatzmaterial:** 
 
 #### 4.2 Zeitmaße umrechnen - Mit der Zeit jonglieren
 
@@ -713,12 +774,12 @@ In diesem Kapitel beschäftigen wir uns mit dem Umrechnen von Zeiteinheiten. Wie
 
 Hier ist eine Tabelle, die uns hilft, die verschiedenen Zeiteinheiten umzurechnen:
 
-| Zeitmaß   | in Stunden | in Minuten | in Sekunden |
-|------------|------------|------------|-------------|
-| 1 Tag      | 24 Stunden | 1440 Minuten | 86.400 s     |
-| 1 Stunde  | 1 Stunde   | 60 Minuten  | 3.600 s     |
-| 1 Minute  | 1/60 Stunde | 1 Minute   | 60 s        |
-| 1 Sekunde | 1/3600 Stunde | 1/60 Minute | 1 s         |
+| Zeitmaß   | in Stunden    | in Minuten   | in Sekunden |
+| --------- | ------------- | ------------ | ----------- |
+| 1 Tag     | 24 Stunden    | 1440 Minuten | 86.400 s    |
+| 1 Stunde  | 1 Stunde      | 60 Minuten   | 3.600 s     |
+| 1 Minute  | 1/60 Stunde   | 1 Minute     | 60 s        |
+| 1 Sekunde | 1/3600 Stunde | 1/60 Minute  | 1 s         |
 
 **Wichtig:**  Bei der Umrechnung von Zeiteinheiten müssen wir beachten, dass wir **nicht** immer mit 10, 100 oder 1000 multiplizieren oder dividieren. Stattdessen verwenden wir oft den Faktor **60** (von Sekunden zu Minuten und von Minuten zu Stunden) und **24** (von Stunden zu Tagen).
 

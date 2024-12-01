@@ -39,7 +39,7 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 **Mechanics 2.0**
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 Dieser Lernbaukasten ist ideal für angehende Maschinenbauer, Techniker und Ingenieure. 
 
@@ -294,37 +294,52 @@ Möchtest du noch längere Spannweiten erreichen, als mit den Fachwerkskonstrukt
 ```@mermaid
 timeline
           Teilkompetenz Getriebe
-          : S1 Schneckenradgetriebe (Schranke, Drehtisch)
-          : S2 Zahnradgetriebe ( Kurbelgetriebe)
+          : W0 Maschinen und Dynamik
+          : W1 Schneckenradgetriebe
+          : S1 Schranke
+          : S2 Drehtisch
+          : S3 Kurbelgetriebe
           : Die Lernenden kennen den Aufbau und Funktion von Getrieben in mechatronische Systemen.
 
           Teilkompetenz Fahrzeugantriebe und Lenkungen
-          : S3 Fahrzeugantriebe (Fahrzeug 1 - 4)
-          : S4 Bollerwagen
+          : W4 Antriebe
+          : S4 Fahrzeuge mit Zahnradantrieb
+          : S5 Fahrzeug mit Kettenantrieb
+          : W6 Lenkungsarten
+          : S6 Bollerwagen
           : Die Lernenden kennen verschiedene Antriebs- und Lenkungsvarianten mechatronische Systeme.
 
           Teilkompetenz Hebel
-          : W5 Hebelgesetze
-          : S5 Balkenwage
-          : W6 Drehmomente
-          : S6 Waage mit Laufgewicht
-          : W7 Flaschenzug
-          : S7 Seilzug
+          : W7 Hebelgesetze
+          : S7 Balkenwaage
+          : W8 Drehmomente
+          : S8 Waage mit Laufgewicht
+          : W9 Flaschenzug
+          : S9 Seilzug
           : Die Lernenden können den Einsatz von Hebel in mechatronischen Systemen nachvollziehen.
 
           Kompetenz <br> Mechanik
           : Die Lernenden können die Realisierung einfache mechanische Systeme nachvollziehen
 ```
 
-### Maschinen in unserer Umgebung
+### W0 Maschinen
+    
+    {{0-1}}
+*******************************************************************
 
 Wer schleppt heute noch schwere Lasten durch die Gegend? Wer bohrt ein Loch mit reiner Muskelkraft in eine Wand? Wer wäscht seine Wäsche noch mit einem Waschbrett? Fast niemand. 
 
 Der Mensch hat viele Geräte erfunden, die ihm das Leben und die Arbeit erleichtern. Angefangen beim Mahlwerk einer Mühle über die Düsentriebwerke eines Jumbo-Jets bis hin zum Computer.
 
+![Abbildung: Maschinen im Alltag](assets/abbildungMaschinenAlltag.png "Abbildung: Maschinen im Alltag")
+
 Geräte, die dir eine Arbeit erleichtern oder sogar abnehmen können, nennt man in der Fachsprache Maschinen.
 
-### Was ist Mechanik
+*******************************************************************
+
+    {{1-2}}
+******************************************************************
+**Was ist Mechanik**
 
 In der Mechanik geht es um Wirkungen und Kräfte, die starre und sich bewegende Körper beeinflussen. Die Mechanik ist in verschiedene Bereiche wie z. B. Statik, Dynamik, Kinetik oder Thermodynamik gegliedert. Wir begrenzen uns auf zwei Bereiche: die Dynamik und die Statik. 
 
@@ -332,11 +347,18 @@ Schon in der Antike haben Wissenschaftler die Bereiche der Mechanik untersucht. 
 
 Immer dann, wenn Maschinen oder Getriebe in Bewegung gesetzt werden, sind sie dynamisch. Die Dynamik beschreibt die Änderung der Bewegungsgrößen, beispielsweise beim Drehen einer Welle, bei einer Hin- und Herbewegung oder einer Zahnradübertragung. Die Dynamik ist also die Lehre von den Bewegungsänderungen. Was das genau ist, lernst du in den folgenden Kapiteln kennen.
 
-### Der Elektromotor
+******************************************************************
+
+    {{2}}
+******************************************************************
+
+**Der Elektromotor**
 
 Der Motor ist ein möglicher Antrieb für eine Maschine. Man unterscheidet zwei Arten von Motoren: Verbrennungsmotoren und Elektromotoren. Ein Auto z. B. wird von einem Verbrennungsmotor angetrieben. Einen so komplizierten Motor hast du natürlich nicht in deinem Baukasten, dafür aber einen Elektromotor, kurz auch E-Motor genannt. Elektromotoren sind die Antriebe für die meisten Maschinen des Alltags. Sie können überall eingesetzt werden, wo elektrische Energie zur Verfügung steht.
 
-Der Elektromotor in deinem Baukasten hat eine sehr hohe Drehzahl, d. h. er dreht sich so schnell, dass du eine einzelne Umdrehung gar nicht erkennen kannst. Dein Motor ist aber sehr „schwach“, er kann also keine Lasten heben und auch kein Fahrzeug antreiben. Um die schnellen Umdrehungen zu verringern und den Motor „stärker“ zu machen, benötigt man ein Getriebe.
+![Abbildung: Elektromotor Fischertechnik](assets/abbildungElektromotorFischertechnik.png "Abbildung: Elektromotor Fischertechnik")
+Der Elektromotor in deinem Baukasten hat eine sehr hohe Drehzahl, d. h. er dreht sich so schnell, dass du eine einzelne Umdrehung gar nicht erkennen kannst. Dein Motor ist aber sehr „schwach“, er kann also keine Lasten heben und auch kein Fahrzeug antreiben. Um die schnellen Umdrehungen zu verringern und den Motor „stärker“ zu machen, benötigt man ein Getriebe. 
+********************************************************************
 
 ### W1 Schneckenradgetriebe
 
@@ -351,7 +373,7 @@ Ein Schneckengetriebe arbeitet selbsthemmend, d. h. das Schneckenrad kann durch 
 
 Schranken und Kräne verwenden dieses Getriebe, weil hier die sichere Sperrwirkung der Schnecke verhindert, dass die Schranke oder die anhängende Last den Antrieb „zurückdrehen“.
 
->**Weitere Vorteile des Schenckenradgetriebes:**
+>**Weitere Vorteile des Schneckenradgetriebes:**
 >
 >>- Es ist platzsparend
 >>- Es reduziert die Umdrehungszahl des Antriebs um ein Vielfaches
@@ -377,49 +399,187 @@ Schranken und Kräne verwenden dieses Getriebe, weil hier die sichere Sperrwirku
 
        [[___ ___ ___ ___]]
 
+### S2 Drehtisch
 
-### W3 Fahrzeugantriebe
+Der Mechanismus des Schneckengetriebes wird in vielen Maschinen angewendet. Ein einfaches Beispiel dafür ist der Drehtisch, dein nächstes Modell.
+
+Bei diesem Modell soll die Drehzahl verringert und die Drehrichtung geändert werden. Der Widerstand des belasteten Drehtisches darf den Motor nicht anhalten.
+
+1. Baue den Drehtisch nach der Bauanleitung ab Seite 11 auf!
+
+       ![Abbildung: Drehtisch](assets/drehtisch.png "Abbildung: Drehtisch")
+
+2. Stelle deine Fischertechnik Aufbewahrungsbox auf den Drehtisch!
+   
+   **Kann der kleine Motor die Box tatsächlich drehen?**
+
+       [[___ ___ ___ ___]]
+
+
+### S3 Kurbelgetriebe
+
+In den folgenden Modellen baust du Zahnradgetriebe mit gerade verzahnten Stirnrädern auf. Stirnräder verwendet man immer dann, wenn die Drehbewegung auf eine parallel liegende Welle übertragen werden soll.
+
+1. Baue das Kurbelgetriebe nach der Bauanleitung ab Seite 15 auf!
+
+       ![Abbildung: Zahnradgetriebe](assets/abbildungZahnradgetreibe.png "Abbildung: Zahnradgetriebe")
+
+2. Drehe die Kurbel ein Mal.
+   
+   **Wie oft dreht sich die Welle mit dem zweiten Zahnrad?**
+
+       [[___ ___ ___ ___]]
+
+3. Drehe die Kurbel im Uhrzeigersinn. 
+
+   **In welche Richtung dreht sich das Abtriebsrad und somit die zweite Welle?**
+
+       [[___ ___ ___ ___]]
+
+    Wenn du auf diese Art ein Fahrzeug bewegen möchtest, würdest du nur sehr langsam von der Stelle kommen.
+    Außerdem würdest du rückwärts fahren. Dieses Modell soll dir auch nur zeigen, wie man ein einfaches Getriebe aufbaut und berechnet.
+
+4. **Fülle folgende Tabelle aus:**
+
+|     Beschreibung | Antriebsrad | Abtriebsrad |
+| ---------------: | :---------: | :---------: |
+|       Rad Nummer |      1      |      2      |
+|      Zähneanzahl |  [[ 20 ]]   |  [[ 20 ]]   |
+| Umdrehungsanzahl |      1      |  [[  1 ]]   |
+|     Drehrichtung |   rechts    |  [[ rechts  | (links) ]] |
+
+5. Baue das Kurbelgetriebe 2 nach der Bauanleitung ab Seite 16 auf!
+
+    ![Abbildung: Kurbelgetriebe 2](assets/kurbelgetriebe2.png "Abbildung: Kurbelgetriebe 2")
+
+6. Drehe die Kurbel ein Mal.
+   
+   **Wie oft dreht sich die Welle mit dem zweiten Zahnrad?**
+
+       [[___ ___ ___ ___]]
+
+7. Drehe die Kurbel im Uhrzeigersinn. 
+
+   **In welche Richtung dreht sich das Abtriebsrad und somit die zweite Welle?**
+
+       [[___ ___ ___ ___]]
+
+8. **Fülle folgende Tabelle aus:**
+
+|     Beschreibung | Antriebsrad | Abtriebsrad |
+| ---------------: | :---------: | :---------: |
+|       Rad Nummer |      1      |      2      |
+|      Zähneanzahl |  [[ 30 ]]   |  [[ 20 ]]   |
+| Umdrehungsanzahl |      1      |  [[  1,5 ]]   |
+|     Drehrichtung |   rechts    |  [[ rechts  | (links) ]] |
+
+
+
+### W4 Antriebe
 
 **Rückblick Zahnradgetriebe**
 
-![Bild: Zahnradgetriebe](assets/zahnradgetriebe.png)
+![Abbildung: Zahnradgetriebe](assets/abbildungZahnradgetreibe.png "Abbildung: Zahnradgetriebe")
 
 Zahnräder gehören zu den ältesten und robustesten Maschinenelementen. Es gibt sie in verschiedenen Arten und Größen.
 
 Mit Zahnradgetrieben kann man Drehbewegungen übertragen und verändern.
 
-Ein Zahnradgetriebe kann:
+>Ein Zahnradgetriebe kann:
+>
+>>- eine Drehbewegung weiterleiten
+>>- eine Drehzahl ändern
+>>- eine Drehkraft erhöhen oder verringern
+>>- oder eine Drehrichtung ändern
 
-- eine Drehbewegung weiterleiten
-- eine Drehzahl ändern
-- eine Drehkraft erhöhen oder verringern
-- oder eine Drehrichtung ändern
-
-Eine ähnliche Funktion wie bei einem Zahnradgetriebe kennst du von deinem Fahrrad. Allerdings sind hier die
-Zahnräder durch Kettenräder und eine Kette ersetzt.
+Eine ähnliche Funktion wie bei einem Zahnradgetriebe kennst du von deinem Fahrrad. Allerdings sind hier die Zahnräder durch Kettenräder und eine Kette ersetzt.
 
 **[Ausblick Schaltung am Fahrrad](https://www.leifiphysik.de/mechanik/einfache-maschinen/ausblick/schaltung-beim-fahrrad)**
 
-### S3 Fahrzeugantriebe
+### S4 Fahrzeugantriebe
 
-1. **Bereite die Kabel und Stecker wie folgt (Bauanleitung Seite 6) vor!**
+Du hast jetzt schon viel über Getriebe gelernt und kannst dieses Wissen an einem Modell ausprobieren. 
 
-![Bild: Vorbereitung Kabel und Stecker](assets/vorbereitungKabelStecker.png)
+1. Baue das Fahrzeug 1 nach der Bauanleitung ab Seite 23 auf. 
 
-2. **Bereite das Akkupack wie folgt vor (Bauanleitung Seite 7) vor!**
+    ![Abbildung: Fahrzeug 1](assets/fahrzeug.png "Abbildung: Fahrzeug 1")
 
-![Bild: Vorbereitung Akku](assets/vorbereitungAkku.png)
+    - *Du hast mit dem Motor und dem Getriebe jetzt einen richtigen Fahrzeugantrieb.*
 
-3. **Bearbeite Seite 7 und 8 im Begleitheft!**
+2. Damit es noch schneller geht, baue Fahrzeug 2 nach der Bauanleitung ab Seite 25 auf. 
 
-![Bild: Begleitheft Seite 7](assets/begleitheftS7.png)
+    - *Dein Mobil fährt nun 1,5 mal so schnell wie sein Vorgänger.*
 
+    - *Dafür hat diese Übersetzung aber ihre Probleme am Berg.*
 
-![Bild: Begleitheft Seite 8](assets/begleitheftS8.png)
+3. Baue das Fahrzeug 3 nach der Bauanleitung ab Seite 27 auf.
 
-***Beantworte die darin befindlichen Fragen schriftlich!***
+   - Das Fahrzeug 3 hat einen „umgekehrten“ Getriebeaufbau wie das Fahrzeug
+   - Wie verändert sich wohl seine Geschwindigkeit im Vergleich zu den anderen Modellen?
 
-### W5 Hebelgesetze
+        [[___ ___ ___ ___]]
+
+>Mit den drei Zahnradgetrieben hast du einmal eine Übersetzung 1:1 mit gleichbleibender Drehzahl und gleichem Drehmoment geschaffen. Dein zweites Modell hat das Übersetzungsverhältnis 1:1,5 und ein vermindertes Drehmoment. Das bedeutet, dass es schneller ist, aber weniger „Kraft“ hat. Das Fahrzeug 3 hat das Übersetzungsverhältnis 2:1 und fährt somit langsamer als die beiden anderen, deshalb nennt man es Untersetzung. Diese Art von Übertragung hat den Vorteil, dass es „stärker“ ist, also ein höheres Drehmoment hat. Dieser Effekt wird z. B. bei einem Traktor ausgenutzt. Er fährt zwar langsamer als ein Pkw, hat dafür aber viel mehr Kraft.
+
+### S5 Fahrzeug mit Kettenantrieb
+
+Sollen größere Distanzen zwischen zwei Wellen überbrückt werden, verwendet man so genannte Zugmittelgetriebe. Als Zugmittel werden Riemen oder Ketten eingesetzt. Sie verbinden die An- und Abtriebsräder über längere Distanzen miteinander, indem sie die Maschinenteile in einem bestimmten Zusammenspiel halten.
+
+1. Baue das Fahrzeug 4 nach der Bauanleitung ab Seite 29 auf.
+
+    ![Abbildung: Fahrzeug 4](assets/fahrzeug4.png "Abbildung: Fahrzeug 4")
+
+2. Ersetzte den Motor durch ein Kurbel 
+
+3. Drehe die Kurbel ein Mal. 
+   
+    **Wie oft dreht sich das Rad?**
+
+        [[___ ___ ___ ___]]
+
+4. Drehe die Kurbel im Uhrzeigersinn. 
+
+    **In welche Richtung dreht sich das Rad?**
+
+        [[___ ___ ___ ___]]
+
+5. **Fülle folgende Tabelle aus:**
+
+|     Beschreibung | Antriebsrad | Abtriebsrad |
+| ---------------: | :---------: | :---------: |
+|       Rad Nummer |      1      |      2      |
+|      Zähneanzahl |  [[ 20 ]]   |  [[ 20 ]]   |
+| Umdrehungsanzahl |      1      |  [[  1 ]]   |
+|     Drehrichtung |   rechts    |  [[ (rechts)  | links ]] |
+
+### W6 Lenkungsarten
+
+Um Fahrzeuge lenkbar zu machen gibt es verschiedenste Systeme.
+Wir betrachten zwei davon. 
+
+Die Achsschenkellenkung deines motorgetriebenen Fahrzeugs und die Drehschemellenkung des Bollerwagens.
+
+Bei der moderneren Achschenkellenkung werden nicht die Räder mitsamt einer durchgehende Achse gedreht, wie noch bei der Drehschemellenkung, sondern schwenkbare Räder mit einem Lenksystem verbunden. 
+
+Das Lenken beginnt mit dem Lenkrad. In diesem steckt eine Stange, an deren Ende ein kleines Zahnrad befestigt ist. Das Zahnrad greift in eine querliegenden Zahnstange ein, die ebenfalls Zähne hat. 
+
+Drehst du jetzt am Lenkrad nach links oder rechts, dreht sich auch das kleine Zahnrad und schiebt die Zahnstange nach links oder rechts. An den Enden der Zahnstange sind schwenkbare Radträger mit Hebeln befestigt. Der Hebel am Radträger ist mit der Zahnstange verbunden. Verschiebt sich die Zahnstange, verdreht sie den Hebel und mit ihm den Radträger mit dem daran befestigten Rad.
+
+!?[Video: Achsschenkellenkung](https://youtu.be/DAvFyDLjz10?feature=shared "[Video: Achsschenkellenkung](https://youtu.be/DAvFyDLjz10?feature=shared)")
+
+### S6 Bollerwagen
+
+Die Drehschemellenkung ist die einfachste und älteste, die der Mensch entwickelt hat. Sie ist einfach aufgebaut, robust und kann sogar aus Holz gefertigt sein. Die Kelten (ca. 600–30 v. Chr.) entwickelten sie vor langer Zeit für ihre Wagen. Gerade weil sie so einfach und robust ist, wird sie auch heute noch bei vielen Anhängewagen, Handkarren und Pferdefuhrwerken verwendet.
+
+![Abbildung: Drehschemellenkung](assets/drehschemellenkung.png "Abbildung: Drehschemellenkung")
+
+Die Drehschemellenkung hat einen schemelartigen Träger für Achse und Räder. Dieser steckt auf einem drehbar gelagerten Zapfen in der Bodenplatte des Wagens. Gelenkt wird mit einem Stab (Deichsel), der am Drehschemel befestigt ist
+
+1. **Baue den Bollerwagen nach der Bauanleitung ab Seite 31 auf.**
+
+    ![Abbildung Bollerwagen](bollerwagen.png)
+
+### W7 Hebelgesetze
 
 !?[Erklärvideo von the simple club über Hebelgesetze](https://youtu.be/-halnFPU5ls?feature=shared "[Erklärvideo von the simple club über Hebelgesetze](https://youtu.be/-halnFPU5ls?feature=shared)")
 
@@ -439,58 +599,67 @@ $F_1 \cdot \alpha_1 = F_2 \cdot \alpha_2$
 
 Hans und Katrin setzen sich auf eine 3m lange Wippe. Hans hat eine Gewichtskraft von 500N und setzt sich 40cm vom linken Ende entfernt auf die Stange, Katrin hat eine Gewichtskraft von 400N und setzt sich 1,20m rechts vom Drehpunkt entfernt auf die Stange.
 
-1. Berechne, nach welcher Seite die Wippe kippt, wenn sich beide Kinder auf die Waagrechte Stange setzten.
-2. Berechne, wo sich Katrin hinsetzten muss, damit Gleichgewicht herrscht.
+        1. **Berechne, nach welcher Seite die Wippe kippt, wenn sich beide Kinder auf die waagrechte Stange setzten.**
+
+        [[___ ___ ___ ___]]
+
+2. **Berechne, wo sich Katrin hinsetzten muss, damit Gleichgewicht herrscht.**
+
+    [[___ ___ ___ ___]]
 
 ![Aufgabe Wippe](assets/loesenaufgabeWippe.excalidraw.png)
 
-### S5 Balkenwage
+### S7 Balkenwage
 
 Um den Preis einer Ware zu bestimmen, hat man schon vor 4000 Jahren die Menge der Ware mit Gewichten
 verglichen. Das machte man mit Hilfe einer Balkenwaage, mit der die Balance von zwei Gewichtskräften gemessen
 wurde. Bei deinem Modell ist es ein im mittleren Drehpunkt gelagerter Balken, der an den Enden zwei
-Schalen trägt. Die beiden Zeiger in der Mitte des Waagbalkens müssen beim Gleichgewicht der Kräfte in einer
+Schalen trägt. Die beiden Zeiger in der Mitte des Waagebalkens müssen beim Gleichgewicht der Kräfte in einer
 Linie sein.
-
-![Bild Balkenwage](assets/Balkenwagen.png "Bild: Balkenwage")
 
 **Arbeitsauftrag**
 
- 1. Baue die Balkenwaage anhand der Bauanleitung (s. 68) nach.
- 2. Lege auf beide Waagschalen je einen fischertechnik-Baustein. 
-        a. Stimmt deine Waage?
- 3. Suche nun zwei Gegenstände, die deiner Meinung nach das gleiche Gewicht haben. Lege sie auf die Waagschalen. 
-        a. Stimmt deine Vermutung?
- 4. Lese den Absatz Zweiseitiger Hebel und bearbeite die darin gestellte Aufgabe schriftlich!
+    1. Baue die Balkenwaage anhand der Bauanleitung ab s. 68 ?
 
-Diese Waage funktioniert nach dem Prinzip der gleichlangen Hebel. Ein Hebel ist ein
-gerader, drehbar gelagerter Balken, auf den zwei Kräfte wirken. Die Abstände zwischen
-den Ansatzpunkten der Kräfte und dem Drehpunkt heißen Hebelarme. Beide Seiten
-neben dem Drehpunkt sind gleich lang und gleich schwer. Das Prinzip dieser Waage
-kennst du von einer Wippe. Damit die Hebel im Gleichgewicht sind, muss das Gewicht,
-das auf den Hebeln ruht, und ihr Abstand zum Drehpunkt der Waage gleich sein.
+        ![Bild Balkenwage](assets/Balkenwagen.png "Bild: Balkenwage")
 
-### W6 Drehmomente
+    2. Lege auf beide Waagschalen je einen fischertechnik-Baustein.
+
+         **Stimmt deine Waage?**
+
+        [[___ ___ ___ ___]] 
+
+    3. Suche nun zwei Gegenstände, die deiner Meinung nach das gleiche Gewicht haben. Lege sie auf die Waagschalen.
+
+        **Stimmt deine Vermutung?**
+
+        [[___ ___ ___ ___]]
+ 
+
+>Diese Waage funktioniert nach dem Prinzip der gleichlangen Hebel. Ein Hebel ist ein gerader, drehbar gelagerter Balken, auf den zwei Kräfte wirken. Die Abstände zwischen den Ansatzpunkten der Kräfte und dem Drehpunkt heißen Hebelarme. Beide Seiten neben dem Drehpunkt sind gleich lang und gleich schwer. Das Prinzip dieser Waage kennst du von einer Wippe. Damit die Hebel im Gleichgewicht sind, muss das Gewicht, das auf den Hebeln ruht, und ihr Abstand zum Drehpunkt der Waage gleich sein.
+
+### W8 Drehmomente
 
 !?[Erklärvideo von the simple club zum Thema Drehmoment](https://youtu.be/WA0ry1H4LZ4?feature=shared "[Erklärvideo von the simple club zum Thema Drehmoment](https://youtu.be/WA0ry1H4LZ4?feature=shared)")
 
-### S6 Waage mit Laufgewicht
+### S8 Waage mit Laufgewicht
 
-Es braucht schon etwas Geduld, um zwei Gewichte zu finden, die genau gleich schwer sind. Eine Weiterentwicklung der Balkenwaage ist daher die Waage mit einem Laufgewicht. Auch diese Waage arbeitet nach dem Prinzip der gleich langen Hebel, nur wird hier mit den Drehmomenten getrickst. Die beiden Seiten neben dem Drehpunkt sind
-die Kraftarme. Je weiter außen ein Gewicht an einem Kraftarm hängt, desto höher ist seine Kraft. Mit Hilfe des Schiebers
-kann also das Drehmoment in einem Kraftarm geändert werden. Den Arm mit der Waagschale nennt man Lastarm.
+Es braucht schon etwas Geduld, um zwei Gewichte zu finden, die genau gleich schwer sind. Eine Weiterentwicklung der Balkenwaage ist daher die Waage mit einem Laufgewicht. Auch diese Waage arbeitet nach dem Prinzip der gleich langen Hebel, nur wird hier mit den Drehmomenten getrickst. 
 
-![Bild Waage mit Laufgewicht](assets/waage_mit_laufgewicht.png "Bild: Waage mit Laufgewicht")
+Die beiden Seiten neben dem Drehpunkt sind die Kraftarme. Je weiter außen ein Gewicht an einem Kraftarm hängt, desto höher ist seine Kraft. Mit Hilfe des Schiebers kann also das Drehmoment in einem Kraftarm geändert werden. Den Arm mit der Waagschale nennt man Lastarm.
 
 **Arbeitsauftrag**
 
-1. Baue die Waage mit Last- und Kraftarm und Laufgewicht nach.
-2. Reguliere das Laufgewicht so, dass die Waage unbelastet im Gleichgewicht ist. Der Zeiger in der Mitte der Waage hilft dir dabei.
-3. Belaste die Waagschale mit einem Gewicht. Gleiche mit dem Laufgewicht aus.
+    1. Baue die Waage mit Last- und Kraftarm und Laufgewicht nach Bauanleitung ab Seite 72 auf.
 
-Damit ein Hebel im Gleichgewicht ist, muss die Summe der linksdrehenden Drehmomente mit der Summe der rechtsdrehenden Drehmomente übereinstimmen. Das hört sich kompliziert an, doch so schwierig ist es gar nicht. Das Gesetz sagt aus, dass beide Arme, links und rechts des Drehpunkts, gleich schwer, aber nicht gleich lang sein müssen. Je weiter ein Gewicht vom Drehpunkt entfernt ist, desto größer ist die Kraft des Hebels und somit auch sein Gewicht.
+        ![Bild Waage mit Laufgewicht](assets/waage_mit_laufgewicht.png "Bild: Waage mit Laufgewicht")
 
-### W7 Flaschenzug
+    2. Reguliere das Laufgewicht so, dass die Waage unbelastet im Gleichgewicht ist. Der Zeiger in der Mitte der Waage hilft dir dabei.
+    3. Belaste die Waagschale mit einem Gewicht. Gleiche mit dem Laufgewicht aus.
+
+>Damit ein Hebel im Gleichgewicht ist, muss die Summe der linksdrehenden Drehmomente mit der Summe der rechtsdrehenden Drehmomente übereinstimmen. Das hört sich kompliziert an, doch so schwierig ist es gar nicht. Das Gesetz sagt aus, dass beide Arme, links und rechts des Drehpunkts, gleich schwer, aber nicht gleich lang sein müssen. Je weiter ein Gewicht vom Drehpunkt entfernt ist, desto größer ist die Kraft des Hebels und somit auch sein Gewicht.
+
+### W9 Flaschenzug
 
 !?[Erklärvideo von the simple club zum Thema Flaschenzug](https://youtu.be/_2vn4Im475s?feature=shared "[Erklärvideo von the simple club zum Thema Flaschenzug](https://youtu.be/_2vn4Im475s?feature=shared)")
 
@@ -524,14 +693,25 @@ Entscheidend bei der Anordnung der Rolle(n) und des Seils ist es nun, dass die L
 
 **Aufgabe**
 
-Gegeben sind $F_L=90N$ und $s_L=15cm$
+Gegeben ist folgender Aufbau:
 
-1. Entnimm der Abbildung die Anzahl $n$ der tragenden Seilabschnitte.
-2. Berechne $F_z$ und $s_Z$
+![Flaschenzug](assets/aufgabeFlaschenzug.png "Abbildung: Flaschenzug")
 
-![Flaschenzug](assets/aufgabeFlaschenzug.png)
+bei folgenden Größen :
 
-### S7 Seilrollen-Flaschenzug
+- $F_L=90N$ 
+- $s_L=15cm$
+
+1. **Entnimm der Abbildung die Anzahl $n$ der tragenden Seilabschnitte.**
+
+   n = [[0 | 1 | (2) | 3]]
+
+2. **Berechne $F_z$ und $s_Z$**
+   
+   - $F_z$ = [[ 200 ]] N
+   - $s_Z$ = [[  45 ]] cm
+
+### S9 Seilrollen-Flaschenzug
 
 Stell dir vor, du möchtest deinen Freund an einem Seil nach oben ziehen. Obwohl er genauso schwer ist wie du, schaffst du es nur mit enormem Kraftaufwand. Die Seilrolle an der Decke hilft dir nur beim Halten, nicht beim Heben. Das Flaschenzugmodell stellt dir aber einige Möglichkeiten vor, wie du es ganz leicht schaffst, auch schwere Lasten zu heben.
 
