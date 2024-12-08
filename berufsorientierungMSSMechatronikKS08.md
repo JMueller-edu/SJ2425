@@ -577,7 +577,7 @@ Die Drehschemellenkung hat einen schemelartigen Träger für Achse und Räder. D
 
 1. **Baue den Bollerwagen nach der Bauanleitung ab Seite 31 auf.**
 
-    ![Abbildung Bollerwagen](bollerwagen.png)
+    ![Abbildung Bollerwagen](assets/bollerwagen.png)
 
 ### W7 Hebelgesetze
 
@@ -597,17 +597,131 @@ $F_1 \cdot \alpha_1 = F_2 \cdot \alpha_2$
 
 **Aufgabe**
 
+![Abbildung: Wippe](assets/aufgabeWippe.png)
+
 Hans und Katrin setzen sich auf eine 3m lange Wippe. Hans hat eine Gewichtskraft von 500N und setzt sich 40cm vom linken Ende entfernt auf die Stange, Katrin hat eine Gewichtskraft von 400N und setzt sich 1,20m rechts vom Drehpunkt entfernt auf die Stange.
 
-        1. **Berechne, nach welcher Seite die Wippe kippt, wenn sich beide Kinder auf die waagrechte Stange setzten.**
+1. **Berechne, nach welcher Seite die Wippe kippt, wenn sich beide Kinder auf die waagrechte Stange setzten.**
 
-        [[___ ___ ___ ___]]
+``` ascii
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+``` 
+
+Die Wippe kippt nach **[[ rechts ]]**.
+[[?]] Die Wippe kippt immer nach der Seite, bei der das Produkt aus **Kraft** und **Abstand vom Drehpunkt** auf dieser Seite größer ist. Wir berechnen also die Produkte für **Hans** und **Katrin** 
+*******************************************************************
+**Nach welcher Seite kippt die Wippe?**
+
+Die Wippe kippt immer nach der Seite, bei der das Produkt aus **Kraft** und **Abstand vom Drehpunkt** auf dieser Seite größer ist. Wir berechnen also die Produkte für **Hans** und **Katrin**:
+
+Für **Hans**:
+
+$$
+F_{\text{Hans}} \cdot r_{\text{Hans}} = 500 \, \text{N} \cdot 0,40 \, \text{m} = 200 \, \text{N} \cdot \text{m}
+$$
+
+Für **Katrin**:
+
+$$
+F_{\text{Katrin}} \cdot r_{\text{Katrin}} = 400 \, \text{N} \cdot 1,20 \, \text{m} = 480 \, \text{N} \cdot \text{m}
+$$
+
+Da das Produkt auf der rechten Seite (Katrin) mit **480 N·m** größer ist als das Produkt auf der linken Seite (Hans) mit **200 N·m**, wird die Wippe nach **rechts kippen**.
+
+**Antwort zu a:** Die Wippe kippt nach **rechts**.
+*******************************************************************
 
 2. **Berechne, wo sich Katrin hinsetzten muss, damit Gleichgewicht herrscht.**
 
-    [[___ ___ ___ ___]]
 
-![Aufgabe Wippe](assets/loesenaufgabeWippe.excalidraw.png)
+``` ascii
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+```
+Katrin muss sich **[[ 0,50 ]] m** vom Drehpunkt entfernt setzen, damit das Gleichgewicht herrscht.
+[[?]] Für das Gleichgewicht der Wippe müssen die Produkte der **Kraft** und des **Abstandes vom Drehpunkt** auf beiden Seiten gleich sein.
+*******************************************************************
+**b) Wo muss sich Katrin hinsetzen, damit Gleichgewicht herrscht?**
+
+Für das Gleichgewicht der Wippe müssen die Produkte der **Kraft** und des **Abstandes vom Drehpunkt** auf beiden Seiten gleich sein. Das heißt:
+
+$$
+F_{\text{Hans}} \cdot r_{\text{Hans}} = F_{\text{Katrin}} \cdot r_{\text{Katrin}}
+$$
+
+Setzen wir die bekannten Werte ein:
+
+$$
+500 \, \text{N} \cdot 0,40 \, \text{m} = 400 \, \text{N} \cdot r_{\text{Katrin}}
+$$
+
+Nun lösen wir nach $r_{\text{Katrin}}$ auf:
+
+$$
+200 \, \text{N} \cdot \text{m} = 400 \, \text{N} \cdot r_{\text{Katrin}}
+$$
+
+$$
+r_{\text{Katrin}} = \frac{200 \, \text{N} \cdot \text{m}}{400 \, \text{N}} = 0,50 \, \text{m}
+$$
+
+**Antwort zu b:** Katrin muss sich **0,50 m** vom Drehpunkt entfernt setzen, damit das Gleichgewicht herrscht.
+*******************************************************************
 
 ### S7 Balkenwage
 
@@ -707,7 +821,39 @@ bei folgenden Größen :
    n = [[0 | 1 | (2) | 3]]
 
 2. **Berechne $F_z$ und $s_Z$**
-   
+
+``` ascii
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+``` 
+
    - $F_z$ = [[ 200 ]] N
    - $s_Z$ = [[  45 ]] cm
 
@@ -718,6 +864,42 @@ Stell dir vor, du möchtest deinen Freund an einem Seil nach oben ziehen. Obwohl
 ![Bild Seilrollen-Flaschenzug](assets/seilrollen-flaschenzug.png "Bild: Seilrollen-Flaschenzug")
 
 **Arbeitsauftrag**
+
+1.  Baue das Flaschenzugmodell mit 2 Seilrollen (eine feste und eine lose Seilrolle).
+
+    - ![Abbildung: Flaschenzug mit zwei Seilrollen](assets/flaschenzug2Seilrollen.png "Abbildung: Flaschenzug mit zwei Seilrollen")
+
+    - Hänge an den Haken ein Gewicht.
+
+    - Ziehe am Seil und messe, wie weit du ziehen musst, um deine Last 10 cm anzuheben.
+
+    - Notiere deine Beobachtungen in der unten folgenden Tabelle
+
+2. Erweitere dein Modell zu einem Flaschenzug mit 3 Seilrollen.
+
+    - ![Abbildung: Flaschenzug mit drei Seilrollen](assets/flaschenzug3Seilrollen.png "Abbildung: Flaschenzug mit drei Seilrollen")
+
+    - Ziehe wieder am Seil und messe, wie weit du jetzt ziehen musst, um deine Last 10 cm anzuheben. Brauchst du dafür mehr oder weniger Kraft als in Aufgabe 1?
+
+    - Notiere deine Beobachtungen in der unteren Tabelle.
+
+3. Erweitere dein Modell zu einem Flaschenzug mit 4 Seilrollen
+
+    - ![Abbildung: Flaschenzug mit vier Seilrollen](assets/flaschenzug4Seilrollen.png "Abbildung: Flaschenzug mit vier Seilrollen")
+
+    - Ziehe wieder am Seil und messe, wie weit du jetzt ziehen musst, um deine Last 10 cm anzuheben. Brauchst du dafür mehr oder weniger Kraft als in Aufgabe 2?
+
+    - Notiere deine Beobachtungen in der unteren Tabelle.
+
+| Anzahl der Seilrollen | Zuglänge in cm |           Kraftaufwand nach Gefühl           | Anzahl der Seilteile |
+| --------------------: | :------------: | :------------------------------------------: | :------------------: |
+|                     2 |    [[ 20 ]]    | [[ am wenigsten | mittel | (am meisten) ]] |          3           |
+|                     3 |    [[ 30 ]]    | [[ am wenigsten | (mittel) | am meisten ]] |          4           |
+|                     4 |    [[ 40 ]]    | [[ (am wenigsten) | mittel | am meisten ]] |          5           |
+
+Um schwere Lasten mit wenig Kraft heben zu können, braucht man Flaschenzüge mit zwei, vier oder sechs Rollen. Wenn man das Gewicht der Rollen und die Reibungskräfte vernachlässigt, reduziert der Flaschenzug die Kraft, je nach Zahl der Rollen, auf die Hälfte, ein Viertel bzw. ein Sechstel.
+
+>Die Physik kennt die Arbeitsweise deines Flaschenzuges und hat dazu ein Gesetz erfunden, man nennt dieses Gesetz die **goldene Regel**. Sie besagt: „Arbeit kann nicht gespart werden, alles was an Kraft gespart wird, muss an Zeit und Weg zugelegt werden!“
 
 ## Programmierung
 
