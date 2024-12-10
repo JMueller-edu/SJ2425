@@ -1770,16 +1770,20 @@ $$
 
 ![Abbildung: Gaming Abend mit Freunden](assets/gaming.png)
 
-Max plant einen Gaming-Abend mit seinen Freunden. Er spielt dabei verschiedene Spiele und sorgt für Snacks und Getränke:
-
-- Zum Aufwärmen spielt Max ein Rennspiel, bei dem jede Runde **4 Minuten und 30 Sekunden** dauert. Er fährt **5 Runden**.
-- Danach spielt er ein Strategiespiel für insgesamt **2 Stunden und 15 Minuten**.
-- Während des Gaming-Abends trinkt er **1,2 Liter** von insgesamt **2,5 Litern** Cola, die zur Verfügung stehen.
-- Die Konsole verbraucht pro Stunde **120 Watt (W)**.
+>**Max plant einen Gaming-Abend mit seinen Freunden. Er spielt dabei verschiedene Spiele und sorgt für Snacks und Getränke:**
+>
+>> - Zum Aufwärmen spielt Max ein Rennspiel, bei dem jede Runde **4 Minuten und 30 Sekunden** dauert. Er fährt **5 Runden**.
+>> - Danach spielt er ein Strategiespiel für insgesamt **2 Stunden und 15 Minuten**.
+>> - Während des Gaming-Abends trinkt er **1,2 Liter** von insgesamt **2,5 Litern** Cola, die zur Verfügung stehen.
+>> - Die Konsole verbraucht pro Stunde **120 Watt (W)**.
 
 ---
 
 **a) Wie lange spielt Max das Rennspiel insgesamt in Minuten und Sekunden?**
+
+<details>
+
+<summary>*Platz für Berechnungen*</summary>
 
 ``` ascii
 +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
@@ -1812,6 +1816,8 @@ Max plant einen Gaming-Abend mit seinen Freunden. Er spielt dabei verschiedene S
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
 ```
+
+</details>
 
 
 Max spielt das Rennspiel insgesamt **[[ 22 ]] Minuten und [[ 30 ]] Sekunden**.
@@ -1840,6 +1846,11 @@ Max spielt das Rennspiel insgesamt **22 Minuten und 30 Sekunden**.
 
 **b) Wie viel Liter Cola bleiben nach dem Gaming-Abend übrig?**
 
+
+<details>
+
+<summary>*Platz für Berechnungen*</summary>
+
 ``` ascii
 +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -1871,6 +1882,9 @@ Max spielt das Rennspiel insgesamt **22 Minuten und 30 Sekunden**.
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
 ```
+
+</details>
+
 
 
 Nach dem Gaming-Abend bleiben **[[ 1,3 ]] Liter Cola** übrig.
@@ -1895,6 +1909,10 @@ Nach dem Gaming-Abend bleiben **1,3 Liter Cola** übrig.
 
 **c) Wie viel Energie verbraucht die Konsole während des gesamten Gaming-Abends in Kilowattstunden (kWh)?**
 
+<details>
+
+<summary>*Platz für Berechnungen*</summary>
+
 ``` ascii
 +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -1926,6 +1944,8 @@ Nach dem Gaming-Abend bleiben **1,3 Liter Cola** übrig.
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
 ```
+
+</details>
 
 
 Die Konsole verbraucht während des Gaming-Abends **[[ 0,315 ]] kWh**.
