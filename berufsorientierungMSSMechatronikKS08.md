@@ -919,33 +919,198 @@ timeline
           : Die Lernenden 
 ```
 
-### S1 Station 1
+### W1 Erste Schritte RoboPro und TXT-Controller
 
-**Vorbereitung**
+**Arbeitsauftrag:**
 
 1. Schaue dir das Erklärvideo zu den ersten Schritten in der Roboterumgebung an.
         
         !?[Erklärvideo Erste Schritte in der Roboterumgebung von Fischertechnik](https://youtu.be/Bwz9sDOE8J8?feature=shared "Erklärvideo Erste Schritte in der Roboterumgebung von Fischertechnik")
 
+2. Starte das Video erneut, diesmal führe alle Schritte im Video selber aus.
 
-2. Schließe nun, wie im Film gezeigt, den Motor am Interface an den Interfaceausgang M1 an und den Taster an I1 an.
-   Die Bedienungsanleitung zum TXT-Controller findest du [hier](https://www.bing.com/ck/a?!&&p=108604b1067f7e4a87d390b0b7a7d9ddf43bad93c16475c391c8f0528679759cJmltdHM9MTcyOTgxNDQwMA&ptn=3&ver=2&hsh=4&fclid=2bed1191-aa52-6af2-1d74-025cabf86b9f&psq=fischertechnik+robotics+txt+bedienungsanleitung&u=a1aHR0cHM6Ly93d3cuZmlzY2hlcnRlY2huaWsuZGUvLS9tZWRpYS9maXNjaGVydGVjaG5pay9maXRlL3NlcnZpY2UvZWxlYXJuaW5nL3NwaWVsZW4vc21hcnR0ZWNoL3R4dC1jb250cm9sbGVyX2RlLnBkZg&ntb=1).
+    ![Abbildung: Windrad](assets/windrad.png "Abbildung: Windrad")
 
-   ![Abbildung Aufbau Station 1](assets/aufbauStation2.png "Abbildung Aufbau Station 1")
+3. Wo gab es bei der Umsetzung Probleme?
 
-3. Öffne die Programmiersoftware RoboPro und teste ob du den Motor und den Taster richtig angeschlossen hast. Hilfe erhältst du in der Programmhilfe.
+    [[___ ___ ___ ___]]
 
-#### Aufgaben
+### S1 Station 1
 
-1. Programmiere den Motor M1 so, dass er sich zunächst nach Betätigen des Taster an I1 5 Sekunden nach links dreht.
-2. Nun soll sich der Motor 5 Sekunden nach rechts drehen.
-3. Schließe einen weiteren Taster 2 an I2 an. Jetzt soll der Motor M1 nach Betätigung von Taster 1 starten und durch die Betätigung von T2 stoppen.
-4. Tausche den Motor M1 mir einer Lampe aus und verändere das Programmicon so, dass du über den Taster 1 das Licht anschaltest und über den Taster 2 ausschaltest.
-5. Baue nun eine Endlosschleife ein, indem du das Programmicon Ende auf der Programmierung entfernst
+**Aufbau:**
 
+1. Lege dir folgende Bauteile bereit:
+
+    ![Abbildung: Bauteile Station 1](assets/bauteillisteStation1.png "*Tabelle: Bauteilliste Station 1*")
+
+2. Schließe, wie zuvor im Film gezeigt, den **Motor** am Interface an den Interfaceausgang `M1` an und den **Taster** an `I1` an.
+   
+   ![Abbildung Aufbau Station 1](assets/aufbauStation1.png "*Abbildung Aufbau Station 1*")
+
+   Eine **Bedienungsanleitung** zum **TXT-Controller** findest du **[hier](https://www.bing.com/ck/a?!&&p=108604b1067f7e4a87d390b0b7a7d9ddf43bad93c16475c391c8f0528679759cJmltdHM9MTcyOTgxNDQwMA&ptn=3&ver=2&hsh=4&fclid=2bed1191-aa52-6af2-1d74-025cabf86b9f&psq=fischertechnik+robotics+txt+bedienungsanleitung&u=a1aHR0cHM6Ly93d3cuZmlzY2hlcnRlY2huaWsuZGUvLS9tZWRpYS9maXNjaGVydGVjaG5pay9maXRlL3NlcnZpY2UvZWxlYXJuaW5nL3NwaWVsZW4vc21hcnR0ZWNoL3R4dC1jb250cm9sbGVyX2RlLnBkZg&ntb=1)**.
+
+
+3. Öffne die Programmiersoftware **RoboPro** und teste ob du den Motor und den Taster richtig angeschlossen hast. 
+   
+    - *Hilfe erhältst du in der Programmhilfe.*
+
+---
+
+**Aufgaben:**
+
+1. Programmiere den **Motor** `M1` so, dass er sich zunächst nach Betätigen des **Taster** an `I1` **5 Sekunden nach links dreht**.
+
+   - Verwende dazu folgende Programmierungselemente:
+
+        ![Abbildung: Programmierelemente Station 1](assets/programmierelementeStation1.png "*Abbildung: Programmierelemente Station 1*")
+
+2. Nun soll sich der **Motor 5 Sekunden nach rechts drehen**.
+3. Schließe einen weiteren **Taster 2** an `I2` an. Jetzt soll der **Motor** `M1` nach Betätigung von **Taster 1 starten** und durch die Betätigung von **Taster 2 stoppen**.
+4. Tausche den **Motor** `M1` mir einer **Lampe** aus und verändere das Programmicon so, dass du über den **Taster 1** das **Licht anschaltest** und über den **Taster 2 ausschaltest**.
+
+    ![Abbildung: Verkabelung Aufgabe 3+4](assets/verkabelungAufgabe3u4.png "*Abbildung: Verkabelung Aufgabe 3+4*")
+
+5. Baue nun eine **Endlosschleife** ein, indem du das **Programmicon** `Ende` auf der Programmierung **entfernst**.
+
+---
+
+<details>
+
+<summary>**Musterlösung Aufgabe 1+2 (click to enlarge)**</summary>
+
+![Abbildung: Musterlösung Aufgabe 1+2](assets/musterloesungA1u2.png "Abbildung: Musterlösung Aufgabe 1+2")
+
+</details>
+
+<details>
+
+<summary>**Musterlösung Aufgabe 3 (click to enlarge)**</summary>
+
+![Abbildung: Musterlösung Aufgabe 3](assets/musterloesungA3.png "Abbildung: Musterlösung Aufgabe 3")
+
+</details>
+
+<details>
+
+<summary>**Musterlösung Aufgabe 4 (click to enlarge)**</summary>
+
+![Abbildung: Musterlösung Aufgabe 4](assets/musterloesung_aufgabe_4.png "Abbildung: Musterlösung Aufgabe 4")
+
+</details>
+
+<details>
+
+<summary>**Musterlösung Aufgabe 5 (click to enlarge)**</summary>
+
+![Abbildung: Musterlösung Aufgabe 5](assets/musterloesung_aufgabe5.png "Abbildung: Musterlösung Aufgabe 5")
+
+</details>
 
 ### S2 Station 2
 
+**Aufbau:**
+
+1. Lege dir folgende Bauteile bereit:
+
+    ![Abbildung: Bauteile Station 2](assets/bauteillisteStation2.png "*Tabelle: Bauteilliste Station 2*")
+
+2. Schließe einen **Motor** an den Ausgang `M1` und eine **Lampe** an `M2` an. Schließe eine **Lichtschranke** an den Ausgang `I3` und einen **Taster** an `I1` an.
+
+    ![Abbildung: Aufbau Station 2](assets/aufbauStation2.png "*Abbildung: Aufbau Station 2*")
+
+---
+
+**Aufgaben:**
+
+1. Programmiere den `M1` (Motor 1) so, dass er sich zunächst nach der Unterbrechung von `I3` (Lichtschranke) **5 Sekunden nach links bewegt**. 
+
+   - Verwende dazu folgende Programmierungselemente:
+    
+    ![Abbildung: Programmierungselemente Station 2](assets/progammierungselementeStation2.png "*Abbildung: Programmierungselemente Station 2*")
+
+2. Jetzt soll der `M1` (Motor 1) nach Unterbrechung von `I3` (Lichtschranke) starten und nach Unterbrechung von `I1` (Taster) stoppen.
+
+     ![Abbildung: Verkabelung Station 2 Aufgabe 2](assets/verkabelungS2A2.png "*Abbildung: Verkabelung Station 2 Aufgabe 2*")
+
+---
+
+<details>
+
+<summary>**Musterlösung Aufgabe 1 (click to enlarge)**</summary>
+
+![Abbildung: Musterlösung Aufgabe 1](assets/musterloesungS2A1.png "Abbildung: Musterlösung Aufgabe 1")
+
+</details>
+
+<details>
+
+<summary>**Musterlösung Aufgabe 2 (click to enlarge)**</summary>
+
+![Abbildung: Musterlösung Aufgabe 2](assets/musterloesungS2A2.png "Abbildung: Musterlösung Aufgabe 2")
+
+</details>
+
 ### S3 Station 3
 
+**Aufbau:**
+
+1. Lege dir folgende Bauteile bereit:
+
+    ![Abbildung: Bauteile Station 3](assets/bauteillisteStation3.png "*Tabelle: Bauteilliste Station 3*")
+
+2. Schließe den **Kompressor** an den Ausgang `M1` an. Weiterhin schließt du zwei **Taster** an die Ausgänge `I1` und `I2` an. Das **Ventil** wird mit dem Ausgang `M3` verbunden. Darüber hinaus muss noch ein **Zylinder** eingebaut werden. 
+
+    ![Abbildung: Aufbau Station 3](assets/aufbauStation3.png "*Abbildung: Aufbau Station 3*")
+
+---
+
+**Aufgaben:**
+
+1. Starte zunächst den Kompressor. Danach soll nach Betätigung von `I1` (Taster) der Zylinder ausfahren und nach Betätigung von `I2` (Taster) wieder einfahren. Achte darauf, dass das **Ventil** zu Beginn **ausgeschaltet** ist. Verwende zur Realisierung folgende Programmierungselemente:
+
+    ![Abbildung: Programmierungselemente Station 3](assets/programmierungselemente_station3.png "*Abbildung: Programmierungselemente Station 3*")
+
+   - ***Für das Ventil muss das Programmicon Motorausgang in Magnetventil geändert werden!***
+
+2. Schließe nun an `I2` eine **Lichtschranke** und eine `M2` eine **Lampe** an. Der Zylinder soll nun durch Unterbrechung der Lichtschranke wieder in seine Ausgangsposition versetzt werden.
+
+     ![Abbildung: Verkabelung Aufgabe 2](assets/verkabelungST2A2.png "*Abbildung: Verkabelung Aufgabe 2*")
+
+---
+
+<details>
+
+<summary>**Musterlösung Aufgabe 1 (click to enlarge)**</summary>
+
+![Abbildung: Musterlösung Aufgabe 1](assets/musterloesungS3A1.png "*Abbildung: Musterlösung Aufgabe 1*")
+
+</details>
+
+<details>
+
+<summary>**Musterlösung Aufgabe 2 (click to enlarge)**</summary>
+
+![Abbildung: Musterlösung Aufgabe 2](assets/musterloesungS3A2.png "*Abbildung: Musterlösung Aufgabe 2*")
+
+</details>
+
 ### S4 Station 4
+
+**Aufbau:**
+
+- TODO: Hintergrundinformationen zur Stanzmaschine einfügen.
+- TODO: Bild der Stanzmaschine mit Transportband einfügen
+
+---
+
+**Aufgabe:**
+
+- TODO: Programmbeschreibung zur Steuerung der Stanzmaschine herstellen.
+- TODO: Video zum Ablauf der Stanzmaschine erstellen.
+- TODO: Belgegungsplan sowie Datenblätter der Bauteile der Stanzmaschine hinterlegen.
+
+---
+
+**Musterlösung**
+
+- TODO: Musterlösung des Steuerprogamms der Stanzmaschine erstellen
