@@ -926,7 +926,9 @@ timeline
 
 1. Schaue dir das Erklärvideo zu den ersten Schritten in der Roboterumgebung an.
         
+        
         !?[Erklärvideo Erste Schritte in der Roboterumgebung von Fischertechnik](https://youtu.be/Bwz9sDOE8J8?feature=shared "Erklärvideo Erste Schritte in der Roboterumgebung von Fischertechnik")
+
 
 2. Starte das Video erneut, diesmal führe alle Schritte im Video selber aus.
 
