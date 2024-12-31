@@ -906,17 +906,18 @@ Um schwere Lasten mit wenig Kraft heben zu können, braucht man Flaschenzüge mi
 ```@mermaid
 timeline
           Teilkompetenz
-          : S1 
-          : S2 
-          : Die Lernenden 
+          : W1 Kennenlernen der Entwicklungs- und Testumgebung
+          : S1 Programmierte Steuerung eines Motors bei aktiver Sensorik
+          : Die Lernenden kennen aktive Sensoren und können dessen Informationen nutzen, um eine programmierte Steuerung für einen Aktor zu erstellen.
 
           Teilkompetenz 
-          : S3 
-          : S4 
-          : Die Lernenden 
+          : S2 Programmierte Steuerung von einem Motoren bei von passiver Sensorik
+          : S3 Programmierte Steuerung von Pneumatik 
+          : Die Lernenden kennen passive Sensoren und können dessen Informationen nutzen, um eine programmierte Steuerung für einen Aktor zu erstellen.
 
           Kompetenz <br> Programmierung
-          : Die Lernenden 
+          : S4 Programmierte Steuerung eines einfachen Industriemodells
+          : Die Lernenden können eine Steuerung für ein Industriemodell programmieren.
 ```
 
 ### W1 Erste Schritte RoboPro und TXT-Controller
@@ -1096,21 +1097,38 @@ timeline
 
 ### S4 Station 4
 
-**Aufbau:**
+**Funktionsbeschreibung:**
 
-- TODO: Hintergrundinformationen zur Stanzmaschine einfügen.
-- TODO: Bild der Stanzmaschine mit Transportband einfügen
+Ein **Werkstück** soll durch eine **Stanzmaschine** bearbeitet werden. Die **Stanzmaschine** besteht aus einem **Motor**, der die **Stanze** antreibt. Zwei **Taster** dienen dabei als **Endlagesensoren**. Das **Werkstück** wird über ein **Transportband** der **Stanze** zugeführt. Jeweils an beiden Enden des **Transportbandes** befindet sich als **Endlagesensoren** einen **Lichtschranke**. Das **Transportband** wird über einen **Motor** angetrieben.
+
+![Abbildung: Stanzmaschine](assets/shemaStanze.png "*Abbildung: Stanzmaschine*")
+
+**Belegung der Ein- und Ausgänge:**
+
+| Bezeichnung | Beschreibung                       |
+| :---------: | :--------------------------------- |
+|     I5      | Fototransitor Ein-/Auslagerstation |
+|     I6      | Fototransitor Stanze               |
+|     I7      | Taster Stanze oben                 |
+|     I8      | Taster Stanze unten                |
+|     M1      | Motor Stanze                       |
+|     M2      | Motor Transportband                |
+|     M3      | Lampen Lichtschranken              |
 
 ---
 
 **Aufgabe:**
 
-- TODO: Programmbeschreibung zur Steuerung der Stanzmaschine herstellen.
-- TODO: Video zum Ablauf der Stanzmaschine erstellen.
-- TODO: Belgegungsplan sowie Datenblätter der Bauteile der Stanzmaschine hinterlegen.
+Programmiere die Stanzmaschine mit Transportband so, dass ein am Anfang des Transportband eingelegtes **Werkstück** durch die **Stanze** bearbeitet wird. Dabei soll das **Transportband** das **Werkstück** zur **Stanze** und nach dem Stanzvorgang wieder weg transportieren. Der **Stanzvorgang** soll **eine Sekunde** lang dauern.
+
+!?[Video Stanzvorgang](assets/Stanzvorgang.mp4 "*Video: Stanzvorgang*")
 
 ---
 
-**Musterlösung**
+<details>
 
-- TODO: Musterlösung des Steuerprogamms der Stanzmaschine erstellen
+<summary>**Musterlösung Station 4 (click to enlarge)**</summary>
+
+![Abbildung: Musterlösung Station 4](assets/musterloesungS4.png "*Abbildung: Musterlösung Station 4*")
+
+</details>
