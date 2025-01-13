@@ -23,7 +23,7 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 -->
 
-# Mittelstufenschule Themenfeld zur beruflichen Orientierung im Schwerpunkt Mechatronik.
+# Mittelstufenschule Themenfeld zur beruflichen Orientierung im Schwerpunkt Mechatronik. 
 
 >Die Lernenden **informieren** sich mittels Unterlagen und Dokumenten über den Ablauf und die Funktionsweise einfacher mechatronischer Systeme.
 
