@@ -412,7 +412,74 @@ timeline
         [[___ ___]]  
 
 
-### 7.0 Introduction - Characteristics of Laptops and Other Mobile Devices 
+### Laptops und anderen mobilen Geräten
 
-## 2. Halbjahr Rasberry-Pi 400
+```@mermaid
+timeline
+          Teilkompetenz
+          : S1 Eigenschaften von Laptops und anderen mobilen Geräten
+          : Verstehen der Unterschiede und Gemeinsamkeiten von Laptops, Smartphones, Tablets und Wearables, einschließlich ihrer Anwendungsbereiche und grundlegender Komponenten.
+
+          Teilkompetenz
+          : S2 Laptop Konfiguration
+          : Konfigurieren von Laptops, einschließlich Energieverwaltungsoptionen, BIOS-Einstellungen und drahtloser Konnektivität, um eine optimale Leistung sicherzustellen.
+
+          Teilkompetenz
+          : S3 Laptop-Hardware und Komponenteninstallation und -konfiguration      
+          : Installieren und Konfigurieren von Hardwarekomponenten wie RAM, Erweiterungskarten oder Speicher, um die Funktionalität und Leistung eines Laptops zu verbessern.
+
+          Teilkompetenz
+          : S4 Übersicht über die Hardware anderer mobiler Geräte
+          : Verständnis der Hardwarestruktur und Wartung von mobilen Geräten wie Smartphones und Spezialgeräten, einschließlich der Konnektivitätsoptionen und Austauschmöglichkeiten.
+
+          Teilkompetenz
+          : S5 Netzwerkverbindung und E-Mail
+          : Einrichten von WLAN- und Mobilfunknetzwerken sowie Konfigurieren von E-Mail-Konten auf mobilen Geräten, um reibungslose Kommunikation sicherzustellen.
+
+          Teilkompetenz
+          : S6 Präventive Wartung für Laptops und andere mobile Geräte
+          : Entwicklung von Wartungsstrategien zur Verlängerung der Lebensdauer und Verbesserung der Zuverlässigkeit von Laptops und mobilen Geräten.
+
+          Teilkompetenz
+          : S7 Grundlegender Fehlerbehebungsprozess für Laptops und andere mobile Geräte      
+          :  Systematisches Analysieren und Beheben häufiger Probleme, die bei Laptops und mobilen Geräten auftreten können, einschließlich Hardware- und Softwareproblemen.
+
+          Kompetenz <br> Laptops und andere mobile Geräte
+          : Lernende erwerben die Fähigkeit, Laptops und mobile Geräte hinsichtlich ihrer Eigenschaften, Konfiguration, Wartung und Fehlerdiagnose zu verstehen und anzuwenden. Sie lernen Netzwerkverbindungen, moderne mobile Technologien und präventive Wartungsstrategien effektiv zu nutzen, um die Geräteleistung zu optimieren und typische Probleme zu beheben.
+```
+
+#### S1 Eigenschaften von Laptops und anderen mobilen Geräten
+
+![Abbildung: Laptops und andere mobile Geräte](assets/mobileGeraete.png)
+
+**Arbeitsauftrag:**
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 7: Laptops and Other Mobile Devices` aus.
+   
+5. Bearbeite das Unterkapitel `7.1`!
+
+    - ***Erstelle dir dabei Notizen nach der Cornell-Methode.*** 
+
+    - ***Verwende dafür dieses [Arbeitsblatt](assets/cornellNotes.pdf)***
+   
+6. Teile hier während der Schulstunde einer deiner Fragestellung.
+   
+   a) Öffne dazu das Menü `Share` und tritt folgendem `Classroom` bei:
+   
+      - Backend = GUN
+   
+      - room = LF14`YYYYMMDD`
+
+    b) Schreibe deine Frage in folgendes Textfeld:
+
+        [[___ ___]]  
+
+7. Reiche dein ausgefülltes Arbeitsblatt bis zur nächsten Unterrichtsstunde im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die aktuelle Unterrichtsstunde ein.
+
 
