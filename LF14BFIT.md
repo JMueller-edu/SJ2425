@@ -464,9 +464,9 @@ timeline
    
 5. Bearbeite das Unterkapitel `7.1`!
 
-    - ***Erstelle dir dabei Notizen nach der Cornell-Methode.*** 
+    - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
 
-    - ***Verwende dafür dieses [Arbeitsblatt](assets/cornellNotes.pdf)***
+    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
    
 6. Teile hier während der Schulstunde einer deiner Fragestellung.
    
@@ -480,6 +480,6 @@ timeline
 
         [[___ ___]]  
 
-7. Reiche dein ausgefülltes Arbeitsblatt bis zur nächsten Unterrichtsstunde im [Schulportal](https://start.schulportal.hessen.de/index.php) in `mein Unterricht` in der Kursmappe `LF14 12BFIT` für die aktuelle Unterrichtsstunde ein.
+7. Lege deine fertigen Notizen in der nächsten Unterrichtsstunde der Lehrkraft vor!
 
 
