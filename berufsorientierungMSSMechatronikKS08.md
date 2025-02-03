@@ -101,12 +101,19 @@ timeline
           : Die Lernenden können die Bauweise von einfachen Statischen Systemen nachvollziehen.
 ```
 ### W1 Statik
->Die Statik untersucht die Bedingungen, unter denen die an einem Körper angreifenden Kräfte im Gleichgewicht sind. Sie ist damit die Grundlage aller Berechnungen und Konstruktionen von Bauwerken wie Brücken oder Häusern. Auf Bauteile der Statik wirken unterschiedliche Belastungen. Das Gewicht einer Konstruktion nennt man Eigenlast. Das Gewicht von Personen, Möbeln, Tellern oder sogar Autos nennt man Verkehrslast.
 
-Auch dein Tisch ist ein statischer Gegenstand. Er trägt sowohl sein eigenes Gewicht, also die
-Eigenlast, als auch die Verkehrslasten. Das sind Teller, Tassen, Speisen oder Getränke, die auf einem
-Tisch stehen, aber auch das versehentliche Anstoßen des Tisches.
-Damit ein Tisch alle diese Lasten aufnehmen kann, braucht er eine Menge statischer Besonderheiten.
+**Statik** kannst du dir gut an einem Tisch erklären: Stell dir vor, du sitzt an deinem Schreibtisch und legst deine Arme oder Bücher darauf. Der Tisch bleibt stabil und wackelt nicht, weil seine Beine und die Tischplatte das Gewicht richtig tragen. 
+
+**Was hat das mit Statik zu tun?**  
+Die Statik sorgt dafür, dass der Tisch so gebaut ist, dass er das Gewicht aushält, ohne umzukippen oder zusammenzubrechen. Wenn du ein schweres Buch in die Mitte legst, verteilt sich das Gewicht gleichmäßig auf die Beine. Wenn du aber zu viele Sachen an eine Ecke legst, könnte der Tisch kippen – das zeigt, warum die richtige Verteilung der Kräfte wichtig ist.
+
+**Drei Dinge, die die Statik beim Tisch beachtet:**
+
+1. **Eigenlast:** Das ist das Gewicht des Tisches selbst. Je schwerer der Tisch, desto stabiler ist er oft.
+2. **Nutzlast (oder Verkehrslast):** Das ist das Gewicht von allem, was du darauflegst – Bücher, dein Laptop oder dein Mittagessen.
+3. **Gleichgewicht:** Damit der Tisch stabil bleibt, müssen die Beine so gebaut sein, dass sie das Gewicht gleichmäßig tragen.
+
+**Zusammengefasst:** Die Statik sorgt dafür, dass der Tisch feststeht und dich nicht im Stich lässt, selbst wenn du viele Bücher daraufstapelst. Ohne Statik würden Möbel wackeln oder sogar umkippen! 😊
 
 ![Abbildung Tisch](assets/tischBild.png "*Abbildung Tisch*")
 
@@ -126,7 +133,11 @@ Damit ein Tisch alle diese Lasten aufnehmen kann, braucht er eine Menge statisch
 
        [[___ ___ ___ ___]]
 
->Die statischen Merkmale deines Modelltisches sind die abgewinkelten Tischbeinen. Sie sind durch den Winkel bereits nach zwei Seiten stabil. Die Rahmenkonstruktion des Tisches ist zusätzlich verstrebt und verspannt. Mit den gelben Streben zwischen den Tischbeinen wird der Rahmen auf Druck und Zug hin stabilisiert. Die Krönung der Statik sind allerdings die Verbindungsstellen, die Dreiecke entstehen lassen. Dreiecke sind auch dann stabil, wenn die Stäbe an den Verbindungsstellen bewegliche Gelenke haben. Solche Dreiecke werden als statische Dreiecke bezeichnet. Dein Modelltisch ist also in dreierlei Hinsicht statisch stabil. Alle Verbindungsstellen nennt man in der Statik Knoten
+> Die statischen Merkmale deines Modelltisches sind die abgewinkelten Tischbeine. Sie sind durch den Winkel bereits nach zwei Seiten stabil. Die Rahmenkonstruktion des Tisches ist zusätzlich verstrebt und verspannt. Mit den gelben Streben zwischen den Tischbeinen wird der Rahmen auf Druck und Zug hin stabilisiert. 
+>
+> Die Krönung der Statik sind allerdings die Verbindungsstellen, die Dreiecke entstehen lassen. Dreiecke sind auch dann stabil, wenn die Stäbe an den Verbindungsstellen bewegliche Gelenke haben. Solche Dreiecke werden als statische Dreiecke bezeichnet. 
+>
+> Dein Modelltisch ist also in dreierlei Hinsicht statisch stabil. Alle Verbindungsstellen nennt man in der Statik Knoten.
 
 <!-- TODO: Bild mit Beschriftung Verspannung und Streben einfügen -->
 
@@ -149,8 +160,7 @@ Damit ein Tisch alle diese Lasten aufnehmen kann, braucht er eine Menge statisch
        [[___ ___ ___ ___]]
 
 ### S2 Bockleiter
-
-Einen sehr einfachen statischen Aufbau hat die Bockleiter. Auch sie hat abgewinkelte Beine, Bockleiter die verstrebt sind. Die Verstrebungen dienen als Leitersprossen. Die Bockleiter besteht aus zwei einzelnen Leitern, die oben in einem Drehpunkt verbunden sind. Dazu kommt noch eine Verspannung der beiden Leitern im unteren Teil.
+Einen sehr einfachen statischen Aufbau hat die Bockleiter. Auch sie hat abgewinkelte Beine, die verstrebt sind. Die Verstrebungen dienen als Leitersprossen. Die Bockleiter besteht aus zwei einzelnen Leitern, die oben in einem Drehpunkt verbunden sind. Dazu kommt noch eine Verspannung der beiden Leitern im unteren Teil.
 
 ---
 
@@ -174,7 +184,7 @@ Einen sehr einfachen statischen Aufbau hat die Bockleiter. Auch sie hat abgewink
 
 ---
 
-Eine Bockleiter besteht aus zwei gleichen Hälften, die oben mit einem Drehpunkt verbunden sind. Je nach Anstellwinkel der beiden Hälften bleibt die Leiter auch ohne Verspannung stehen. Aber ab einem bestimmten Punkt rutschen die „Füße“ der Leiter und die Leiterhälften werden auseinandergedrückt. Mit der Verspannung wird die Leiter stabilisiert.
+>Eine Bockleiter besteht aus zwei gleichen Hälften, die oben mit einem Drehpunkt verbunden sind. Je nach Anstellwinkel der beiden Hälften bleibt die Leiter auch ohne Verspannung stehen. Aber ab einem bestimmten Punkt rutschen die „Füße“ der Leiter und die Leiterhälften werden auseinandergedrückt. Mit der Verspannung wird die Leiter stabilisiert.
 
 ### S3 Balkenbrücke
 
@@ -211,7 +221,7 @@ Die Brücke mit Unterzug erinnert an Hängebrücken die über wilde Schluchten g
 
     [[___ ___ ___ ___]]
 
->Bei den Belastungsversuchen hast du sicher festgestellt, dass deine Brücke sehr stabil ist und große Druckkräfte aufnehmen kann. Die Brücke mit Unterzug funktioniert mit der Fachwerkbauweise. Diese Bauart ist zwar für große Belastungen, nicht aber für große Spannweiten geeignet. Die größten Spannweiten erreicht man mit Hängebrücken, die aber nicht so große Kräfte aufnehmen können. Die Brücke mit Unterzug und die Hängebrücke sehen also nur ähnlich aus. Statisch unterscheiden sie sich vollkommen.
+> Bei den Belastungsversuchen hast du sicher festgestellt, dass deine Brücke sehr stabil ist und große Druckkräfte aufnehmen kann. Die Brücke mit Unterzug funktioniert mit der Fachwerkbauweise. Diese Bauart ist zwar für große Belastungen, nicht aber für große Spannweiten geeignet. Die größten Spannweiten erreicht man mit Hängebrücken, die aber nicht so große Kräfte aufnehmen können. Die Brücke mit Unterzug und die Hängebrücke sehen also nur ähnlich aus. Statisch unterscheiden sie sich vollkommen.
 
 ### S5 Brücke mit Oberzug
 
