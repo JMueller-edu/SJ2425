@@ -23,7 +23,7 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 -->
 
-# Berufsbildender Lernbereich Mechatronik im Bildungsgang zur Berufsvorbereitung
+# Berufsbildender Lernbereich Mechatronik im Bildungsgang zur Berufsvorbereitung  
 
 >Die Lernenden **informieren** sich mittels Unterlagen und Dokumenten über den Ablauf und die Funktionsweise einfacher mechatronischer Systeme.
 
