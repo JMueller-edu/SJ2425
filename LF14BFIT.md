@@ -1175,3 +1175,84 @@ Die häufigsten Herausforderungen bei der Installation von RAM oder einer SSD la
 
 Nach dem Einbau von Hardware sind gründliche Tests und Überprüfungen entscheidend, um die Funktionalität sicherzustellen. Mit den richtigen Tools und Schritten können potenzielle Probleme schnell erkannt und behoben werden, bevor der Laptop in den Alltag integriert wird.
 </details>
+
+#### S4 Übersicht über die Hardware anderer mobiler Geräte
+
+![Abbildung: Titelbild Übersicht über die Hardware anderer mobiler Geräte](assets/mobileHardware.png)
+
+>**Impulsfragen:**
+>
+>>**Was glaubst du, welche Hardwarekomponente in einem Smartphone am wichtigsten ist – der Prozessor, der Akku oder der Speicher? Warum?**
+>
+>>**Hast du dich schon mal gefragt, wie viele Sensoren in einem Smartphone stecken und welche Rolle sie in deinem Alltag spielen?**
+
+Tauche ein in die faszinierende Welt der mobilen Hardware! Smartphones, Tablets und Smartwatches sind kleine technische Wunderwerke, die nur deshalb so leistungsfähig sind, weil sie eine Vielzahl perfekt aufeinander abgestimmter Komponenten besitzen. In diesem Kapitel lernst du, was in diesen Geräten steckt und wie Akkus, Prozessoren, Sensoren und Speicher zusammenarbeiten, um dein digitales Leben zu erleichtern.
+
+---
+
+**Einzellarbeit:**
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 7: Laptops and Other Mobile Devices` aus.
+   
+5. Bearbeite das Unterkapitel `7.4`!
+
+    - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
+
+    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+
+---
+
+**Plenumsdiskussion:**
+
+>**1. Welche Hauptkomponenten findest du in einem Smartphone, und welche Aufgaben übernehmen sie?**
+
+<details>
+
+<summary> *Hauptkomponenten mit Funktionalität* </summary>
+
+- **Prozessor (CPU):** Führt Rechenaufgaben aus und steuert das gesamte System.  
+- **Akku:** Versorgt das Gerät mit Energie und beeinflusst die Laufzeit.  
+- **Speicher (RAM und ROM):** RAM ermöglicht schnelles Arbeiten mit Anwendungen, während der ROM-Speicher die dauerhafte Datenspeicherung übernimmt.  
+- **Sensoren:** Ermöglichen Funktionen wie Gesichtserkennung, Bewegungserkennung oder Standortbestimmung (z. B. Gyroskop, GPS).  
+- **Display:** Zeigt Inhalte an und ermöglicht Interaktionen über den Touchscreen.
+
+</details>
+
+>**2. Warum sind Akkus ein kritischer Bestandteil mobiler Geräte, und welche Technologien tragen zur Verbesserung ihrer Laufzeit bei?**
+
+<details>
+
+<summary> *Akkutechnologien* </summary>
+
+- Akkus liefern die Energie, ohne die ein mobiles Gerät nicht funktionieren kann. Ein effizienter Akku bestimmt maßgeblich, wie lange ein Smartphone oder Tablet verwendet werden kann.  
+- **Verbesserungen:**  
+
+  - **Lithium-Ionen-Technologie:** Bietet eine hohe Energiedichte und lange Lebensdauer.  
+  - **Schnellladetechnologie:** Reduziert die Ladezeit durch höhere Ladeleistungen.  
+  - **Adaptive Energieverwaltung:** Optimiert den Energieverbrauch durch intelligente Steuerung der Ressourcen.  
+  - **Energiesparmodi:** Reduzieren den Stromverbrauch durch Abschaltung nicht benötigter Funktionen.
+
+</details>
+
+>**3. Welche Rolle spielen Sensoren in mobilen Geräten, und wie beeinflussen sie den Alltag der Nutzer?**
+
+<details>
+
+<summary> *Die Macht der Sensoren* </summary>
+
+- Sensoren machen mobile Geräte vielseitig und interaktiv. Sie erfassen Umweltdaten oder Bewegungen und ermöglichen Funktionen, die den Alltag erleichtern.  
+- **Beispiele:**  
+  
+  - **Gyroskop und Beschleunigungssensor:** Erkennen die Ausrichtung und Bewegung des Geräts, wichtig für Spiele, Navigation und Augmented Reality.  
+  - **Nähe- und Helligkeitssensor:** Optimieren das Display basierend auf Umgebungslicht oder schalten den Bildschirm beim Telefonieren aus.  
+  - **GPS:** Dient zur Navigation und Standortbestimmung für Apps wie Karten oder Tracking-Services.  
+  - **Fingerabdrucksensor:** Sorgt für Sicherheit durch biometrische Authentifizierung.  
+  - **Barometer:** Ermöglicht präzise Höhenerkennung und Wettervorhersagen.
+
+</details> 
