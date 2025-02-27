@@ -9,7 +9,7 @@ email:  Jan.Mueller4@schule.hessen.de
 
 version:  0.1.0
 
-language: Deutsch
+language: de
 
 narrator: Deutsch Female
 
@@ -1182,9 +1182,9 @@ Nach dem Einbau von Hardware sind gründliche Tests und Überprüfungen entschei
 
 >**Impulsfragen:**
 >
->>**Was glaubst du, welche Hardwarekomponente in einem Smartphone am wichtigsten ist – der Prozessor, der Akku oder der Speicher? Warum?**
+>>Was glaubst du, welche Hardwarekomponente in einem Smartphone am wichtigsten ist – der Prozessor, der Akku oder der Speicher? Warum?
 >
->>**Hast du dich schon mal gefragt, wie viele Sensoren in einem Smartphone stecken und welche Rolle sie in deinem Alltag spielen?**
+>>Hast du dich schon mal gefragt, wie viele Sensoren in einem Smartphone stecken und welche Rolle sie in deinem Alltag spielen?
 
 Tauche ein in die faszinierende Welt der mobilen Hardware! Smartphones, Tablets und Smartwatches sind kleine technische Wunderwerke, die nur deshalb so leistungsfähig sind, weil sie eine Vielzahl perfekt aufeinander abgestimmter Komponenten besitzen. In diesem Kapitel lernst du, was in diesen Geräten steckt und wie Akkus, Prozessoren, Sensoren und Speicher zusammenarbeiten, um dein digitales Leben zu erleichtern.
 
@@ -1210,7 +1210,7 @@ Tauche ein in die faszinierende Welt der mobilen Hardware! Smartphones, Tablets 
 
 **Plenumsdiskussion:**
 
->**1. Welche Hauptkomponenten findest du in einem Smartphone, und welche Aufgaben übernehmen sie?**
+>1. Welche Hauptkomponenten findest du in einem Smartphone, und welche Aufgaben übernehmen sie?
 
 <details>
 
@@ -1224,7 +1224,7 @@ Tauche ein in die faszinierende Welt der mobilen Hardware! Smartphones, Tablets 
 
 </details>
 
->**2. Warum sind Akkus ein kritischer Bestandteil mobiler Geräte, und welche Technologien tragen zur Verbesserung ihrer Laufzeit bei?**
+>2. Warum sind Akkus ein kritischer Bestandteil mobiler Geräte, und welche Technologien tragen zur Verbesserung ihrer Laufzeit bei?
 
 <details>
 
@@ -1240,7 +1240,7 @@ Tauche ein in die faszinierende Welt der mobilen Hardware! Smartphones, Tablets 
 
 </details>
 
->**3. Welche Rolle spielen Sensoren in mobilen Geräten, und wie beeinflussen sie den Alltag der Nutzer?**
+>3. Welche Rolle spielen Sensoren in mobilen Geräten, und wie beeinflussen sie den Alltag der Nutzer?
 
 <details>
 
@@ -1256,3 +1256,393 @@ Tauche ein in die faszinierende Welt der mobilen Hardware! Smartphones, Tablets 
   - **Barometer:** Ermöglicht präzise Höhenerkennung und Wettervorhersagen.
 
 </details> 
+
+#### S5 Netzwerkkonektivität und Email 
+
+![alt text](image.png)
+
+**Impulsfragen:**
+
+     {{1}}
+>Wie oft nutzt du WLAN oder mobile Daten am Tag – und was würdest du tun, wenn du plötzlich keine Internetverbindung mehr hättest?
+     {{2}}
+>E-Mails sind altmodisch? Denk nochmal nach! Warum sind sie trotz Messenger-Apps immer noch ein wichtiger Bestandteil digitaler Kommunikation?
+
+     {{3}}
+Ob beim Chatten, Zocken oder Streamen – eine stabile Netzwerkverbindung ist heute unverzichtbar. Doch was passiert, wenn das WLAN ausfällt oder die E-Mail nicht synchronisiert wird? In diesem Kapitel lernst du, wie Netzwerkverbindungen funktionieren, welche Einstellungen entscheidend sind und wie du dein Gerät optimal für E-Mails und Cloud-Dienste konfigurierst. Egal ob für die Schule, den Job oder das private Surfen – hier erfährst du, wie du immer und überall online bleibst!
+
+---
+
+**Einzellarbeit:**
+
+         {{4}}
+<section>
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 7: Laptops and Other Mobile Devices` aus.
+   
+5. Bearbeite das Unterkapitel `7.5`!
+
+    - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
+
+    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+</section>
+
+---
+
+**Plenumsdiskussion:**
+
+     {{5}}
+
+<section>
+
+>1. Welche grundlegenden Unterschiede gibt es zwischen WLAN und mobilen Daten (z. B. LTE/5G), und welche Vor- und Nachteile haben sie? 
+
+<details>
+
+<summary> *WLAN vs. LTE/5G: Unterschiede, Vor- und Nachteile* </summary>
+
+- **WLAN:**  
+
+  - Verwendet einen lokalen Router zur Verbindung mit dem Internet.  
+  - In der Regel unbegrenztes Datenvolumen, abhängig vom Internetanbieter.  
+  - Geschwindigkeit kann durch Entfernung zum Router oder andere Netzwerke beeinträchtigt werden.  
+
+- **Mobile Daten (LTE/5G):** 
+ 
+  - Nutzt Mobilfunkmasten zur Internetverbindung.  
+  - Hohe Reichweite, überall verfügbar (solange Netzabdeckung vorhanden ist).  
+  - Oft mit Datenlimits oder Drosselung nach Verbrauch des Volumens verbunden.  
+
+- **Fazit:** WLAN ist ideal für Zuhause oder Orte mit stabilem Zugang, während mobile Daten mehr Flexibilität unterwegs bieten.
+
+</details>
+</section>
+
+     {{6}}
+
+<section>
+
+>2. Welche Schritte sind notwendig, um ein neues E-Mail-Konto auf einem Laptop oder Smartphone zu konfigurieren?
+
+<details>
+
+<summary> *Schritte zur E-Mail Konfiguration* </summary>
+
+1. **E-Mail-App oder Mail-Client öffnen** (z. B. Outlook, Gmail, Apple Mail).  
+2. **Neues Konto hinzufügen** und E-Mail-Adresse sowie Passwort eingeben.  
+3. **Servereinstellungen prüfen:**  
+
+   - IMAP (für Synchronisation auf mehreren Geräten) oder POP3 (für lokale Speicherung).  
+   - SMTP für den Versand von E-Mails konfigurieren.  
+4. **Optionale Sicherheitsfeatures aktivieren:**  
+   
+   - Zwei-Faktor-Authentifizierung (2FA) für zusätzlichen Schutz.  
+   - Synchronisationseinstellungen anpassen (z. B. nur bestimmte Ordner synchronisieren).  
+5. **Testen, ob das Senden und Empfangen von E-Mails funktioniert.**  
+
+</details>
+</section>
+
+     {{7}}
+ 
+ <section>
+
+>3. Welche häufigen Probleme können bei einer Netzwerkverbindung auftreten, und wie kann man sie lösen?
+
+<details>
+
+<summary> *Häufige Netzwerkprobleme und Lösungen* </summary>
+
+- **Kein Internet trotz WLAN-Verbindung:**  
+  
+  - Lösung: Router neustarten, Verbindung trennen und neu verbinden, DNS-Server ändern.  
+- **Langsame Verbindung:**  
+
+  - Lösung: Andere Geräte im Netzwerk überprüfen, Bandbreite durch Hintergrunddownloads begrenzen, auf 5 GHz-WLAN umstellen.  
+- **Mobile Daten funktionieren nicht:**  
+
+  - Lösung: Flugmodus kurz aktivieren und deaktivieren, APN-Einstellungen des Netzbetreibers überprüfen.  
+- **E-Mail wird nicht synchronisiert:**  
+
+  - Lösung: Internetverbindung prüfen, Kontoeinstellungen neu konfigurieren, IMAP statt POP3 nutzen.  
+
+</details>
+</section>
+
+#### S6 Präventive Wartung von Laptops und mobilen Geräten
+
+![alt text](image-1.png)
+
+**Impulsfragen:**
+
+     {{1}}
+>Wann hast du das letzte Mal dein Laptop oder Smartphone gereinigt oder ein Update installiert? Was glaubst du, wie wichtig regelmäßige Wartung wirklich ist?
+
+     {{2}}
+>Ein Gerät funktioniert doch einfach – oder? Welche Fehler könnten entstehen, wenn du dich nicht um die Wartung deiner Technik kümmerst?
+
+     {{3}}
+Ein Laptop oder Smartphone ist wie ein Auto – ohne regelmäßige Wartung sinkt die Leistung, die Lebensdauer verkürzt sich und Probleme treten auf. Staub, alte Software, volle Speicher und überlastete Akkus können Geräte langsam und anfällig für Fehler machen. Doch mit ein paar einfachen Tricks kannst du dein Gerät in Topform halten! In diesem Kapitel lernst du, wie du durch präventive Wartung die Lebensdauer deiner Technik verlängerst und typische Probleme vermeidest.
+
+---
+
+**Einzellarbeit:**
+
+         {{4}}
+<section>
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 7: Laptops and Other Mobile Devices` aus.
+   
+5. Bearbeite das Unterkapitel `7.6`!
+
+    - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
+
+    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+</section>
+
+---
+
+**Plenumsdiskussion:**
+
+{{5}}  
+<section>  
+
+>1. Warum ist die regelmäßige Wartung von Laptops und mobilen Geräten wichtig?
+
+<details>  
+
+<summary> *Bedeutung der präventiven Wartung* </summary>
+
+- **Verlängerung der Lebensdauer:** 
+ 
+  - Staub und Schmutz können zu Überhitzung und Hardwarefehlern führen.  
+  - Regelmäßige Reinigung verhindert Schäden an internen Komponenten.  
+
+- **Leistungsoptimierung:**  
+
+  - Veraltete Software kann das Gerät verlangsamen.  
+  - Updates verbessern die Systemstabilität und schließen Sicherheitslücken.  
+
+- **Energieeffizienz:**  
+
+  - Akkuverschleiß kann durch richtige Ladezyklen minimiert werden.  
+  - Hintergrundprogramme und ungenutzte Apps erhöhen den Energieverbrauch.  
+
+- **Fazit:** Durch regelmäßige Wartung bleibt das Gerät leistungsfähig, sicher und langlebig.  
+
+</details>  
+</section>  
+
+---  
+
+     {{6}}
+<section>  
+
+>2. Welche Software- und Hardwaremaßnahmen tragen zur präventiven Wartung eines Laptops bei?
+
+<details>  
+
+<summary> *Effektive Maßnahmen zur Wartung* </summary>
+
+- **Software-Wartung:**  
+
+  - Betriebssystem- und Treiber-Updates regelmäßig durchführen.  
+  - Speicherplatz verwalten, indem unnötige Dateien gelöscht werden.  
+  - Antivirensoftware nutzen, um Schadsoftware zu vermeiden.  
+
+- **Hardware-Wartung:**  
+  
+  - Laptop regelmäßig reinigen (z. B. Tastatur, Lüfter, Anschlüsse).  
+  - Akku pflegen (nicht dauerhaft bei 100 % belassen, Überhitzung vermeiden).  
+  - Kühlung sicherstellen, z. B. durch Nutzung auf festen Oberflächen oder Kühlpads.  
+
+- **Fazit:** Die Kombination aus Software- und Hardwarewartung sorgt für eine langfristige und stabile Nutzung.  
+
+</details>  
+</section>  
+
+---  
+
+     {{7}}
+<section>  
+
+>3. Wie kann man die Akkulaufzeit eines mobilen Geräts langfristig erhalten?
+
+<details>  
+
+<summary> *Tipps zur Akkupflege* </summary>
+
+- **Ladeverhalten optimieren:**  
+
+  - Den Akku idealerweise zwischen 20 % und 80 % halten, um die Lebensdauer zu verlängern.  
+  - Extreme Temperaturen vermeiden, da Hitze und Kälte den Akku beschädigen können.  
+
+- **Energieverbrauch reduzieren:**  
+  
+  - Bildschirmhelligkeit anpassen und Energiesparmodus nutzen.  
+  - Hintergrund-Apps und unnötige Funktionen wie Bluetooth oder GPS deaktivieren.  
+
+- **Langfristige Akku-Gesundheit:**  
+  
+  - Gelegentlich vollständige Ladezyklen durchführen, um die Kapazität zu kalibrieren.  
+  - Falls der Akku austauschbar ist, bei starkem Verschleiß durch einen neuen ersetzen.  
+
+- **Fazit:** Ein bewusster Umgang mit dem Akku sorgt für eine längere Nutzungsdauer und bessere Leistung des Geräts.  
+
+</details>  
+</section>  
+
+#### S7 Grundlagen der Fehlerbehebung für Laptops und mobilen Geräten
+
+![alt text](image-2.png)
+
+**Impulsfragen:**
+
+     {{1}}
+>Dein Laptop startet nicht mehr oder das Smartphone reagiert nicht – was ist dein erster Gedanke? Neustart, Google oder direkt Panik?
+
+     {{2}}
+>Hast du schon mal ein technisches Problem selbst gelöst? Wie bist du vorgegangen, und was hat dir geholfen?
+
+     {{3}}
+Fehlermeldungen, Abstürze oder langsame Geräte – irgendwann trifft es jeden. Doch anstatt gleich einen teuren Reparaturservice aufzusuchen, kannst du viele Probleme selbst lösen. In diesem Kapitel lernst du, wie du typische Hardware- und Softwarefehler bei Laptops und mobilen Geräten analysierst und behebst. Ob WLAN-Probleme, fehlerhafte Updates oder Akku-Probleme – mit der richtigen Herangehensweise bleibst du entspannt und findest schnell eine Lösung.
+
+---
+
+**Einzellarbeit:**
+
+         {{4}}
+<section>
+
+1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
+
+2. Melde dich dort mit deinen Zugangsdaten an.
+   
+3. Wähle nach dem Login im Dashboard unter `My Classes` den Kurs `IT Essentials 8` aus.
+   
+4. Wähle in der Kapitelübersicht das `Modul 7: Laptops and Other Mobile Devices` aus.
+   
+5. Bearbeite das Unterkapitel `7.7`!
+
+    - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
+
+    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+</section>
+
+---
+
+**Plenumsdiskussion:**
+
+{{5}}  
+
+<section>  
+
+>1. Welche grundlegenden Schritte sollte man unternehmen, wenn ein Laptop oder Smartphone plötzlich nicht mehr reagiert?  
+
+<details>  
+
+<summary> *Erste Maßnahmen zur Fehlerbehebung* </summary>
+
+- **Neustart versuchen:**  
+  
+  - Viele Probleme lassen sich durch einen einfachen Neustart beheben, da das System dabei Cache und temporäre Fehler löscht.  
+
+- **Akku und Stromversorgung prüfen:**  
+  
+  - Gerät an das Ladegerät anschließen, um sicherzustellen, dass nicht ein leerer Akku die Ursache ist.  
+  - Bei Laptops Akku herausnehmen (falls möglich) und nach einigen Minuten wieder einsetzen.  
+
+- **Verbindungsprobleme checken:**  
+  
+  - Falls das Gerät online sein muss, sicherstellen, dass WLAN oder mobile Daten aktiv sind.  
+  - Bluetooth oder Flugmodus deaktivieren, falls nötig.  
+
+- **Notfall-Neustart (Hard Reset) durchführen:**  
+
+  - Bei Smartphones durch das gleichzeitige Drücken bestimmter Tasten (z. B. Power + Lautstärke runter).  
+  - Bei Laptops durch langes Drücken des Einschalters (10-15 Sekunden).  
+
+- **Fazit:** Oft sind es einfache Maßnahmen, die technische Probleme beheben, bevor tiefere Analysen notwendig sind.  
+
+</details>  
+</section>  
+
+---
+     {{6}}
+<section>  
+
+>2. Wie kann man herausfinden, ob ein Problem an der Software oder der Hardware liegt?
+
+<details>  
+
+<summary> *Unterscheidung zwischen Software- und Hardwareproblemen* </summary>
+
+- **Softwareprobleme erkennen:**  
+
+  - Gerät startet, aber Programme stürzen ab oder das System läuft extrem langsam.  
+  - Fehlermeldungen oder System-Freezes treten sporadisch auf.  
+  - Lösung: System-Updates prüfen, Treiber aktualisieren, Cache leeren oder System zurücksetzen.  
+
+- **Hardwareprobleme erkennen:**  
+
+  - Gerät startet nicht oder zeigt keinen Bildschirm an.  
+  - Tastatur, Touchscreen oder bestimmte Anschlüsse reagieren nicht mehr.  
+  - Lösung: Sichtprüfung auf Schäden, Kabelverbindungen checken, Bauteile wie RAM oder Akku testen.  
+
+- **Diagnosetools nutzen:**  
+
+  - Windows: „Ereignisanzeige“ oder „Geräte-Manager“ für Fehlercodes überprüfen.  
+  - macOS: „Festplattendienstprogramm“ oder Apple-Diagnosetool verwenden.  
+
+- **Fazit:** Durch systematische Tests kann man Software- und Hardwareprobleme unterscheiden und gezielt beheben.  
+
+</details>  
+</section>  
+
+---
+
+     {{7}}
+<section>  
+
+>3. Welche häufigen Ursachen gibt es für eine langsame Laptop- oder Smartphone-Leistung, und wie kann man sie beheben?  
+
+<details>  
+
+<summary> *Leistungsprobleme und Lösungen* </summary>
+
+- **Überlastete CPU/RAM:**  
+
+  - Zu viele laufende Programme im Hintergrund.  
+  - Lösung: Task-Manager öffnen (Windows: Strg+Shift+Esc, macOS: Aktivitätsanzeige) und unnötige Prozesse beenden.  
+
+- **Voller Speicher:**  
+  
+  - Wenig freier Speicherplatz kann das System verlangsamen.  
+  - Lösung: Unnötige Dateien und Apps löschen, Cloud-Speicher nutzen oder externe Speichergeräte anschließen.  
+
+- **Veraltete oder fehlerhafte Software:**  
+  
+  - Alte Apps oder Betriebssystemversionen können für Performance-Probleme sorgen.  
+  - Lösung: Updates durchführen, Programme neu installieren oder ein System-Reset erwägen.  
+
+- **Hitzeentwicklung:**  
+  
+  - Staub oder schlechte Belüftung können zur Überhitzung und Leistungseinbußen führen.  
+  - Lösung: Laptop lüften, Lüfter reinigen, Kühlpads nutzen oder Wärmeleitpaste erneuern.  
+
+- **Fazit:** Durch gezielte Optimierungen kann die Leistung eines langsamen Geräts wieder verbessert werden.  
+
+</details>  
+</section>  

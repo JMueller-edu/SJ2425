@@ -65,13 +65,27 @@ gantt
         KW51Di     :2024-12-17, 1d
         2. Klausur : milestone, 2024-12-17
         KW51Fr     :2024-12-20, 1d
-        section Prozent und Zinsrechnung
-        KW02Di     :2025-01-14, 1d
-        KW02Fr     :2025-01-17, 1d
-        KW03Di     :2025-01-21, 1d
-        KW03Fr     :2025-01-24, 1d
-        KW04Di     :2025-01-28, 1d
-        KW04Fr     :2025-01-31, 1d
+        section Prozentrechnung
+        KW09Di     :2025-02-25, 1d
+        KW09Fr     :2025-02-28, 1d
+        KW10Fr     :2025-03-07, 1d
+        KW11Di     :2025-03-11, 1d
+        3. Klausur : milestone, 2025-03-14
+        section Zinsrechnung
+        KW17Di     :2025-04-22, 1d
+        KW17Fr     :2025-04-25, 1d
+        section Oberflächen
+        KW18Di     :2025-04-29, 1d
+        KW18Fr     :2025-05-02, 1d
+        Vergleichsarbeit : milestone, 2025-05-06
+        section Rauminhalte
+        KW19Fr     :2025-05-09, 1d
+        KW20Di     :2025-05-13, 1d
+        section Prüfungsvorbereitung
+        KW20Fr     :2025-05-16, 1d
+        KW21Di     :2025-05-20, 1d
+        KW21Fr     :2025-05-23, 1d
+
 ```
 
 ## Ganze Zahlen
@@ -1677,7 +1691,38 @@ Die Konsole verbraucht während des Gaming-Abends **0,315 kWh**.
 
 ## Zuordnung und Dreisatz
 
-## Prozent und Zinsrechnung
+## Prozentrechnung
+
+```@mermaid
+timeline
+          Teilkompetenz Grundbegriffe der Prozentrechnung
+          : W1 Grundbegriffe der Prozentrechnung
+          : S1 Zuweisung der Grundbegriffe
+          : Die Lernenden können Werten in Anwendungsaufgaben die Grundbegriffe der Prozentrechnung zuweisen.
+
+          Teilkompetenz Prozentwert berechnen
+          : W2 Prozentwert berechnen
+          : S2 Übung zur Berechnung des Prozentwertes
+          : S3 berechnen des Prozentwertes in Anwendungsaufgaben
+          : Die Lernenden können den Prozentwert in Anwendungsaufgaben berechnen.
+
+          Teilkompetenz Prozentsatz berechnen
+          : W3 Prozentsatz berechnen
+          : S4 Übung zur Berechnung des Prozentsatzes
+          : S5 berechen des Prozentsatzes in Anwendungsaufgaben
+          : Die Lernenden können den Prozentsatz in Anwendungsaufgaben berechnen.
+              
+          Teilkompetenz Grundwert berechnen
+          : W4 Grundwert berechnen 
+          : S6 Übung zur Berechnung des Grundwertes
+          : S7 berechnen des Grundwertes in Anwendungsaufgaben
+          : Die Lernenden können den Grundwert in Anwendungsaufgaben berechnen.
+
+          Kompetenz <br> Auflösen und Lösen von einfachen Anwendungsaufgaben mit Hilfe der Prozentrechnung.
+          : Die Lernenden können Textaufgaben mithilfe der Prozentrechnung lösen.
+```
+
+
 
 ## Umfang und Flächeninhalte
 

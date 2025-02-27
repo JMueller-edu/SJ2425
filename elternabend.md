@@ -17,11 +17,16 @@ comment:
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
+link: https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap
+
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
 
+
+
 -->
+
 
 # Elternabend 10BB2 Schuljahr 24/25
 
