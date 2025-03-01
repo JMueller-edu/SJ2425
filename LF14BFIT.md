@@ -924,7 +924,7 @@ Bist du bereit, deinen Laptop von innen kennenzulernen? In diesem Kapitel tauchs
 
 ---
 
-**Einzellarbeit:**
+**Einzelarbeit:**
 
 1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
 
@@ -1190,7 +1190,7 @@ Tauche ein in die faszinierende Welt der mobilen Hardware! Smartphones, Tablets 
 
 ---
 
-**Einzellarbeit:**
+**Einzelarbeit:**
 
 1. Rufe den [Login der Cisco Networking Academy](https://www.netacad.com/) auf!
 
@@ -1273,7 +1273,7 @@ Ob beim Chatten, Zocken oder Streamen – eine stabile Netzwerkverbindung ist he
 
 ---
 
-**Einzellarbeit:**
+**Einzelarbeit:**
 
          {{4}}
 <section>
@@ -1392,7 +1392,7 @@ Ein Laptop oder Smartphone ist wie ein Auto – ohne regelmäßige Wartung sinkt
 
 ---
 
-**Einzellarbeit:**
+**Einzelarbeit:**
 
          {{4}}
 <section>
@@ -1521,7 +1521,7 @@ Fehlermeldungen, Abstürze oder langsame Geräte – irgendwann trifft es jeden.
 
 ---
 
-**Einzellarbeit:**
+**Einzelarbeit:**
 
          {{4}}
 <section>
