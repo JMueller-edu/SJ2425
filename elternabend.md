@@ -34,6 +34,8 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 [Homepage der Schule](https://bso-mi.de/)
 
+<div style="page-break-after: always;"></div>
+
 ## Ziel
 
 >**§ 1 Aufgaben und Ziele**
@@ -41,6 +43,8 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 >>Die Bildungsgänge zur Berufsvorbereitung sind Bestandteil der Berufsschule. Sie richten sich an Jugendliche ohne Berufsausbildungsverhältnis mit dem Ziel, Schülerinnen und Schülern den Übergang in die Berufsausbildung, in weiterführende Bildungsgänge oder in Arbeitsverhältnisse zu erleichtern. Schülerinnen und Schüler sollen qualifiziert werden, ihre eigenen Fähigkeiten und Berufschancen zu erkennen und ihre Zukunftsmöglichkeiten aktiv mitzugestalten.
 
 [***Verordnung über die Ausbildung und Abschlussprüfungen in den Bildungsgängen zur Berufsvorbereitung Vom 10. August 2006***](assets/vo_bildungsgange_zur_berufsvorbereitung060915.pdf)
+
+<div style="page-break-after: always;"></div>
 
 ## Stundenplan
 
@@ -204,7 +208,7 @@ $$
 
 ---
 
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: auto;"></div>
 
 **b) Wie viele **1,5-Liter-Flaschen** musst du kaufen?**
 
