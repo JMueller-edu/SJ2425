@@ -1750,7 +1750,11 @@ Diesen Monat hat sie genau 12 € zurückgelegt.
 
 ~~Rechenweg:~~
 
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.837.692.cOkxhRgwPbgRwOXq9VQUp)
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.837.692.cOkxhRgwPbgRwOXq9VQUp)<!--
+style = "height: 500px;
+         border: 2px solid;"
+class = "animated infinite bounce"
+-->
 
 ~~Antwortsatz:~~ 
 
@@ -1781,7 +1785,11 @@ Ein Smartphone wird im Sonderangebot um 15 % reduziert und kostet dadurch 340�
 
 ~~Rechenweg:~~
 
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.RJzI76aB2BpKn_VxiycS5)
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.RJzI76aB2BpKn_VxiycS5)<!--
+style = "height: 500px;
+         border: 2px solid;"
+class = "animated infinite bounce"
+-->
 
 ~~Antwortsatz:~~ 
 
@@ -1843,7 +1851,11 @@ Deine monatliche Gebühr beträgt dadurch 15 €.
 
 ~~Rechenweg:~~
 
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.pXiPslFrtPkyz7tVWkrKB)
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.pXiPslFrtPkyz7tVWkrKB)<!--
+style = "height: 500px;
+         border: 2px solid;"
+class = "animated infinite bounce"
+-->
 
 ~~Antwortsatz:~~
 
@@ -1873,7 +1885,11 @@ Dieser Betrag beläuft sich auf 18 €.
 
 ~~Rechenweg:~~
 
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.AaliOBzMDTfQzz9vV_aFK)
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.AaliOBzMDTfQzz9vV_aFK)<!--
+style = "height: 500px;
+         border: 2px solid;"
+class = "animated infinite bounce"
+-->
 
 ~~Antwortsatz:~~
 
@@ -1903,7 +1919,11 @@ Ein Müsliriegel ist um 10 % günstiger und kostet jetzt 1,35 €.
 
 ~~Rechenweg:~~
 
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.jaR08F7uaT_JYvK6hOd6V)
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.jaR08F7uaT_JYvK6hOd6V)<!--
+style = "height: 500px;
+         border: 2px solid;"
+class = "animated infinite bounce"
+-->
 
 ~~Antwortsatz:~~
 
@@ -1933,7 +1953,11 @@ Die Ersparnis beträgt 4 €.
 
 ~~Rechenweg:~~
 
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.833.1842.PEX3ezcPLqC8i5yVLvKEO)
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.833.1842.PEX3ezcPLqC8i5yVLvKEO)<!--
+style = "height: 500px;
+         border: 2px solid;"
+class = "animated infinite bounce"
+-->
 
 ~~Antwortsatz:~~
 
@@ -1963,7 +1987,11 @@ Das sind 1,50 € mehr pro Monat.
 
 ~~Rechenweg:~~
 
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.833.1842.C2Je3Umr-WXRMpAx824BQ)
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.833.1842.C2Je3Umr-WXRMpAx824BQ)<!--
+style = "height: 500px;
+         border: 2px solid;"
+class = "animated infinite bounce"
+-->
 
 ~~Antwortsatz:~~
 
