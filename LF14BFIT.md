@@ -1259,7 +1259,7 @@ Tauche ein in die faszinierende Welt der mobilen Hardware! Smartphones, Tablets 
 
 #### S5 Netzwerkkonektivität und Email 
 
-![alt text](image.png)
+![Titelbild Kapitel Netzwerkkonektivität](assets/titelbildNetewerkMobil.png)
 
 **Impulsfragen:**
 
@@ -1377,7 +1377,7 @@ Ob beim Chatten, Zocken oder Streamen – eine stabile Netzwerkverbindung ist he
 
 #### S6 Präventive Wartung von Laptops und mobilen Geräten
 
-![alt text](image-1.png)
+![Titelbild des Kapitels Präventive Wartung von mobilen Geräten](assets/titelbildWartungMobil.png)
 
 **Impulsfragen:**
 
@@ -1506,7 +1506,7 @@ Ein Laptop oder Smartphone ist wie ein Auto – ohne regelmäßige Wartung sinkt
 
 #### S7 Grundlagen der Fehlerbehebung für Laptops und mobilen Geräten
 
-![alt text](image-2.png)
+![alt text](assets/titelbildFehlerbehebungMobil.png)
 
 **Impulsfragen:**
 

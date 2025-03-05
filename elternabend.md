@@ -208,8 +208,6 @@ $$
 
 ---
 
-<div style="page-break-after: auto;"></div>
-
 **b) Wie viele **1,5-Liter-Flaschen** musst du kaufen?**
 
 ``` ascii
@@ -325,5 +323,5 @@ $$
 
 Aufgerundet benötigst du **23 Dosen**.  
 *************************************************************
-
-
+### Embed HTML
+??[embed html](assets/12BFITLF14Klausur1HJ2425.html)

@@ -1722,7 +1722,262 @@ timeline
           : Die Lernenden können Textaufgaben mithilfe der Prozentrechnung lösen.
 ```
 
+### S7 berechnen des Grundwertes in Anwendungsaufgaben
 
+Im Folgenden sind acht Anwendungsaufgaben zur Prozentrechnung zu lösen.
+
+Bei jeder Aufgabe wird der Gurndwert gesucht.
+
+Verwende zur Lösung den Dreisatz nach folgendem Schema:
+
+1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
+2. Auf ein Einziges umrechnen (Übergang von p % auf 1 %)  
+3. Auf die gesuchte Anzahl umrechnen (Übergang von 1 % auf 100 %)
+
+Viel Erolg ;-)
+
+#### 1) Taschengeld-Sparexperiment
+
+![Bild Aufgabe Taschengeld](assets/aufgabenbildTaschengeld.png)
+
+~~Aufgabe:~~
+
+Lisa spart jeden Monat 20 % ihres Taschengelds. 
+
+Diesen Monat hat sie genau 12 € zurückgelegt.
+
+***Wie hoch ist ihr gesamtes Taschengeld?***
+
+~~Rechenweg:~~
+
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.837.692.cOkxhRgwPbgRwOXq9VQUp)
+
+~~Antwortsatz:~~ 
+
+Lisas gesamtes Taschengeld beträgt [[60]] €.
+[[?]] 1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
+[[?]] 2. Auf ein Einziges umrechnen (Übergang von p % auf 1 %)  
+[[?]] 3. Auf die gesuchte Anzahl umrechnen (Übergang von 1 % auf 100 %)
+*********************************************************************************
+| **Schritt**                          | **Faktor** | **Prozent** | **Wert** | **Faktor**          |
+| ------------------------------------ | ---------- | ----------- | -------- | ------------------- |
+| 1. Wertepaar finden                  | –          | 20 %        | 12 €     | –                   |
+| 2. Auf ein Einziges umrechnen        | : 20       | 1 %         | 0,60 €   | 12 € / 20 = 0,60 €  |
+| 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 60 €     | 0,60 € × 100 = 60 € |
+*********************************************************************************
+---
+
+#### 2) Handy-Kauf
+
+![Bild Aufgabe Handy-Kauf](assets/aufgabeHandy.png)
+
+~~Aufgabe:~~
+
+Ein Smartphone wird im Sonderangebot um 15 % reduziert und kostet dadurch 340 €. 
+
+***Wie teuer war das Handy ursprünglich?***
+
+> 15 % Rabatt bedeutet, man zahlt 85 % des Originalpreises.
+
+~~Rechenweg:~~
+
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.RJzI76aB2BpKn_VxiycS5)
+
+~~Antwortsatz:~~ 
+
+Das Handy kostete ursprünglich [[400]] €.
+[[?]] 1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
+[[?]] 2. Auf ein Einziges umrechnen (Übergang von p % auf 1 %)  
+[[?]] 3. Auf die gesuchte Anzahl umrechnen (Übergang von 1 % auf 100 %)
+*********************************************************************************
+| **Schritt**                          | **Faktor** | **Prozent** | **Wert** | **Faktor**        |
+| ------------------------------------ | ---------- | ----------- | -------- | ----------------- |
+| 1. Wertepaar finden                  | –          | 85 %        | 340 €    | –                 |
+| 2. Auf ein Einziges umrechnen        | : 85       | 1 %         | 4 €      | 340 € / 85 = 4 €  |
+| 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 400 €    | 4 € × 100 = 400 € |
+*********************************************************************************
+
+#### 3) Streamingserie
+
+![Bild Aufgabe Streaming](assets/aufgabeStreaming.png)
+
+~~Aufgabe:~~
+
+Von einer Serie hast du 75 % aller Folgen angesehen. 
+
+Das sind 15 Folgen. 
+
+***Wie viele Folgen gibt es insgesamt?***
+
+~~Rechenweg:~~
+
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.833.1842.tT_lpXRZWUosksvyjuUjr)
+
+**Antwortsatz:**
+
+Die Serie hat insgesamt [[20]] Folgen.
+[[?]] 1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
+[[?]] 2. Auf ein Einziges umrechnen (Übergang von p % auf 1 %)  
+[[?]] 3. Auf die gesuchte Anzahl umrechnen (Übergang von 1 % auf 100 %)
+    *********************************************************************************
+    | **Schritt**                          | **Faktor** | **Prozent** | **Wert**    | **Faktor**      |
+    | ------------------------------------ | ---------- | ----------- | ----------- | --------------- |
+    | 1. Wertepaar finden                  | –          | 75 %        | 15 Folgen   | –               |
+    | 2. Auf ein Einziges umrechnen        | : 75       | 1 %         | 0,20 Folgen | 15 / 75 = 0,20  |
+    | 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 20 Folgen   | 0,20 × 100 = 20 |
+*********************************************************************************
+
+#### 4) Fitnessstudio-Rabatt
+
+![Bild Aufgabe Fitnessstudio-Rabatt](assets/aufgabeFitnessstudio.png)
+
+~~Aufgabe:~~  
+
+Ein Fitnessstudio bietet einen Schüler-Rabatt an und erlässt 25 % des regulären Beitrags. 
+
+Deine monatliche Gebühr beträgt dadurch 15 €. 
+
+***Wie hoch wäre der ursprüngliche Monatsbeitrag?***
+
+> 25 % werden erlassen, du zahlst also noch 75 %.
+
+~~Rechenweg:~~
+
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.pXiPslFrtPkyz7tVWkrKB)
+
+~~Antwortsatz:~~
+
+Der ursprüngliche Monatsbeitrag betrug [[20]] €.
+[[?]] 1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
+[[?]] 2. Auf ein Einziges umrechnen (Übergang von p % auf 1 %)  
+[[?]] 3. Auf die gesuchte Anzahl umrechnen (Übergang von 1 % auf 100 %)
+*********************************************************************************
+| **Schritt**                          | **Faktor** | **Prozent** | **Wert** | **Faktor**          |
+| ------------------------------------ | ---------- | ----------- | -------- | ------------------- |
+| 1. Wertepaar finden                  | –          | 75 %        | 15 €     | –                   |
+| 2. Auf ein Einziges umrechnen        | : 75       | 1 %         | 0,20 €   | 15 € / 75 = 0,20 €  |
+| 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 20 €     | 0,20 € × 100 = 20 € |
+*********************************************************************************
+
+#### 5) Klassenausflug
+
+![Bild Aufgabe Klassenausflug](assets/aufgabeKlassenausflug.png)
+
+~~Aufgabe:~~  
+
+Für einen Klassenausflug wurden 10 % des gesamten Budgets für Snacks ausgegeben. 
+
+Dieser Betrag beläuft sich auf 18 €. 
+
+***Wie groß ist das gesamte Budget?***
+
+~~Rechenweg:~~
+
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.AaliOBzMDTfQzz9vV_aFK)
+
+~~Antwortsatz:~~
+
+Das gesamte Budget beträgt [[180]] €.
+[[?]] 1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
+[[?]] 2. Auf ein Einziges umrechnen (Übergang von p % auf 1 %)  
+[[?]] 3. Auf die gesuchte Anzahl umrechnen (Übergang von 1 % auf 100 %)
+*********************************************************************************
+| **Schritt**                           | **Faktor** | **Prozent** | **Wert** | **Faktor**              |
+|---------------------------------------|-----------|------------|---------|-------------------------|
+| 1. Wertepaar finden                   | –         | 10 %       | 18 €    | –                       |
+| 2. Auf ein Einziges umrechnen         | : 10      | 1 %        | 1,80 €  | 18 € / 10 = 1,80 €      |
+| 3. Auf die gesuchte Anzahl umrechnen  | × 100     | 100 %      | 180 €   | 1,80 € × 100 = 180 €    |
+*********************************************************************************
+
+#### 6) Schulkiosk
+
+![Bild Aufgabe Schulkiosk](assets/aufgabeSchulkiosk.png)
+
+~~Aufgabe:~~ 
+
+Ein Müsliriegel ist um 10 % günstiger und kostet jetzt 1,35 €. 
+
+***Wie hoch war der Originalpreis?***
+
+> 10 % Rabatt bedeutet, du zahlst noch 90 % des Ursprungs.
+
+~~Rechenweg:~~
+
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.jaR08F7uaT_JYvK6hOd6V)
+
+~~Antwortsatz:~~
+
+Der ursprüngliche Preis war [[1,50]] €.
+[[?]] 1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
+[[?]] 2. Auf ein Einziges umrechnen (Übergang von p % auf 1 %)  
+[[?]] 3. Auf die gesuchte Anzahl umrechnen (Übergang von 1 % auf 100 %)	
+*********************************************************************************
+| **Schritt**                          | **Faktor** | **Prozent** | **Wert** | **Faktor**             |
+| ------------------------------------ | ---------- | ----------- | -------- | ---------------------- |
+| 1. Wertepaar finden                  | –          | 90 %        | 1,35 €   | –                      |
+| 2. Auf ein Einziges umrechnen        | : 90       | 1 %         | 0,015 €  | 1,35 € / 90 = 0,015 €  |
+| 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 1,50 €   | 0,015 € × 100 = 1,50 € |
+*********************************************************************************
+
+#### 7) Handyhülle
+
+![Bild Aufgabe Handyhülle](assets/aufgabeHandyhuelle.png)
+
+~~Aufgabe:~~ 
+
+Eine Handyhülle ist um 20 % reduziert. 
+
+Die Ersparnis beträgt 4 €. 
+
+***Wie hoch war der ursprüngliche Preis?***
+
+~~Rechenweg:~~
+
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.833.1842.PEX3ezcPLqC8i5yVLvKEO)
+
+~~Antwortsatz:~~
+
+Der ursprüngliche Preis der Hülle lag bei [[20]] €.
+[[?]] 1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
+[[?]] 2. Auf ein Einziges umrechnen (Übergang von p % auf 1 %)  
+[[?]] 3. Auf die gesuchte Anzahl umrechnen (Übergang von 1 % auf 100 %)
+*********************************************************************************
+| **Schritt**                          | **Faktor** | **Prozent** | **Wert** | **Faktor**          |
+| ------------------------------------ | ---------- | ----------- | -------- | ------------------- |
+| 1. Wertepaar finden                  | –          | 20 %        | 4 €      | –                   |
+| 2. Auf ein Einziges umrechnen        | : 20       | 1 %         | 0,20 €   | 4 € / 20 = 0,20 €   |
+| 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 20 €     | 0,20 € × 100 = 20 € |
+*********************************************************************************
+
+#### 8) Sportverein
+
+![Bild Aufgabe Sportverein](assets/aufgabeSportverein.png)
+
+~~Aufgabe:~~  
+
+In deiner Basketballmannschaft habt ihr die Mitgliedsbeiträge um 5 % angehoben. 
+
+Das sind 1,50 € mehr pro Monat. 
+
+***Wie hoch war der ursprüngliche Monatsbeitrag?***
+
+~~Rechenweg:~~
+
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.833.1842.C2Je3Umr-WXRMpAx824BQ)
+
+~~Antwortsatz:~~
+
+Der ursprüngliche Monatsbeitrag betrug [[30]] €.
+[[?]] 1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
+[[?]] 2. Auf ein Einziges umrechnen (Übergang von p % auf 1 %)  
+[[?]] 3. Auf die gesuchte Anzahl umrechnen (Übergang von 1 % auf 100 %)
+*********************************************************************************
+| **Schritt**                          | **Faktor** | **Prozent** | **Wert** | **Faktor**          |
+| ------------------------------------ | ---------- | ----------- | -------- | ------------------- |
+| 1. Wertepaar finden                  | –          | 5 %         | 1,50 €   | –                   |
+| 2. Auf ein Einziges umrechnen        | : 5        | 1 %         | 0,30 €   | 1,50 € / 5 = 0,30 € |
+| 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 30 €     | 0,30 € × 100 = 30 € |
+*********************************************************************************
 
 ## Umfang und Flächeninhalte
 
