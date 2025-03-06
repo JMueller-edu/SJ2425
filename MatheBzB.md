@@ -25,6 +25,27 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 import: https://raw.githubusercontent.com/LiaTemplates/CollaborativeDrawing/main/README.md
 
+@style
+.flex-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows the items to wrap as needed */
+    align-items: stretch;
+    gap: 20px; /* Adds both horizontal and vertical spacing between items */
+}
+
+.flex-child { 
+    flex: 1;
+    margin-right: 20px; /* Adds space between the columns */
+}
+
+@media (max-width: 600px) {
+    .flex-child {
+        flex: 100%; /* Makes the child divs take up the full width on slim devices */
+        margin-right: 0; /* Removes the right margin */
+    }
+}
+@end
+
 -->
 
 # Mathematik Bildungsgang zur Berufsvorbereitung
@@ -1738,15 +1759,26 @@ Viel Erolg ;-)
 
 #### 1) Taschengeld-Sparexperiment
 
-![Bild Aufgabe Taschengeld](assets/aufgabenbildTaschengeld.png)
+
+<section class="flex-container">
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
 
 ~~Aufgabe:~~
+
+![Bild Aufgabe Taschengeld](assets/aufgabenbildTaschengeld.png)
 
 Lisa spart jeden Monat 20 % ihres Taschengelds. 
 
 Diesen Monat hat sie genau 12 € zurückgelegt.
 
 ***Wie hoch ist ihr gesamtes Taschengeld?***
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 
 ~~Rechenweg:~~
 
@@ -1755,6 +1787,11 @@ style = "height: 500px;
          border: 2px solid;"
 class = "animated infinite bounce"
 -->
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 
 ~~Antwortsatz:~~ 
 
@@ -1769,19 +1806,32 @@ Lisas gesamtes Taschengeld beträgt [[60]] €.
 | 2. Auf ein Einziges umrechnen        | : 20       | 1 %         | 0,60 €   | 12 € / 20 = 0,60 €  |
 | 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 60 €     | 0,60 € × 100 = 60 € |
 *********************************************************************************
----
+
+</div>
+</section>
 
 #### 2) Handy-Kauf
 
-![Bild Aufgabe Handy-Kauf](assets/aufgabeHandy.png)
+
+<section class="flex-container">
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
 
 ~~Aufgabe:~~
+
+![Bild Aufgabe Handy-Kauf](assets/aufgabeHandy.png)
 
 Ein Smartphone wird im Sonderangebot um 15 % reduziert und kostet dadurch 340 €. 
 
 ***Wie teuer war das Handy ursprünglich?***
 
 > 15 % Rabatt bedeutet, man zahlt 85 % des Originalpreises.
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 
 ~~Rechenweg:~~
 
@@ -1790,6 +1840,11 @@ style = "height: 500px;
          border: 2px solid;"
 class = "animated infinite bounce"
 -->
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 
 ~~Antwortsatz:~~ 
 
@@ -1805,11 +1860,19 @@ Das Handy kostete ursprünglich [[400]] €.
 | 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 400 €    | 4 € × 100 = 400 € |
 *********************************************************************************
 
+</div>
+</section>
+
 #### 3) Streamingserie
 
-![Bild Aufgabe Streaming](assets/aufgabeStreaming.png)
+<section class="flex-container">
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
 
 ~~Aufgabe:~~
+
+![Bild Aufgabe Streaming](assets/aufgabeStreaming.png)
 
 Von einer Serie hast du 75 % aller Folgen angesehen. 
 
@@ -1817,11 +1880,25 @@ Das sind 15 Folgen.
 
 ***Wie viele Folgen gibt es insgesamt?***
 
+</div>
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
+
 ~~Rechenweg:~~
 
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.833.1842.tT_lpXRZWUosksvyjuUjr)
+??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.833.1842.tT_lpXRZWUosksvyjuUjr)<!--
+style = "height: 500px;
+         border: 2px solid;"
+class = "animated infinite bounce"
+-->
 
-**Antwortsatz:**
+</div>
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
+
+~~Antwortsatz:~~
 
 Die Serie hat insgesamt [[20]] Folgen.
 [[?]] 1. Wertepaar finden (welcher Prozentsatz entspricht welchem Wert?)  
@@ -1835,11 +1912,20 @@ Die Serie hat insgesamt [[20]] Folgen.
     | 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 20 Folgen   | 0,20 × 100 = 20 |
 *********************************************************************************
 
+</div>
+</section>
+
 #### 4) Fitnessstudio-Rabatt
 
-![Bild Aufgabe Fitnessstudio-Rabatt](assets/aufgabeFitnessstudio.png)
+<section class="flex-container">
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
 
 ~~Aufgabe:~~  
+
+
+![Bild Aufgabe Fitnessstudio-Rabatt](assets/aufgabeFitnessstudio.png)
 
 Ein Fitnessstudio bietet einen Schüler-Rabatt an und erlässt 25 % des regulären Beitrags. 
 
@@ -1849,6 +1935,11 @@ Deine monatliche Gebühr beträgt dadurch 15 €.
 
 > 25 % werden erlassen, du zahlst also noch 75 %.
 
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
+
 ~~Rechenweg:~~
 
 ??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1025.1842.pXiPslFrtPkyz7tVWkrKB)<!--
@@ -1857,6 +1948,10 @@ style = "height: 500px;
 class = "animated infinite bounce"
 -->
 
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 ~~Antwortsatz:~~
 
 Der ursprüngliche Monatsbeitrag betrug [[20]] €.
@@ -1871,17 +1966,31 @@ Der ursprüngliche Monatsbeitrag betrug [[20]] €.
 | 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 20 €     | 0,20 € × 100 = 20 € |
 *********************************************************************************
 
+</div>
+</section>
+
 #### 5) Klassenausflug
+
+<section class="flex-container">
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
+
+~~Aufgabe:~~ 
 
 ![Bild Aufgabe Klassenausflug](assets/aufgabeKlassenausflug.png)
 
-~~Aufgabe:~~  
 
 Für einen Klassenausflug wurden 10 % des gesamten Budgets für Snacks ausgegeben. 
 
 Dieser Betrag beläuft sich auf 18 €. 
 
 ***Wie groß ist das gesamte Budget?***
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
 
 ~~Rechenweg:~~
 
@@ -1890,6 +1999,11 @@ style = "height: 500px;
          border: 2px solid;"
 class = "animated infinite bounce"
 -->
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
 
 ~~Antwortsatz:~~
 
@@ -1905,17 +2019,31 @@ Das gesamte Budget beträgt [[180]] €.
 | 3. Auf die gesuchte Anzahl umrechnen  | × 100     | 100 %      | 180 €   | 1,80 € × 100 = 180 €    |
 *********************************************************************************
 
+</div>
+</section>
+
 #### 6) Schulkiosk
 
-![Bild Aufgabe Schulkiosk](assets/aufgabeSchulkiosk.png)
+<section class="flex-container">
 
-~~Aufgabe:~~ 
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
+
+~~Aufgabe:~~
+
+![Bild Aufgabe Schulkiosk](assets/aufgabeSchulkiosk.png) 
+
 
 Ein Müsliriegel ist um 10 % günstiger und kostet jetzt 1,35 €. 
 
 ***Wie hoch war der Originalpreis?***
 
 > 10 % Rabatt bedeutet, du zahlst noch 90 % des Ursprungs.
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 
 ~~Rechenweg:~~
 
@@ -1924,6 +2052,11 @@ style = "height: 500px;
          border: 2px solid;"
 class = "animated infinite bounce"
 -->
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 
 ~~Antwortsatz:~~
 
@@ -1939,17 +2072,31 @@ Der ursprüngliche Preis war [[1,50]] €.
 | 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 1,50 €   | 0,015 € × 100 = 1,50 € |
 *********************************************************************************
 
+</div>
+</section>
+
+
 #### 7) Handyhülle
 
-![Bild Aufgabe Handyhülle](assets/aufgabeHandyhuelle.png)
+<section class="flex-container">
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
 
 ~~Aufgabe:~~ 
+
+![Bild Aufgabe Handyhülle](assets/aufgabeHandyhuelle.png)
 
 Eine Handyhülle ist um 20 % reduziert. 
 
 Die Ersparnis beträgt 4 €. 
 
 ***Wie hoch war der ursprüngliche Preis?***
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 
 ~~Rechenweg:~~
 
@@ -1958,6 +2105,11 @@ style = "height: 500px;
          border: 2px solid;"
 class = "animated infinite bounce"
 -->
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 
 ~~Antwortsatz:~~
 
@@ -1973,17 +2125,31 @@ Der ursprüngliche Preis der Hülle lag bei [[20]] €.
 | 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 20 €     | 0,20 € × 100 = 20 € |
 *********************************************************************************
 
+</div>
+</section>
+
+
 #### 8) Sportverein
 
-![Bild Aufgabe Sportverein](assets/aufgabeSportverein.png)
+<section class="flex-container">
+
+<!-- class="flex-child" style="min-width: 500px;" -->
+<div>
 
 ~~Aufgabe:~~  
+
+![Bild Aufgabe Sportverein](assets/aufgabeSportverein.png)
 
 In deiner Basketballmannschaft habt ihr die Mitgliedsbeiträge um 5 % angehoben. 
 
 Das sind 1,50 € mehr pro Monat. 
 
 ***Wie hoch war der ursprüngliche Monatsbeitrag?***
+
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+<div>
 
 ~~Rechenweg:~~
 
@@ -1993,6 +2159,11 @@ style = "height: 500px;
 class = "animated infinite bounce"
 -->
 
+</div>
+
+<!-- class="flex-child" style="min-width: 500px" -->
+
+<div>
 ~~Antwortsatz:~~
 
 Der ursprüngliche Monatsbeitrag betrug [[30]] €.
@@ -2006,6 +2177,11 @@ Der ursprüngliche Monatsbeitrag betrug [[30]] €.
 | 2. Auf ein Einziges umrechnen        | : 5        | 1 %         | 0,30 €   | 1,50 € / 5 = 0,30 € |
 | 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 30 €     | 0,30 € × 100 = 30 € |
 *********************************************************************************
+
+</div>
+</section>
+
+
 
 ## Umfang und Flächeninhalte
 
