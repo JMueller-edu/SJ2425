@@ -2213,13 +2213,15 @@ Du erhältst eine Ermäßigung von [[15]] %.
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 </section>
 
          {{2-3}}
 <section>
 
 **2) Kinoabend**
-  
+
 ![Bild Aufgabe Kinoabend](assets/aufgabeKinoabend.png)
 <div>
 Du möchtest ins Kino und erhältst auf das Ticket eine Ermäßigung von 25 %. 
@@ -2244,6 +2246,8 @@ Der reguläre Ticketpreis beträgt [[8]] €.
 *********************************************************************************
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 </section>
 
@@ -2278,6 +2282,8 @@ Er hat [[10]] € gespart.
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 </section>
 
          {{4-5}}
@@ -2285,7 +2291,7 @@ Er hat [[10]] € gespart.
 <section>
 
 **4) Kleidungsrabatt**
-  
+
 ![Bild Aufgabe Kleidungsrabatt](assets/aufgabeKleidungsrabatt.png)
 <div>
 Du hast ein T-Shirt für 15 € gekauft.  
@@ -2311,9 +2317,11 @@ Der Rabatt beträgt [[40]] %.
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 </section>
 
-         {{5}}
+         {{5-6}}
 
 <section>
 
@@ -2327,6 +2335,7 @@ Jetzt zahlst du 1,80 € mehr – das entspricht einer Erhöhung von 6 %.
 <br>
 ***Wie hoch war der ursprüngliche Preis pro Fahrstunde (Grundwert)?***  
 </div>
+
 ~~Antwortsatz:~~  
 
 Der ursprüngliche Fahrstundenpreis betrug [[30]] €.  
@@ -2343,6 +2352,239 @@ Der ursprüngliche Fahrstundenpreis betrug [[30]] €.
 
 ---
 
+</section>
+
+         {{6-7}}
+
+<section>
+
+**6) Konzertticket Rabatt**
+
+![Bild Aufgabe Konzertticket](assets/aufgabeKonzertticket.png)
+<div>
+Du möchtest ein Konzert besuchen und kaufst ein Ticket.  
+<br>
+Das Ticket kostet 50,00 € und es gibt einen Rabatt von 20 %.  
+<br>
+***Wie viel Euro sparst du (Prozentwert)?***  
+</div>
+
+~~Antwortsatz:~~  
+
+Der Rabatt beträgt [[10,00]] €.  
+[[?]] 1. Grundwert festlegen (100 % entsprechen 50,00 €)  
+[[?]] 2. 1 % berechnen (50,00 € ÷ 100 = 0,50 €)  
+[[?]] 3. Prozentwert ermitteln (0,50 € × 20 = 10,00 €)
+*********************************************************************************
+| **Schritt**              | **Faktor** | **Prozent** | **Wert** | **Faktor**             |
+| ------------------------ | ---------- | ----------- | -------- | ---------------------- |
+| 1. Grundwert festlegen   | –          | 100 %       | 50,00 €  | –                      |
+| 2. 1 % berechnen         | : 100      | 1 %         | 0,50 €   | 50,00 € ÷ 100 = 0,50 € |
+| 3. Prozentwert ermitteln | × 20       | 20 %        | 10,00 €  | 0,50 € × 20 = 10,00 €  |
+*********************************************************************************
+
+</section>
+
+         {{7-8}}
+
+<section>
+
+**7) Sneaker Rabatt**
+
+![Bild Aufgabe Sneaker](assets/aufgabeSneaker.png)
+<div>
+Beim Kauf eines neuen Sneakers sparst du 9,00 € von einem ursprünglichen Preis von 60,00 €.  
+<br>
+***Wie hoch ist der Rabatt in Prozent (Prozentsatz)?***  
+</div>
+
+~~Antwortsatz:~~  
+
+Der Rabatt entspricht [[15]] %.  
+[[?]] 1. Grundwert festlegen (100 % entsprechen 60,00 €)  
+[[?]] 2. 1 % berechnen (60,00 € ÷ 100 = 0,60 €)  
+[[?]] 3. Prozentsatz ermitteln (9,00 € ÷ 0,60 € = 15 %)
+*********************************************************************************
+| **Schritt**              | **Faktor** | **Prozent** | **Wert** | **Faktor**             |
+| ------------------------ | ---------- | ----------- | -------- | ---------------------- |
+| 1. Grundwert festlegen   | –          | 100 %       | 60,00 €  | –                      |
+| 2. 1 % berechnen         | : 100      | 1 %         | 0,60 €   | 60,00 € ÷ 100 = 0,60 € |
+| 3. Prozentsatz ermitteln | ÷          | –           | 15 %     | 9,00 € ÷ 0,60 € = 15 % |
+*********************************************************************************
+
+</section>
+
+         {{8-9}}
+
+<section>
+
+**8) Pullover im Outlet**
+
+![Bild Aufgabe Pullover](assets/aufgabePullover.png)
+<div>
+In einem Mode-Outlet erhältst du beim Kauf eines Pullovers einen Rabatt von 30 %, wodurch du 12,00 € sparst.  
+<br>
+***Wie hoch war der ursprüngliche Preis des Pullovers (Grundwert)?***  
+</div>
+
+~~Antwortsatz:~~  
+
+Der ursprüngliche Preis betrug [[40,00]] €.  
+[[?]] 1. Wertepaar finden (30 % entsprechen 12,00 €)  
+[[?]] 2. Auf 1 % umrechnen (12,00 € ÷ 30 = 0,40 €)  
+[[?]] 3. Auf 100 % schließen (0,40 € × 100 = 40,00 €)
+*********************************************************************************
+| **Schritt**            | **Faktor** | **Prozent** | **Wert** | **Faktor**             |
+| ---------------------- | ---------- | ----------- | -------- | ---------------------- |
+| 1. Wertepaar finden    | –          | 30 %        | 12,00 €  | –                      |
+| 2. 1 % berechnen       | : 30       | 1 %         | 0,40 €   | 12,00 € ÷ 30 = 0,40 €  |
+| 3. Auf 100 % schließen | × 100      | 100 %       | 40,00 €  | 0,40 € × 100 = 40,00 € |
+*********************************************************************************
+
+</section>
+
+         {{9-10}}
+
+<section>
+
+**9) Musik-Download Rabatt**
+
+![Bild Aufgabe Musik-Download](assets/aufgabeMusikDownload.png)
+<div>
+Beim Download deines Lieblingssongs sparst du 2,50 € von einem ursprünglichen Preis von 10,00 €.  
+<br>
+***Wie hoch ist der Rabatt in Prozent (Prozentsatz)?***  
+</div>
+
+~~Antwortsatz:~~  
+
+Der Rabatt entspricht [[25]] %.  
+[[?]] 1. Grundwert festlegen (100 % entsprechen 10,00 €)  
+[[?]] 2. 1 % berechnen (10,00 € ÷ 100 = 0,10 €)  
+[[?]] 3. Prozentsatz ermitteln (2,50 € ÷ 0,10 € = 25 %)
+*********************************************************************************
+| **Schritt**              | **Faktor** | **Prozent** | **Wert** | **Faktor**             |
+| ------------------------ | ---------- | ----------- | -------- | ---------------------- |
+| 1. Grundwert festlegen   | –          | 100 %       | 10,00 €  | –                      |
+| 2. 1 % berechnen         | : 100      | 1 %         | 0,10 €   | 10,00 € ÷ 100 = 0,10 € |
+| 3. Prozentsatz ermitteln | ÷          | –           | 25 %     | 2,50 € ÷ 0,10 € = 25 % |
+*********************************************************************************
+
+</section>
+
+         {{10-11}}
+
+<section>
+
+**10) Gebrauchtfahrrad Rabatt**
+
+![Bild Aufgabe Fahrrad](assets/aufgabeGebrauchtfahrrad.png)
+<div>
+Beim Kauf eines gebrauchten Fahrrads, das ursprünglich 150,00 € kostet, erhältst du einen Rabatt von 10 %.  
+<br>
+***Wie viel Euro sparst du (Prozentwert)?***  
+</div>
+
+~~Antwortsatz:~~  
+
+Du sparst [[15,00]] €.  
+[[?]] 1. Grundwert festlegen (100 % entsprechen 150,00 €)  
+[[?]] 2. 1 % berechnen (150,00 € ÷ 100 = 1,50 €)  
+[[?]] 3. Prozentwert ermitteln (1,50 € × 10 = 15,00 €)
+*********************************************************************************
+| **Schritt**              | **Faktor** | **Prozent** | **Wert** | **Faktor**              |
+| ------------------------ | ---------- | ----------- | -------- | ----------------------- |
+| 1. Grundwert festlegen   | –          | 100 %       | 150,00 € | –                       |
+| 2. 1 % berechnen         | : 100      | 1 %         | 1,50 €   | 150,00 € ÷ 100 = 1,50 € |
+| 3. Prozentwert ermitteln | × 10       | 10 %        | 15,00 €  | 1,50 € × 10 = 15,00 €   |
+*********************************************************************************
+</section>
+
+
+         {{11-12}}
+
+<section>
+
+**11) Smartphone-Upgrade Rabatt**
+
+![Bild Aufgabe Smartphone](assets/aufgabeSmartphone.png)
+<div>
+Du möchtest dir ein neues Smartphone kaufen. Statt **500,00 €** zahlst du im Angebot nur **450,00 €**.  
+<br>
+***Wie viel Euro sparst du (Prozentwert)?***  
+</div>
+
+~~Antwortsatz:~~  
+
+Du sparst [[50,00]] €.  
+[[?]] 1. Grundwert festlegen (100 % entsprechen 500,00 €)  
+[[?]] 2. 1 % berechnen (500,00 € ÷ 100 = 5,00 €)  
+[[?]] 3. Prozentwert ermitteln (5,00 € × 10 = 50,00 €)  
+*********************************************************************************
+| **Schritt**              | **Faktor** | **Prozent** | **Wert** | **Berechnung**          |
+| ------------------------ | ---------- | ----------- | -------- | ----------------------- |
+| 1. Grundwert festlegen   | –          | 100 %       | 500,00 € | –                       |
+| 2. 1 % berechnen         | : 100      | 1 %         | 5,00 €   | 500,00 € ÷ 100 = 5,00 € |
+| 3. Prozentwert ermitteln | × 10       | 10 %        | 50,00 €  | 5,00 € × 10 = 50,00 €   |
+*********************************************************************************
+</section>
+
+
+         {{12-13}}
+
+<section>
+
+**12) Gaming-Headset Rabatt**
+
+![Bild Aufgabe Gaming-Headset](assets/aufgabeGamingHeadset.png)
+<div>
+Beim Kauf eines Gaming-Headsets erhältst du einen Rabatt von **20 %** und sparst dadurch **8,00 €**.  
+<br>
+***Wie hoch war der ursprüngliche Preis (Grundwert)?***  
+</div>
+
+~~Antwortsatz:~~  
+
+Der ursprüngliche Preis betrug [[40,00]] €.  
+[[?]] 1. Wertepaar finden (20 % entsprechen 8,00 €)  
+[[?]] 2. 1 % berechnen (8,00 € ÷ 20 = 0,40 €)  
+[[?]] 3. Auf 100 % schließen (0,40 € × 100 = 40,00 €)  
+*********************************************************************************
+| **Schritt**            | **Faktor** | **Prozent** | **Wert** | **Berechnung**         |
+| ---------------------- | ---------- | ----------- | -------- | ---------------------- |
+| 1. Wertepaar finden    | –          | 20 %        | 8,00 €   | –                      |
+| 2. 1 % berechnen       | : 20       | 1 %         | 0,40 €   | 8,00 € ÷ 20 = 0,40 €   |
+| 3. Auf 100 % schließen | × 100      | 100 %       | 40,00 €  | 0,40 € × 100 = 40,00 € |
+*********************************************************************************
+</section>
+
+
+         {{13}}
+
+<section>
+
+**13) Hoodie Preis-Erhöhung**
+
+![Bild Aufgabe Hoodie](assets/aufgabeHoodie.png)
+<div>
+In deinem Lieblingsladen wird der Preis für einen Hoodie von **35,00 €** auf **42,00 €** erhöht.  
+<br>
+***Um wie viel Prozent wurde der Preis erhöht (Prozentsatz)?***  
+</div>
+
+~~Antwortsatz:~~  
+
+Die Preissteigerung beträgt [[20]] %.  
+[[?]] 1. Grundwert festlegen (100 % entsprechen 35,00 €)  
+[[?]] 2. 1 % berechnen (35,00 € ÷ 100 = 0,35 €)  
+[[?]] 3. Prozentsatz ermitteln (Erhöhung: 42,00 € – 35,00 € = 7,00 €; 7,00 € ÷ 0,35 € = 20 %)  
+*********************************************************************************
+| **Schritt**              | **Faktor** | **Prozent** | **Wert** | **Berechnung**         |
+| ------------------------ | ---------- | ----------- | -------- | ---------------------- |
+| 1. Grundwert festlegen   | –          | 100 %       | 35,00 €  | –                      |
+| 2. 1 % berechnen         | : 100      | 1 %         | 0,35 €   | 35,00 € ÷ 100 = 0,35 € |
+| 3. Prozentsatz ermitteln | ÷          | –           | 20 %     | 7,00 € ÷ 0,35 € = 20 % |
+*********************************************************************************
 </section>
 
 ## Umfang und Flächeninhalte
