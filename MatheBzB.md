@@ -2189,12 +2189,13 @@ Der ursprüngliche Monatsbeitrag betrug [[30]] €.
 **1) Handyvertrag**
 
 ![Bild Aufgabe Handyvertrag](assets/aufgabeHandyvertrag.png)
-
+<div>
 Dein Handyvertrag kostet normalerweise 20 € im Monat.
-
+<br>
 Durch eine Sonderaktion sparst du nun 3 € pro Monat.  
-
+<br>
 ***Wie viel Prozent Ermäßigung entspricht das (Prozentsatz)?***  
+</div>
 
 ~~Antwortsatz:~~  
 
@@ -2215,17 +2216,18 @@ Du erhältst eine Ermäßigung von [[15]] %.
 </section>
 
          {{2-3}}
-
 <section>
 
 **2) Kinoabend**
   
 ![Bild Aufgabe Kinoabend](assets/aufgabeKinoabend.png)
-
-Du möchtest ins Kino und erhältst auf das Ticket eine Ermäßigung von 25 %.  
+<div>
+Du möchtest ins Kino und erhältst auf das Ticket eine Ermäßigung von 25 %. 
+<br>
 Dadurch bezahlst du nur noch 6 € statt des regulären Preises.  
-
+<br>
 ***Wie hoch ist der reguläre Ticketpreis (Grundwert)?***  
+</div>
 
 ~~Antwortsatz:~~  
 
@@ -2252,11 +2254,13 @@ Der reguläre Ticketpreis beträgt [[8]] €.
 **3) Gaming-Tastatur**
 
 ![Bild Aufgabe Gaming-Tastatur](assets/aufgabeTastatur.png)
-
+<div>
 Dein Freund hat sich eine neue Gaming-Tastatur für 50 € gekauft.  
+<br>
 Er sagt, dank einer Gutscheinaktion habe er 20 % des Preises gespart.  
-
+<br>
 ***Wie viel Euro hat er gespart (Prozentwert)?***  
+</div>
 
 ~~Antwortsatz:~~  
 
@@ -2283,11 +2287,13 @@ Er hat [[10]] € gespart.
 **4) Kleidungsrabatt**
   
 ![Bild Aufgabe Kleidungsrabatt](assets/aufgabeKleidungsrabatt.png)
-
+<div>
 Du hast ein T-Shirt für 15 € gekauft.  
+<br>
 Normalerweise kostet es 25 €.  
-
+<br>
 ***Welchen prozentualen Rabatt hast du erhalten (Prozentsatz)?***  
+</div>
 
 ~~Antwortsatz:~~  
 
@@ -2314,12 +2320,13 @@ Der Rabatt beträgt [[40]] %.
 **5) Fahrstunde**
 
 ![Bild Aufgabe Fahrstunde](assets/aufgabeFahrstunde.png)
-
+<div>
 Dein Fahrlehrer erhöht die Kosten für eine Fahrstunde.  
+<br>
 Jetzt zahlst du 1,80 € mehr – das entspricht einer Erhöhung von 6 %.  
-
+<br>
 ***Wie hoch war der ursprüngliche Preis pro Fahrstunde (Grundwert)?***  
-
+</div>
 ~~Antwortsatz:~~  
 
 Der ursprüngliche Fahrstundenpreis betrug [[30]] €.  
