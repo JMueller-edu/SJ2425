@@ -454,9 +454,9 @@ timeline
 
 >**Stellt euch vor, ihr müsst eine Woche lang ohne Laptop, Smartphone oder Tablet auskommen – wie würde euer Alltag aussehen?**
 
->**Schaut euch kurz die Geräte um euch herum an – wer hat ein Smartphone oder Laptop dabei? Warum habt ihr euch genau für dieses Gerät entschieden?**
+>**Schaut euch kurz die Geräte um euch herum an – wer hat ein Smartphone oder Laptop dabei? Warum habt ihr euch genau für diese Gerät entschieden?**
 
-Willkommen in der Welt der mobilen Technologie! Dieses Kapitel zeigt dir, was moderne Geräte wie Laptops, Smartphones, Tablets und Wearables so besonders macht. Entdecke, wie sie funktionieren, was sie einzigartig macht und wie sie unser Leben revolutionieren. Egal, ob du ein Technikfreak bist oder einfach nur neugierig, was in deinem Smartphone oder Laptop steckt – hier findest du spannende Einblicke in die Technologien, die uns überall begleiten.
+Willkommen in der Welt der mobilen Technologie! diese Kapitel zeigt dir, was moderne Geräte wie Laptops, Smartphones, Tablets und Wearables so besonders macht. Entdecke, wie sie funktionieren, was sie einzigartig macht und wie sie unser Leben revolutionieren. Egal, ob du ein Technikfreak bist oder einfach nur neugierig, was in deinem Smartphone oder Laptop steckt – hier findest du spannende Einblicke in die Technologien, die uns überall begleiten.
 
 ---
 
@@ -474,7 +474,7 @@ Willkommen in der Welt der mobilen Technologie! Dieses Kapitel zeigt dir, was mo
 
     - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
 
-    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+    - ***Du kannst dafür diese [Vorlage](assets/cornellNotes.pdf) verwenden***
    
 ---
 
@@ -698,7 +698,7 @@ Stell dir vor, du kannst deinen Laptop so anpassen, dass er perfekt auf dich zug
 
     - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
 
-    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+    - ***Du kannst dafür diese [Vorlage](assets/cornellNotes.pdf) verwenden***
 
 ---
 
@@ -938,7 +938,7 @@ Bist du bereit, deinen Laptop von innen kennenzulernen? In diesem Kapitel tauchs
 
     - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
 
-    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+    - ***Du kannst dafür diese [Vorlage](assets/cornellNotes.pdf) verwenden***
 
 ---
 
@@ -1204,7 +1204,7 @@ Tauche ein in die faszinierende Welt der mobilen Hardware! Smartphones, Tablets 
 
     - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
 
-    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+    - ***Du kannst dafür diese [Vorlage](assets/cornellNotes.pdf) verwenden***
 
 ---
 
@@ -1290,7 +1290,7 @@ Ob beim Chatten, Zocken oder Streamen – eine stabile Netzwerkverbindung ist he
 
     - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
 
-    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+    - ***Du kannst dafür diese [Vorlage](assets/cornellNotes.pdf) verwenden***
 </section>
 
 ---
@@ -1409,7 +1409,7 @@ Ein Laptop oder Smartphone ist wie ein Auto – ohne regelmäßige Wartung sinkt
 
     - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
 
-    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+    - ***Du kannst dafür diese [Vorlage](assets/cornellNotes.pdf) verwenden***
 </section>
 
 ---
@@ -1538,7 +1538,7 @@ Fehlermeldungen, Abstürze oder langsame Geräte – irgendwann trifft es jeden.
 
     - ***Erstelle dir dabei Notizen nach der [Cornell-Methode](https://www.youtube.com/watch?v=nX-xshA_0m8)*** 
 
-    - ***Du kannst dafür dieses [Vorlage](assets/cornellNotes.pdf) verwenden***
+    - ***Du kannst dafür diese [Vorlage](assets/cornellNotes.pdf) verwenden***
 </section>
 
 ---

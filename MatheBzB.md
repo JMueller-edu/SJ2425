@@ -2183,39 +2183,18 @@ Der ursprüngliche Monatsbeitrag betrug [[30]] €.
 
 ### S8 Gemischte Anwendungsaufgaben zur Prozentrechnung
 
-#### 1) Handyvertrag
+         {{1-2}}
+<section>
 
-<section class="flex-container">
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Aufgabe:~~  
+**1) Handyvertrag**
 
 ![Bild Aufgabe Handyvertrag](assets/aufgabeHandyvertrag.png)
 
-Dein Handyvertrag kostet normalerweise 20 € im Monat.  
+Dein Handyvertrag kostet normalerweise 20 € im Monat.
+
 Durch eine Sonderaktion sparst du nun 3 € pro Monat.  
 
 ***Wie viel Prozent Ermäßigung entspricht das (Prozentsatz)?***  
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Rechenweg:~~
-
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1865.1002.wmYMD7-EkJZk-jtZLXpPV)<!--
-style = "height: 500px;
-         border: 2px solid;"
-class = "animated infinite bounce"
--->
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
 
 ~~Antwortsatz:~~  
 
@@ -2231,42 +2210,22 @@ Du erhältst eine Ermäßigung von [[15]] %.
 | 3. Auf die gesuchte Anzahl umrechnen | × 3        | 15 %        | 3 €      | 5 % × 3 = 15 %   |
 *********************************************************************************
 
-</div>
+---
+
 </section>
 
-#### 2) Kinoabend
+         {{2-3}}
 
-<section class="flex-container">
+<section>
 
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Aufgabe:~~  
-
+**2) Kinoabend**
+  
 ![Bild Aufgabe Kinoabend](assets/aufgabeKinoabend.png)
 
 Du möchtest ins Kino und erhältst auf das Ticket eine Ermäßigung von 25 %.  
 Dadurch bezahlst du nur noch 6 € statt des regulären Preises.  
 
 ***Wie hoch ist der reguläre Ticketpreis (Grundwert)?***  
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Rechenweg:~~
-
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1865.1002.eP0AxgMM9aLns5I19o0oW)<!--
-style = "height: 500px;
-         border: 2px solid;"
-class = "animated infinite bounce"
--->
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
 
 ~~Antwortsatz:~~  
 
@@ -2282,17 +2241,15 @@ Der reguläre Ticketpreis beträgt [[8]] €.
 | 3. Auf die gesuchte Anzahl umrechnen | × 100      | 100 %       | 8 €      | 0,08 € × 100 = 8 € |
 *********************************************************************************
 
-</div>
+---
+
 </section>
 
-#### 3) Gaming-Tastatur
+         {{3-4}}
 
-<section class="flex-container">
+<section>
 
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Aufgabe:~~  
+**3) Gaming-Tastatur**
 
 ![Bild Aufgabe Gaming-Tastatur](assets/aufgabeTastatur.png)
 
@@ -2300,24 +2257,6 @@ Dein Freund hat sich eine neue Gaming-Tastatur für 50 € gekauft.
 Er sagt, dank einer Gutscheinaktion habe er 20 % des Preises gespart.  
 
 ***Wie viel Euro hat er gespart (Prozentwert)?***  
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Rechenweg:~~
-
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1865.1002.WbW6uUwpDO-6tK2fveaS_)<!--
-style = "height: 500px;
-         border: 2px solid;"
-class = "animated infinite bounce"
--->
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
 
 ~~Antwortsatz:~~  
 
@@ -2333,42 +2272,22 @@ Er hat [[10]] € gespart.
 | 3. Auf die gesuchte Anzahl umrechnen | × 20       | 20 %        | 10 €     | 0,50 € × 20 = 10 €  |
 *********************************************************************************
 
-</div>
+---
+
 </section>
 
-#### 4) Kleidungsrabatt
+         {{4-5}}
 
-<section class="flex-container">
+<section>
 
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Aufgabe:~~  
-
+**4) Kleidungsrabatt**
+  
 ![Bild Aufgabe Kleidungsrabatt](assets/aufgabeKleidungsrabatt.png)
 
 Du hast ein T-Shirt für 15 € gekauft.  
 Normalerweise kostet es 25 €.  
 
 ***Welchen prozentualen Rabatt hast du erhalten (Prozentsatz)?***  
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Rechenweg:~~
-
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1865.1002.CL_ovfvHJ51VmD7thV0rE)<!--
-style = "height: 500px;
-         border: 2px solid;"
-class = "animated infinite bounce"
--->
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
 
 ~~Antwortsatz:~~  
 
@@ -2384,17 +2303,15 @@ Der Rabatt beträgt [[40]] %.
 | 3. Auf die gesuchte Anzahl umrechnen | ...        | ...         | ...      | ...                   |
 *********************************************************************************	
 
-</div>
+---
+
 </section>
 
-#### 5) Fahrstunde
+         {{5}}
 
-<section class="flex-container">
+<section>
 
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Aufgabe:~~  
+**5) Fahrstunde**
 
 ![Bild Aufgabe Fahrstunde](assets/aufgabeFahrstunde.png)
 
@@ -2402,24 +2319,6 @@ Dein Fahrlehrer erhöht die Kosten für eine Fahrstunde.
 Jetzt zahlst du 1,80 € mehr – das entspricht einer Erhöhung von 6 %.  
 
 ***Wie hoch war der ursprüngliche Preis pro Fahrstunde (Grundwert)?***  
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
-
-~~Rechenweg:~~
-
-??[Platz für den Rechenweg](https://www.tldraw.com/f/3nr6iTOrJiR3R0J4Qx8u2?d=v0.0.1865.1002.WSwc3emPjIKeJ8I4DaTUZ)<!--
-style = "height: 500px;
-         border: 2px solid;"
-class = "animated infinite bounce"
--->
-
-</div>
-
-<!-- class="flex-child" style="min-width: 500px" -->
-<div>
 
 ~~Antwortsatz:~~  
 
@@ -2435,7 +2334,8 @@ Der ursprüngliche Fahrstundenpreis betrug [[30]] €.
 | 3. Auf 100 % schließen        | × 100      | 100 %       | 30 €     | 0,30 € × 100 = 30 € |
 *********************************************************************************
 
-</div>
+---
+
 </section>
 
 ## Umfang und Flächeninhalte
