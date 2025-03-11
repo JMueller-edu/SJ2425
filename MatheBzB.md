@@ -2371,7 +2371,7 @@ Das Ticket kostet 50,00 € und es gibt einen Rabatt von 20 %.
 
 ~~Antwortsatz:~~  
 
-Der Rabatt beträgt [[10,00]] €.  
+Der Rabatt beträgt [[10]] €.  
 [[?]] 1. Grundwert festlegen (100 % entsprechen 50,00 €)  
 [[?]] 2. 1 % berechnen (50,00 € ÷ 100 = 0,50 €)  
 [[?]] 3. Prozentwert ermitteln (0,50 € × 20 = 10,00 €)
@@ -2429,7 +2429,7 @@ In einem Mode-Outlet erhältst du beim Kauf eines Pullovers einen Rabatt von 30�
 
 ~~Antwortsatz:~~  
 
-Der ursprüngliche Preis betrug [[40,00]] €.  
+Der ursprüngliche Preis betrug [[40]] €.  
 [[?]] 1. Wertepaar finden (30 % entsprechen 12,00 €)  
 [[?]] 2. Auf 1 % umrechnen (12,00 € ÷ 30 = 0,40 €)  
 [[?]] 3. Auf 100 % schließen (0,40 € × 100 = 40,00 €)
@@ -2487,7 +2487,7 @@ Beim Kauf eines gebrauchten Fahrrads, das ursprünglich 150,00 € kostet, erh
 
 ~~Antwortsatz:~~  
 
-Du sparst [[15,00]] €.  
+Du sparst [[15]] €.  
 [[?]] 1. Grundwert festlegen (100 % entsprechen 150,00 €)  
 [[?]] 2. 1 % berechnen (150,00 € ÷ 100 = 1,50 €)  
 [[?]] 3. Prozentwert ermitteln (1,50 € × 10 = 15,00 €)
@@ -2516,7 +2516,7 @@ Du möchtest dir ein neues Smartphone kaufen. Statt **500,00 €** zahlst du i
 
 ~~Antwortsatz:~~  
 
-Du sparst [[50,00]] €.  
+Du sparst [[50]] €.  
 [[?]] 1. Grundwert festlegen (100 % entsprechen 500,00 €)  
 [[?]] 2. 1 % berechnen (500,00 € ÷ 100 = 5,00 €)  
 [[?]] 3. Prozentwert ermitteln (5,00 € × 10 = 50,00 €)  
@@ -2545,7 +2545,7 @@ Beim Kauf eines Gaming-Headsets erhältst du einen Rabatt von **20 %** und spa
 
 ~~Antwortsatz:~~  
 
-Der ursprüngliche Preis betrug [[40,00]] €.  
+Der ursprüngliche Preis betrug [[40]] €.  
 [[?]] 1. Wertepaar finden (20 % entsprechen 8,00 €)  
 [[?]] 2. 1 % berechnen (8,00 € ÷ 20 = 0,40 €)  
 [[?]] 3. Auf 100 % schließen (0,40 € × 100 = 40,00 €)  
