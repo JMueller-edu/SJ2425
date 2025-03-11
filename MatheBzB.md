@@ -7,7 +7,7 @@ icon: assets/BSO_LOGO_1.png
 
 email:  Jan.Mueller4@schule.hessen.de
 
-version:  0.1.0
+version:  0.1.1
 
 language: Deutsch
 
