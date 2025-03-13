@@ -45,7 +45,7 @@ Der Prozentsatz gibt den Anteil des Prozentwertes vom Grundwert in Prozent an.
 ////
 ====
 [.text-right]
-[.pre-wrap .big]#`\_______`/2 Pkt.#
+[.pre-wrap]#`\_______`/2 Pkt.#
 
 <<<
 
@@ -131,6 +131,7 @@ Das bedeutet, er hat 30 Punkte erreicht.
 | {empty} +
 
 |===
+
 === 3) Shopping
 
 [caption="Aufgabe"]
@@ -176,15 +177,9 @@ _Fülle die folgende Tabelle richtig aus!_
 |
 
 |===
-====
-
-[caption="Antwortsatz"]
-.:
-====
-Lena spart [.pre-wrap .big]#`**\______\______**`# durch den Rabatt.
-====
 
 ////
+
 [cols=">1,^2,^2,<1"]
 |===
 |Faktor|Prozent|Preis|Faktor
@@ -210,9 +205,17 @@ Lena spart [.pre-wrap .big]#`**\______\______**`# durch den Rabatt.
 |
 
 |===
-
-Lena spart 15€ durch den Rabatt.
 ////
+
+====
+
+[caption="Antwortsatz"]
+.:
+====
+Lena spart [.pre-wrap .big]#`**\______\______**`# durch den Rabatt.
+====
+
+//Lena spart 15€ durch den Rabatt.
 
 [.text-right]
 [.pre-wrap]#`\_______`/3 Pkt.#
@@ -539,4 +542,3 @@ Lehrkraft
 ====
 [.text-right]
 Erziehungsberechtigter
-
