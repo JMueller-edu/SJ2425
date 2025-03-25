@@ -2589,6 +2589,9 @@ Die Preissteigerung beträgt [[20]] %.
 
 ## Umfang und Flächeninhalte
 
+??[text](assets/uebungsklausurBruecheBzB.xopp.bg_kommentiert.pdf)
+
+
 ## Oberflächen und Rauminhalte
 
 ## Diagramme
