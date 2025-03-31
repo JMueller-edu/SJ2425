@@ -2352,6 +2352,8 @@ Der ursprüngliche Fahrstundenpreis betrug [[30]] €.
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 </section>
 
          {{6-7}}
@@ -2383,6 +2385,10 @@ Der Rabatt beträgt [[10]] €.
 | 3. Prozentwert ermitteln | × 20       | 20 %        | 10,00 €  | 0,50 € × 20 = 10,00 €  |
 *********************************************************************************
 
+---
+
+<div style="page-break-after: always;"></div>
+
 </section>
 
          {{7-8}}
@@ -2411,6 +2417,10 @@ Der Rabatt entspricht [[15]] %.
 | 2. 1 % berechnen         | : 100      | 1 %         | 0,60 €   | 60,00 € ÷ 100 = 0,60 € |
 | 3. Prozentsatz ermitteln | ÷          | –           | 15 %     | 9,00 € ÷ 0,60 € = 15 % |
 *********************************************************************************
+
+---
+
+<div style="page-break-after: always;"></div>
 
 </section>
 
@@ -2441,6 +2451,10 @@ Der ursprüngliche Preis betrug [[40]] €.
 | 3. Auf 100 % schließen | × 100      | 100 %       | 40,00 €  | 0,40 € × 100 = 40,00 € |
 *********************************************************************************
 
+---
+
+<div style="page-break-after: always;"></div>
+
 </section>
 
          {{9-10}}
@@ -2470,6 +2484,10 @@ Der Rabatt entspricht [[25]] %.
 | 3. Prozentsatz ermitteln | ÷          | –           | 25 %     | 2,50 € ÷ 0,10 € = 25 % |
 *********************************************************************************
 
+---
+
+<div style="page-break-after: always;"></div>
+
 </section>
 
          {{10-11}}
@@ -2498,6 +2516,11 @@ Du sparst [[15]] €.
 | 2. 1 % berechnen         | : 100      | 1 %         | 1,50 €   | 150,00 € ÷ 100 = 1,50 € |
 | 3. Prozentwert ermitteln | × 10       | 10 %        | 15,00 €  | 1,50 € × 10 = 15,00 €   |
 *********************************************************************************
+
+---
+
+<div style="page-break-after: always;"></div>
+
 </section>
 
 
@@ -2527,6 +2550,11 @@ Du sparst [[50]] €.
 | 2. 1 % berechnen         | : 100      | 1 %         | 5,00 €   | 500,00 € ÷ 100 = 5,00 € |
 | 3. Prozentwert ermitteln | × 10       | 10 %        | 50,00 €  | 5,00 € × 10 = 50,00 €   |
 *********************************************************************************
+
+---
+
+<div style="page-break-after: always;"></div>
+
 </section>
 
 
@@ -2556,6 +2584,11 @@ Der ursprüngliche Preis betrug [[40]] €.
 | 2. 1 % berechnen       | : 20       | 1 %         | 0,40 €   | 8,00 € ÷ 20 = 0,40 €   |
 | 3. Auf 100 % schließen | × 100      | 100 %       | 40,00 €  | 0,40 € × 100 = 40,00 € |
 *********************************************************************************
+
+---
+
+<div style="page-break-after: always;"></div>
+
 </section>
 
 
