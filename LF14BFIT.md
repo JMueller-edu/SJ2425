@@ -1646,3 +1646,33 @@ Fehlermeldungen, Abstürze oder langsame Geräte – irgendwann trifft es jeden.
 
 </details>  
 </section>  
+
+### Digitalführerschein
+
+![alt text](image.png)
+
+**Erklärung:**
+
+         {{1}}
+Der DsiN-Digitalführerschein (DiFü) ist ein bundesweit einheitliches Weiterbildungs- und Zertifizierungsangebot mit Fokus auf relevante Themenbereiche rund um den digitalen Alltag. Gefördert durch Mittel des Bundesministeriums des Innern und für Heimat (BMI) hat Deutschland sicher im Netz e. V. den DiFü entwickelt, um ein Format zu schaffen, das den Stand der individuellen digitalen Kompetenz aufzeigt und für Dritte (wie beispielsweise Arbeitgeber:innen) nachvollziehbar macht.  
+
+**Einzelarbeit:**
+
+         {{2}}
+<section>   
+
+1. Öffne über den folgenden Link die [Lernzentrale des DiFüs](https://difue.de/lernzentrale/)
+2. Wechsel in dieser zum `beruflichen Kontext`.
+3. Starte in diesem die Leveleinschätzung.
+4. Wechsel nun in den jeweils passenden Level für dich.
+5. Führe dort die ersten vier Module (Geräte, Internet, Kommunikation und Technologiealltag) durch.
+
+</section>  
+
+**Fazit:**
+
+         {{3}}
+1. Was hast du beim Digitalführerschein Neues über den Umgang mit digitalen Medien gelernt?
+
+         {{4}}
+2. Welche Inhalte aus dem Digitalführerschein kannst du direkt in deinem Alltag anwenden?
