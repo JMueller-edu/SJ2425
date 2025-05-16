@@ -2633,11 +2633,8 @@ body
 
 </details>
 
-
-
 ## Fläche und Volumen berechnen – einfache Erklärung
 
-<div style="text-align: justify;">
 In diesem Kapitel erfährst du Schritt für Schritt, wie man erst **Flächen** von einfachen Formen (Quadrat und Rechteck) berechnet und darauf aufbauend das **Volumen** von Körpern bestimmt. 
 
 Wir starten mit den Grundlagen und verwenden Beispiele aus dem **Alltag** (z. B. Notizzettel, Kartons, Schuhkartons), um alles anschaulich zu machen. 
@@ -2645,11 +2642,10 @@ Wir starten mit den Grundlagen und verwenden Beispiele aus dem **Alltag** (z. 
 Jedes Kapitel enthält eine **Einführung**, ein **Beispiel mit Rechnung**, eine **grafische Darstellung** zur Veranschaulichung sowie **Übungsaufgaben mit Lösungen**. 
 
 Die Erklärungen sind in **einfacher Sprache** gehalten, damit du auch ohne Vorkenntnisse alles gut verstehen kannst.
-</div>
+
 
 ### Fläche eines Quadrats
 
-<div style="text-align: justify;">
 
       {{0-1}}
 <section>
@@ -2662,6 +2658,9 @@ Man kann sich das vorstellen wie ein kleines **quadratisches Notizzettel** oder 
 Die Fläche sagt dir, wie viel Platz dieser Zettel oder die Fliese auf dem Tisch oder Boden bedeckt. 
 
 Alle Seiten des Quadrats sind gleich lang – das ist eine Besonderheit des Quadrats.
+
+----
+
 </section>
 
      {{1-2}}
@@ -2699,14 +2698,15 @@ Man schreibt auch kurz $A = a \cdot a = a^2$ (A steht für Fläche, *a* für die
 
 </details>
 
+----
+
 </section>
-      {{2-4}}
-**Übungsaufgaben:**
+
 
       {{2-3}}
 <section>
 
-1. **Aufgabe:** Ein quadratischer **Sticker** hat eine Seitenlänge von **5 cm**. 
+1. **Übungsaufgabe:** Ein quadratischer **Sticker** hat eine Seitenlänge von **5 cm**. 
    
     **Frage: Wie groß ist die Fläche des Stickers?**
 
@@ -2714,12 +2714,15 @@ Man schreibt auch kurz $A = a \cdot a = a^2$ (A steht für Fläche, *a* für die
 ***************************************************************
    **Lösung:** Seitenlänge = 5 cm. Fläche = 5 cm \* 5 cm = **25 cm²**. Der Sticker bedeckt eine Fläche von 25 Quadratzentimetern.
 ***************************************************************
+
+----
+
 </section>
 
       {{3-4}}
 <section>
 
-2. **Aufgabe:** Male in dein Heft ein **Quadrat** mit Seitenlänge **4 cm** (verwende Kästchenpapier, wenn möglich). 
+2. **Übungsaufgabe:** Male in dein Heft ein **Quadrat** mit Seitenlänge **4 cm** (verwende Kästchenpapier, wenn möglich). 
 
     **Frage:** Schätze zunächst die Fläche und berechne sie dann genau.
 
@@ -2727,10 +2730,15 @@ Man schreibt auch kurz $A = a \cdot a = a^2$ (A steht für Fläche, *a* für die
 ***************************************************************
    **Lösung:** Geschätzt sieht das Quadrat etwas größer aus als eine 1 €‐Münze. Genaue Rechnung: 4 cm \* 4 cm = **16 cm²**. Dein gezeichnetes Quadrat hat also eine Fläche von 16 Quadratzentimetern.
 ***************************************************************
+
+----
+
 </section>
-</div>
 
 ### Fläche eines Rechtecks
+
+        {{0-1}}
+<section>
 
 **Einführung:** 
 
@@ -2741,26 +2749,61 @@ Ein *Rechteck* ist ebenfalls eine flache Form mit vier Ecken, aber hier sind **g
 Stell dir ein **Buch** vor, das ein rechteckiges **Buchcover** hat. Angenommen, das Cover ist **20 cm lang** und **15 cm breit**. Wie groß ist die Fläche des Covers? Für ein Rechteck gilt: **Fläche = Länge \* Breite**. Also rechnen wir:
 
 * Länge = 20 cm, Breite = 15 cm
-* Fläche = 20 cm \* 15 cm = **300 cm²**
+* Fläche = 20 cm $\cdot$ 15 cm = **300 cm²**
 
-**Erklärung der Rechnung:** 
+<details>
+<summary> **Erklärung der Rechnung:** </summary>
+
 
 Warum Länge mal Breite? Du kannst dir das Rechteck ebenfalls in **kleine Quadrate** (1 cm x 1 cm) aufgeteilt denken. In einer Reihe entlang der Länge passen 20 Einheitsquadrate. Und es gibt 15 solche Reihen übereinander in der Breite. Insgesamt wären das 20 \* 15 = 300 Einheits-Quadrate, also 300 cm² Fläche. Allgemein rechnet man beim Rechteck: $A = \text{Länge} \cdot \text{Breite}$. (Manchmal werden die Seiten auch mit *a* und *b* bezeichnet: $A = a \cdot b$.) Diese Formel ist im Grunde eine Erweiterung der Quadrat-Formel – beim Quadrat sind Länge und Breite ja gleich.
 
 &#x20;*Abb. 2: Fläche eines Rechtecks. Die gegenüberliegenden Seiten sind gleich lang (hier Länge $b$, Breite $a$). Die Formel für die Fläche lautet $A = a \cdot b$. Im gezeigten Beispiel wäre $a = 15 cm$, $b = 20 cm$ und $A = 300 cm^2$.*
 
-**Übungsaufgaben (Rechteck):**
+</details>
 
-1. **Aufgabe:** Dein **Handy-Display** ist ungefähr ein Rechteck mit **14 cm** Länge und **7 cm** Breite. *a)* Wie groß ist die Fläche des Displays in cm²? *b)* Was sagt diese Fläche aus?
-   **Lösung:** a) Fläche = 14 cm \* 7 cm = **98 cm²**.
-   b) Das Display hat eine Fläche von 98 Quadratzentimetern. Das bedeutet, es bedeckt auf einer Oberfläche (z. B. dem Handy) einen Bereich von 98 Quadratzentimetern.
+----
+</section>
 
-2. **Aufgabe:** Ein **Rechteck** hat eine Fläche von **24 cm²**. Eine Seite ist **6 cm** lang. Wie lang ist die andere Seite? (Tipp: Überlege, mit welcher Zahl mal 6 das Ergebnis 24 ergibt.)
-   **Lösung:** Gesucht ist die Breite $b$, so dass 6 cm \* $b$ = 24 cm². Das löst man durch **Teilen**: $b = 24 / 6 = 4$. Die andere Seite ist also **4 cm** lang (denn 6 \* 4 = 24).
+        {{1-2}}
+<section>
+
+1. **Übungsaaufgabe:** 
+   
+   Dein **Handy-Display** ist ungefähr ein Rechteck mit **14 cm** Länge und **7 cm** Breite. 
+   
+    **Wie groß ist die Fläche des Displays in cm²?**
+
+   **Antwortsatz:**
+
+   Die Fläche des Displays beträgt [[ 98 ]] cm².
+*************************************************************** 
+   **Lösung:** Fläche = 14 cm \* 7 cm = **98 cm²**.
+***************************************************************
+
+----
+
+</section>
+
+        {{2-3}}
+<section>
+
+2. **Übungsaufgabe:** 
+
+    Ein **Rechteck** hat eine Fläche von **24 cm²**. Eine Seite ist **6 cm** lang. 
+
+    **Wie lang ist die andere Seite? (Tipp: Überlege, mit welcher Zahl mal 6 das Ergebnis 24 ergibt.)**
+   
+   Antwortsatz: Die andere Seite ist [[ 4 ]] cm lang.
+***************************************************************  
+   *Lösung:** Gesucht ist die Breite $b$, so dass 6 cm \* $b$ = 24 cm². 
+   Das löst man durch **Teilen**: $b = 24 / 6 = 4$. Die andere Seite ist also **4 cm** lang (denn 6 \* 4 = 24).
+***************************************************************
+
+----
+</section>
 
 ### Volumen eines einfachen Körpers (Quader/Würfel)
 
-<div style="text-align: justify;">
 
      {{0-1}}
 <section>
@@ -2777,9 +2820,10 @@ Die Maße eines Quaders sind **Länge, Breite und Höhe** (oft mit *a*, *b*, *c*
 
 Ein Spezialfall des Quaders ist der **Würfel** – dort sind Länge, Breite, Höhe alle gleich (wie bei einem Rubik’s Cube oder einem Spielwürfel).
 
+---
+
 </section>
 
----
 
         {{1-2}}
 <section>
@@ -2793,7 +2837,7 @@ Betrachten wir einen **Schuhkarton**. Angenommen, der Karton ist **30 cm lang**
 Für Quader (und Würfel) gilt: **Volumen = Länge \* Breite \* Höhe**. Wir setzen also die Werte ein:
 
 * Länge = 30 cm, Breite = 20 cm, Höhe = 10 cm
-* Volumen = 30 cm \* 20 cm \* 10 cm = **6 000 cm³**
+* Volumen = 30 cm $\cdot$ 20 cm $\cdot$ 10 cm = **6 000 cm³**
 
 <details>
 <summary> **Erklärung der Rechnung:** </summary>
@@ -2810,9 +2854,10 @@ Jeder Würfel steht für 1 cm³, also hat der Schuhkarton Platz für **6000 cm
 
 </details>
 
+----
+
 </section>
 
---- 
 
         {{2-3}}
 <section>
@@ -2827,9 +2872,10 @@ Jeder Würfel steht für 1 cm³, also hat der Schuhkarton Platz für **6000 cm
 ***************************************************************
    **Lösung:** Bei einem Würfel gilt $V = a^3$. Hier ist $a = 5 cm$. Also $V = 5 cm * 5 cm * 5 cm = 125 cm³$. Der Würfel hat ein Volumen von **125 Kubikzentimetern**.
 ***************************************************************
-</section>
 
 ---
+
+</section>
 
         {{3-4}}
 <section>
@@ -2855,9 +2901,10 @@ Jeder Würfel steht für 1 cm³, also hat der Schuhkarton Platz für **6000 cm
 ***************************************************************
     **Lösung:** 1 Liter Wasser entspricht 1000 cm³. Das Aquarium hat also Platz für 20 000 cm³ = 20 Liter Wasser (denn 20 000 cm³ ÷ 1000 cm³/Liter = 20 Liter).
 ***************************************************************
-</section>
 
 ---
+
+</section>
 
         {{4-5}}
 <section>
@@ -2872,9 +2919,11 @@ Jeder Würfel steht für 1 cm³, also hat der Schuhkarton Platz für **6000 cm
 ***************************************************************
     **Lösung:** Volumen = 40 cm * 30 cm * 25 cm = 30 000 cm³. Der Bücherkarton hat also ein Volumen von **30 000 Kubikzentimetern**.
 ***************************************************************
-</section>
 
 ---
+
+</section>
+
 
         {{5-6}} 
 <section>
@@ -2889,13 +2938,14 @@ Jeder Würfel steht für 1 cm³, also hat der Schuhkarton Platz für **6000 cm
 ***************************************************************
     **Lösung:** Volumen = 3 cm \* 3 cm \* 3 cm = 27 cm³. Der Eiswürfel hat also ein Volumen von **27 Kubikzentimetern**.
 ***************************************************************
+
+---
+
 </section>
 
-</div>
 
 ### Volumen zusammengesetzter Formen
 
-<div style="text-align: justify;">
 
      {{0-1}}
 <section>
@@ -2920,7 +2970,7 @@ Schauen wir uns einen Körper an, der aus **zwei Quadern** besteht: einem flache
 
 Stellen wir uns vor, der **untere Quader** ist **6 cm lang**, **2 cm breit** und **2 cm hoch**. Darauf steht am linken Ende ein **zweiter Quader** mit **2 cm Länge**, **2 cm Breite** und **2 cm Höhe** (also ein kleiner Würfel) – dieser bildet den „Hochstand“ des L.
 
-![alt text](image-2.png)
+<img src="image-2.png" alt="Example Image" width="200" height="300">
 
 **Wie berechnen wir das Gesamtvolumen?** 
 
@@ -2955,7 +3005,7 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
    
    Ein Körper besteht aus **zwei Quadern**: Der erste Quader (unten) ist **5 cm lang**, **3 cm breit** und **2 cm hoch**. Auf seiner linken Hälfte steht ein zweiter Quader, der **2 cm lang**, **3 cm breit** und **3 cm hoch** ist (er bedeckt also einen Teil der Grundfläche des unteren Quaders). 
    
-    ![alt text](image-3.png)
+    <img src="image-3.png" alt="Example Image" width="200" height="300">
    
    *a)* Berechne das Volumen **jedes** der beiden Quader.
    
@@ -2986,12 +3036,12 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
 
     Die Figur besteht aus zwei Quadern, die zusammen eine L-Form bilden.
 
-    ![alt text](image-4.png)
+    <img src="image-4.png" alt="Example Image" width="200" height="300">
 
     **Berechne das Gesamtvolumen der Figur!**
 
     **Antwortsatz:** 
-    
+
     Das Gesamtvolumen der Figur beträgt [[ 26 ]] cm³
 *************************************************************
    1. **Zerlege** die Figur in zwei Quader:
@@ -3008,6 +3058,7 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
         Gesamtvolumen = 20 cm³ + 6 cm³ = **26 cm³**
 **************************************************************
 
+
 ---
 
 </section>
@@ -3023,7 +3074,7 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
    * Der **große Karton** (unten): 4 cm lang, 3 cm breit, 2 cm hoch
    * Der **kleine Ausgießer oben drauf**: 1 cm lang, 3 cm breit, 2 cm hoch
 
-    ![alt text](image-5.png)
+    <img src="getraenkekarton.png" alt="Example Image" width="200" height="300">
 
     **Wie viel Inhalt (in cm³) passt insgesamt in den Karton?**
 
@@ -3043,8 +3094,6 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
 ---
 
 </section>
-
-</div>
 
 ## Diagramme
 
