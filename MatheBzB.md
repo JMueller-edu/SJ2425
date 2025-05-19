@@ -2670,7 +2670,7 @@ Alle Seiten des Quadrats sind gleich lang – das ist eine Besonderheit des Quad
 
 Stell dir einen quadratischen **Notizzettel** vor, der an jeder Seite **10 cm** lang ist. 
 
-![Fläche eines Quadrat](image-1.png)
+![Fläche eines Quadrat](assets/flaechequadrat.png)
 
 **Wie groß ist seine Fläche?** 
 
@@ -2697,6 +2697,10 @@ Allgemein gilt für ein Quadrat:
 Man schreibt auch kurz $A = a \cdot a = a^2$ (A steht für Fläche, *a* für die Seitenlänge).
 
 </details>
+
+**Videotutorial:**
+
+!?[Videotutorial von Lehrer Schmidt zum Berechnen von Umfang und Flächeninhaltes eines Quadrats](https://youtu.be/wrNIhANQIUE?feature=shared "[Videotutorial von Lehrer Schmidt zum Berechnen von Umfang und Flächeninhaltes eines Quadrats](https://youtu.be/wrNIhANQIUE?feature=shared)")
 
 ----
 
@@ -2858,8 +2862,18 @@ Jeder Würfel steht für 1 cm³, also hat der Schuhkarton Platz für **6000 cm
 
 </section>
 
-
         {{2-3}}
+<section>
+
+**Videotutorial:**
+
+!?[Videotutorial von Lehrer Schmidt zum Berechnen des Volumens eines Quaders](https://youtu.be/yCORC007Ytc?feature=shared "[Videotutorial von Lehrer Schmidt zum Berechnen des Volumens eines Quaders](https://youtu.be/yCORC007Ytc?feature=shared)")
+
+
+</section>
+
+
+        {{3-4}}
 <section>
 
 1. **Übungsaufgabe:** 
@@ -2877,7 +2891,7 @@ Jeder Würfel steht für 1 cm³, also hat der Schuhkarton Platz für **6000 cm
 
 </section>
 
-        {{3-4}}
+        {{4-5}}
 <section>
 
 2. **Übungsaufgabe:** 
@@ -2906,7 +2920,7 @@ Jeder Würfel steht für 1 cm³, also hat der Schuhkarton Platz für **6000 cm
 
 </section>
 
-        {{4-5}}
+        {{5-6}}
 <section>
 
 3. **Übungsaufgabe:**
@@ -2925,7 +2939,7 @@ Jeder Würfel steht für 1 cm³, also hat der Schuhkarton Platz für **6000 cm
 </section>
 
 
-        {{5-6}} 
+        {{6-7}} 
 <section>
 
 4. **Übungsaufgabe:**
@@ -2970,7 +2984,7 @@ Schauen wir uns einen Körper an, der aus **zwei Quadern** besteht: einem flache
 
 Stellen wir uns vor, der **untere Quader** ist **6 cm lang**, **2 cm breit** und **2 cm hoch**. Darauf steht am linken Ende ein **zweiter Quader** mit **2 cm Länge**, **2 cm Breite** und **2 cm Höhe** (also ein kleiner Würfel) – dieser bildet den „Hochstand“ des L.
 
-<img src="image-2.png" alt="Example Image" width="200" height="300">
+<img src="assets/zusammengestzterQuader.png" alt="Example Image" style="width:33%; height:auto;">
 
 **Wie berechnen wir das Gesamtvolumen?** 
 
@@ -3005,7 +3019,7 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
    
    Ein Körper besteht aus **zwei Quadern**: Der erste Quader (unten) ist **5 cm lang**, **3 cm breit** und **2 cm hoch**. Auf seiner linken Hälfte steht ein zweiter Quader, der **2 cm lang**, **3 cm breit** und **3 cm hoch** ist (er bedeckt also einen Teil der Grundfläche des unteren Quaders). 
    
-    <img src="image-3.png" alt="Example Image" width="200" height="300">
+    <img src="assets/LForm.png" alt="Example Image" style="width:33%; height:auto;">
    
    *a)* Berechne das Volumen **jedes** der beiden Quader.
    
@@ -3032,11 +3046,11 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
         {{3-4}}
 <section>
 
-   1. **Übungsaufgabe:**
+2. **Übungsaufgabe:**
 
     Die Figur besteht aus zwei Quadern, die zusammen eine L-Form bilden.
 
-    <img src="image-4.png" alt="Example Image" width="200" height="300">
+    <img src="assets/gestabelteQuader.png" alt="Example Image" style="width:33%; height:auto;">
 
     **Berechne das Gesamtvolumen der Figur!**
 
@@ -3066,7 +3080,7 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
         {{4-5}}
 <section>
 
-   1. **Übungsaufgabe: Getränkekarton mit aufgesetztem Ausgießer**
+3. **Übungsaufgabe: Getränkekarton mit aufgesetztem Ausgießer**
 
     Stell dir vor, du hast einen **Getränkekarton** mit einem **aufgesetzten Ausgießer** (z. B. wie bei einem Saftkarton mit Schraubverschluss).
     Der Karton besteht aus zwei Quadern:
@@ -3074,7 +3088,7 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
    * Der **große Karton** (unten): 4 cm lang, 3 cm breit, 2 cm hoch
    * Der **kleine Ausgießer oben drauf**: 1 cm lang, 3 cm breit, 2 cm hoch
 
-    <img src="getraenkekarton.png" alt="Example Image" width="200" height="300">
+    <img src="assets/getraenkekarton.png" alt="Example Image" style="width:33%; height:auto;">
 
     **Wie viel Inhalt (in cm³) passt insgesamt in den Karton?**
 
@@ -3093,6 +3107,95 @@ Allgemein gilt: Volumen von zusammengesetzten Körpern = Summe der Volumen der E
 
 ---
 
+</section>
+
+        {{5-6}}
+<section>
+
+4. **Übungsaufgabe: Werkzeugkiste mit Fach**
+
+    Eine Werkzeugkiste hat ein großes Fach unten und ein kleineres Fach oben.
+
+    <img src="assets/WerkzeugkistemitFach.png" alt="Abbildung: Werkzeugkiste mit Fach" style="width:33%; height:auto;">
+
+    Die Maße sind:
+
+    Unteres Fach: 30 cm lang, 20 cm breit, 15 cm hoch
+
+    Oberes Fach (aufgesetzt): 10 cm lang, 20 cm breit, 5 cm hoch
+
+    👉 Frage: Wie viel Volumen hat die gesamte Werkzeugkiste?
+
+    **Antwortsatz:**
+
+    Das Gesamtvolumen der Werkzeugkiste beträgt [[ 10000 ]] cm³.
+*************************************************************
+
+    Volumen unten = 30 × 20 × 15 = 9 000 cm³
+
+    Volumen oben = 10 × 20 × 5 = 1 000 cm³
+
+    Gesamtvolumen = 9 000 + 1 000 = 10 000 cm³
+
+*************************************************************
+---
+</section>
+
+        {{6-7}}
+<section>
+
+5. **Übungsaufgabe: Spielkonsole-Verpackung**
+
+    Eine Spielkonsole liegt in einer Verpackung mit zwei Ebenen:
+
+    <img src="assets/spielkonsoleVerpackung.png" alt="Abbildung: Spielkonsole-Verpackung" style="width:33%; height:auto;">
+
+    Unterer Karton: 40 cm × 30 cm × 10 cm
+
+    Oberer Aufsatz für Zubehör: 20 cm × 30 cm × 5 cm
+
+    👉 Frage: Wie viel Volumen nimmt die Verpackung insgesamt ein?
+
+    **Antwortsatz:**
+    Das Gesamtvolumen der Verpackung beträgt [[ 15000 ]] cm³.
+*************************************************************
+
+    Volumen Konsole = 40 × 30 × 10 = 12 000 cm³
+
+    Volumen Zubehörfach = 20 × 30 × 5 = 3 000 cm³
+
+    Gesamtvolumen = 12 000 + 3 000 = 15 000 cm³
+
+*************************************************************
+---
+</section>
+
+        {{7-8}}
+<section>
+
+6. **Übungsaufgabe: Badezimmerschrank**
+
+    Ein Badezimmerschrank besteht aus einem großen Schrankteil und einem kleinen oberen Regal:
+    
+    <img src="assets/badezimmerschrank.png" alt="Abbildung: Badezimmerschrank" style="width:33%; height:auto;">
+
+
+    Unterschrank: 50 cm × 40 cm × 60 cm
+
+    Aufsatzregal: 30 cm × 40 cm × 20 cm
+
+    👉 Frage: Wie viel Volumen hat der gesamte Schrank?
+
+    **Antwortsatz:**
+    Das Gesamtvolumen des Badezimmerschranks beträgt [[ 144000 ]] cm³.
+*************************************************************
+    Volumen Unterschrank = 50 × 40 × 60 = 120 000 cm³
+
+    Volumen Aufsatzregal = 30 × 40 × 20 = 24 000 cm³
+
+    Gesamtvolumen = 120 000 + 24 000 = 144 000 cm³  
+*************************************************************
+---
 </section>
 
 ## Diagramme
